@@ -1,0 +1,12 @@
+21459422
+Simple, Age-based Formula for Predicting Renal Length in Children.
+OBJECTIVE: To determine a simple, age based formula for predicting ideal renal length in children. Renal size is a valuable marker in the evaluation of children with urological disorders. Although many authors have described complex nomograms and multivariate formulas for determining renal size, we propose a simple and accurate formula. MATERIAL AND METHODS: All renal ultrasound (US) studies performed over a 9-year period in patients <18 years of age were retrospectively evaluated, excluding patients with a history of urinary tract disease or with abnormal renal US findings. RESULTS: Ultrasounds were performed in 778 children <18 years who met inclusion criteria. Sixty-one percent of the patient population was ?1 year of age at the time of the US. Forty-four percent of the children were male. In children 1 year of age or older, the formula was length (cm) = age (years) × 0.3 + 6, R(2) = .81. In infants younger than 1 year, renal length was poorly estimated by a simple age-based formula. CONCLUSION: Our proposed formula can be used to predict renal length in children older than 1 year.
+
+21095408
+Long-term follow-up and late complications following treatment of pediatric urologic disorders.
+Many pediatric urologic disorders have sequelae that may affect patients well into adulthood. Despite adequate treatment, many patients are at risk for progressive urologic deterioration years after surgical reconstruction. While many pediatric urologists follow their patients years after surgery, screening for late complications is a shared responsibility with primary care providers. This article discusses potential late complications and appropriate follow-up for patients who have a history of ureteral reimplantation, pyeloplasty, hypospadias repair, posterior urethral valve ablation, and intestinal interposition.
+
+20546878
+Complications associated with patient positioning in urologic surgery.
+The impact of patient positioning can be profound. Urological surgeons must often exercise strategic positioning in order to access retroperitoneal and pelvic organs. However, the potential for position-related morbidity, particularly peripheral neuropraxia and compartment syndrome can be substantial. The purpose of the following review is to summarize the current literature on positioning-related concerns as they pertain to the practicing urologist. To our knowledge, this is the first such review of its kind in the urological literature.
+

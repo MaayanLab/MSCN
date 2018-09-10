@@ -1,0 +1,4 @@
+21549318
+Human induced pluripotent stem cells: a new model for schizophrenia?
+Lack of patient tissue and relevant disease models have constrained progress toward discovering the causes of schizophrenia. Recently in Nature, Brennand et al. (2011) reprogram schizophrenia patient fibroblasts to derive four iPSC lines, perform subsequent neural differentiation, and provide early insights into a novel approach that may address these issues.
+

@@ -1,0 +1,4 @@
+21466632
+Hypertension in diabetes: treatment considerations.
+Treatment of blood pressure in the patient with diabetes remains a challenge. While data extrapolated from many trials seemed to imply that lower blood pressures leads to more favorable cardiovascular outcomes, this paper reviews newer trials designed to treat to blood pressure targets below 130/80 mmHg in patients with long term established diabetes, which showed that this goal may prove more harmful than helpful. In clinical practice this may be less relevant due to the fact that less than half of patients are even at the goal of 130/80. The interaction between glucose control and blood pressure control are also discussed, emphasizing the importance of multifactorial treatment.
+

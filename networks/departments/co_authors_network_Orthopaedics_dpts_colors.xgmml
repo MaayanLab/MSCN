@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="MAJESKA ROBERT RJ">
+<graphics fill="4618a2"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</node>
+<node id="2" label="SCHAFFLER MITCHELL MB">
+<graphics fill="4618a2"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</node>
+<node id="3" label="JEPSEN KARL KJ">
+<graphics fill="4618a2"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</node>
+<node id="4" label="TERRANOVA CARL CJ">
+<graphics fill="4618a2"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</node>
+<node id="5" label="HAUSMAN MICHAEL MR">
+<graphics fill="0b0167"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Orthopaedics;Surgery"/>
+</node>
+<node id="6" label="PARSONS BRADFORD BO">
+<graphics fill="4618a2"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</node>
+<node id="7" label="RADOMISLI TIMOTHY TE">
+<graphics fill="2efcc8"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR;ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Orthopaedics;Pediatrics"/>
+</node>
+<node id="8" label="HECHT ANDREW AC">
+<graphics fill="435014"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurosurgery;Orthopaedics"/>
+</node>
+<node id="9" label="QURESHI SHEERAZ SA">
+<graphics fill="4618a2"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</node>
+<node id="10" label="WITTIG JAMES JC">
+<graphics fill="4618a2"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</node>
+<node id="11" label="GHILLANI RICHARD R">
+<graphics fill="4618a2"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</node>
+<node id="12" label="MARTINS DAMION DA">
+<graphics fill="3287a5"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR;ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Medicine;Orthopaedics"/>
+</node>
+<node id="13" label="COLVIN ALEXIS AC">
+<graphics fill="4618a2"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</node>
+<node id="14" label="ZHOU ZUPING Z">
+<graphics fill="4618a2"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</node>
+<node id="15" label="ROSENBLATT MEG MA">
+<graphics fill="e968b6"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Orthopaedics"/>
+</node>
+<edge source="13" target="14" label="co-authorship: 20569237">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#4618a2" width="1.25"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="6" target="7" label="co-authorship: 17878776">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#4618a2" width="1.6666667"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 17878776 - co-authorship: 18841435">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#4618a2" width="4.166667"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="8" target="9" label="co-authorship: 19800298 - co-authorship: 20445364 - co-authorship: 20506945">
+<att name="weight" type="real" value="1.1666667"/>
+<graphics fill="#4618a2" width="5.833334"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="13" target="2" label="co-authorship: 20569237">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#4618a2" width="1.25"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17400654 - co-authorship: 18470577 - co-authorship: 19248169 - co-authorship: 19619004 - co-authorship: 20153826 - co-authorship: 20569237 - co-authorship: 20826544 - co-authorship: 21412429">
+<att name="weight" type="real" value="3.4166665"/>
+<graphics fill="#4618a2" width="17.083332"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="5" target="7" label="co-authorship: 17878776">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="4618a2" width="1.6666667"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="11" target="4" label="co-authorship: 20001599">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#4618a2" width="1.6666667"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="8" target="10" label="co-authorship: 19800298">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#4618a2" width="1.6666667"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="9" target="10" label="co-authorship: 19800298">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#4618a2" width="1.6666667"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="11" target="3" label="co-authorship: 20001599">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#4618a2" width="1.6666667"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="2" target="14" label="co-authorship: 20569237 - co-authorship: 20826544 - co-authorship: 21412429">
+<att name="weight" type="real" value="0.91666675"/>
+<graphics fill="#4618a2" width="4.583334"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="15" target="10" label="co-authorship: 21056818">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#4618a2" width="2.5"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="3" target="2" label="co-authorship: 18683881 - co-authorship: 19150422 - co-authorship: 19939387 - co-authorship: 20232150 - co-authorship: 21440062">
+<att name="weight" type="real" value="2.5"/>
+<graphics fill="#4618a2" width="12.5"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="3" target="1" label="co-authorship: 20200935">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#4618a2" width="2.5"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="12" target="9" label="co-authorship: 20445364">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#4618a2" width="1.6666667"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17557179 - co-authorship: 20001599">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#4618a2" width="4.166667"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="8" target="12" label="co-authorship: 20445364">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="4618a2" width="1.6666667"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="13" target="1" label="co-authorship: 20569237">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#4618a2" width="1.25"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+<edge source="1" target="14" label="co-authorship: 20569237 - co-authorship: 20826544 - co-authorship: 21412429">
+<att name="weight" type="real" value="0.91666675"/>
+<graphics fill="#4618a2" width="4.583334"/>
+<att name="departments" type="string" value="Orthopaedics"/>
+</edge>
+</graph>

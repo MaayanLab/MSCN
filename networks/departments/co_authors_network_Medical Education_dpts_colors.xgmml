@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="LAITMAN JEFFREY JT">
+<graphics fill="625f6f"/>
+<att name="functions" type="string" value="DISTINGUISHED PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education;Otolaryngology"/>
+</node>
+<node id="2" label="REIDENBERG JOY JS">
+<graphics fill="f33022"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education"/>
+</node>
+<node id="3" label="GLIGOROV NADA N">
+<graphics fill="f33022"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education"/>
+</node>
+<node id="4" label="RHODES ROSAMOND R">
+<graphics fill="f33022"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education"/>
+</node>
+<node id="5" label="MEAH YASMIN YS">
+<graphics fill="6b39a8"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education;Medicine"/>
+</node>
+<node id="6" label="THOMAS DAVID DC">
+<graphics fill="5e0ea5"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine;Medical Education;Rehabilitation Medicine"/>
+</node>
+<node id="7" label="RONAN EDWARD EJ">
+<graphics fill="da78f4"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education;Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="8" label="RIFKIN MARY MR">
+<graphics fill="f33022"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education"/>
+</node>
+<node id="9" label="PARKAS VALERIE V">
+<graphics fill="8c5af0"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Infectious Diseases;Medical Education"/>
+</node>
+<node id="10" label="SORIANO RAINIER RP">
+<graphics fill="faf6be"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine;Medical Education"/>
+</node>
+<node id="11" label="COPLIT LISA L">
+<graphics fill="1e59fe"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;DIRECTOR"/>
+<att name="departments" type="string" value="General Internal Medicine;Institute for Medical Education;Medical Education"/>
+</node>
+<node id="12" label="FRIEDMAN ERICA ES">
+<graphics fill="6b39a8"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education;Medicine"/>
+</node>
+<edge source="1" target="2" label="co-authorship: 17516445 - co-authorship: 17516447 - co-authorship: 18383278 - co-authorship: 18951477">
+<att name="weight" type="real" value="2.0"/>
+<graphics fill="#f33022" width="10.0"/>
+<att name="departments" type="string" value="Medical Education"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 19421973">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#f33022" width="2.5"/>
+<att name="departments" type="string" value="Medical Education"/>
+</edge>
+<edge source="8" target="7" label="co-authorship: 19642151">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#f33022" width="2.5"/>
+<att name="departments" type="string" value="Medical Education"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 19642148 - co-authorship: 20168011 - co-authorship: 21298472">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="f33022" width="7.5"/>
+<att name="departments" type="string" value="Medical Education"/>
+</edge>
+<edge source="9" target="10" label="co-authorship: 19967639">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="f33022" width="2.5"/>
+<att name="departments" type="string" value="Medical Education"/>
+</edge>
+<edge source="12" target="1" label="co-authorship: 20890950">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="f33022" width="2.5"/>
+<att name="departments" type="string" value="Medical Education"/>
+</edge>
+<edge source="11" target="10" label="co-authorship: 20881824">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="f33022" width="2.5"/>
+<att name="departments" type="string" value="Medical Education"/>
+</edge>
+</graph>

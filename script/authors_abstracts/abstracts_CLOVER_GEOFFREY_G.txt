@@ -1,0 +1,4 @@
+17624845
+Absence of erythrocyte-associated HIV-1 in vivo.
+A recent study found high levels of human immunodeficiency virus type 1 (HIV-1) bound to erythrocytes in HIV-1-infected patients with long-term undetectable plasma HIV-1 loads, potentially representing a novel and important reservoir of HIV-1 infection. To attempt to confirm this finding, we purified erythrocytes from 13 HIV-1-infected patients with long-term undetectable plasma viral load and depleted contaminating CD3(+)CD4(+) lymphocytes using magnetic beads. HIV-1 load of the purified erythrocyte fraction was <20 copies/mL in 11 of 13 patients and 42 and 52 copies/mL in 2 patients. Contrary to the prior report, therefore, erythrocytes do not represent a novel reservoir of HIV-1 infection in these patients.
+

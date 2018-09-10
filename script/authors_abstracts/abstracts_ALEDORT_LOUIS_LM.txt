@@ -1,0 +1,48 @@
+21558990
+Treatment of Factor XI Deficiency.
+
+
+21083001
+Expert Review of Hematology: addressing the needs of a broad research field.
+
+
+18589346
+Recurrent orthostatic global amnesia in a patient with postoperative hyperfibrinogenemia.
+Transient global amnesia (TGA) is characterized by sudden, temporary dysfunction of antegrade and recent retrograde memory without other neurologic deficits. Although there is sometimes a precipitating event, the origin of TGA remains controversial. We encountered a patient who developed recurrent TGA when upright, in whom the symptom promptly and regularly resolved when supine. Symptoms began about a week after cardiac surgery concurrent with marked hyperfibrinogenemia and acceleration of the erythrocyte sedimentation rate, and abated without recurrence when these laboratory abnormalities were ameliorated by anticoagulant and corticosteroid therapy. Diagnostic studies, including temporal artery biopsy and cerebral angiography, disclosed no anatomic vascular pathology. This is the first report of TGA associated with postoperative inflammation in which amnesia was provoked by orthostatic positioning. In conclusion, these observations implicate ischemia caused by hemodynamic vascular insufficiency as a possible cause of TGA.
+
+17941987
+The 5, 10 methylenetetrahydrofolate reductase C677T mutation and risk of fetal loss: a case series and review of the literature.
+ABSTRACT: The true relationship between methylenetetrahydrofolate reductase C677T homozygosity and risk of recurrent spontaneous abortion is unknown, and it is unclear if women with these mutations should be anticoagulated during pregnancy. We report a series of 8 patients with this issue and review the current literature. 8 patients (3 of whom were actively pregnant) were referred with histories of spontaneous fetal loss; hypercoaguability work-ups revealed each were homozygous for the MTHFR C677T mutation without other thrombophilias. In the 3 women who have conceived, treatment with LMW heparin during pregnancy led to two full-term births and one additional pregnancy without complication. For the 5 who have not, we recommended treatment with LMW heparin upon conception. We provide evidence to support the relationship between MTHFR C677T mutations and recurrent fetal loss, and to suggest that anticoagulation of these patients during pregnancy can lead to a successful pregnancy outcome.
+
+21143382
+Harmonization of clinical trial guidelines for assessing the risk of inhibitor development in hemophilia A treatment.
+At the present time, the most significant complication of hemophilia therapy is the development of neutralizing antibodies (inhibitors) to factor (F) VIII, which adds greatly to the difficulty and expense of preventing and treating bleeding episodes. Both patient-related and therapy-related variables contribute to the development of inhibitors. The multifactorial nature of inhibitor development and the relatively small numbers of patients that participate in clinical trials make it difficult to accurately assess the risk of inhibitor development. Adding to that challenge is the lack of a uniform standard of design for conducting clinical trials to evaluate the safety of FVIII products. This hinders the comparison of products and is an obstacle to the meta-analysis necessary to make statistically valid assessments of inhibitor risk. This article reviews similarities and differences in clinical trial guidelines of European and US regulatory agencies and discusses the need for their harmonization to facilitate the assessment of FVIII products.
+
+20620559
+Disseminated intravascular coagulation complicating Epstein-Barr virus infection in a cardiac transplant recipient: a case report.
+Viral infections are particularly common after cardiac transplantation. Herein we have presented a case of Epstein-Barr infection that presented as a viral syndrome with respiratory symptoms, but was complicated by multiorgan failure and disseminated intravascular coagulation. Transplant physicians should be aware of this unique complication of an otherwise self-limited infection.
+
+20561350
+Optimizing the treatment of haemophilia B: laboratory and clinical perspectives.
+Hemophilia A and B are traditionally thought of as a single bleeding disorder, viewed as opposite sides of the same coin. Yet the differences between the 2 forms of congenital hemophilia extend far beyond the type of deficient clotting factor--factor VIII for hemophilia A and factor IX (FIX) for hemophilia B. This supplement focuses on the unique laboratory and clinical issues associated with FIX replacement therapy for children and adults with hemophilia B.
+
+19874456
+To bleed or not to bleed - is that a question?
+
+
+19548903
+Mild and moderate factor VIII deficiency: inhibitor risks.
+
+
+18240391
+History of haemophilia.
+Haemophilia, an ancient disease, now has sophisticated methods for diagnosis and treatment. The genetically missing factors can now be supplied by fractionation of human-derived (HD) plasma or with recombinant technology (r). Making therapeutic choices is complicated by past transfusion-transmitted diseases. HD and r products now have similar safety profiles. Several diseases have only HD products for treatment. These products remain important in our treatment armamentarium.
+
+17961169
+Factor VIII inhibitor bypassing activity (FEIBA) - addressing safety issues.
+Bypassing therapy is usually necessary to control or prevent bleeding episodes in patients with haemophilia A or B and high-titre inhibitors. Factor VIII inhibitor bypassing activity (FEIBA) has a long history of successful use in the acute, surgical and prophylactic treatment settings, but safety concerns have made some reluctant to administer this bypassing agent. A review of the literature and clinical trial data show that FEIBA has a low prevalence of thrombosis, a low prevalence of anamnesis that does not impact haemostatic efficacy and an excellent record of pathogen safety and clinical tolerability.
+
+17319907
+HIV and hemophilia.
+
+

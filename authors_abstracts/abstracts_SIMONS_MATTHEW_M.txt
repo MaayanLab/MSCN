@@ -1,0 +1,4 @@
+18309348
+It's not all about nephrin.
+Mutations in the NPHS1 gene cause congenital nephrotic syndrome of the Finnish type. The gene product nephrin is a structural component of the glomerular slit diaphragm formed by neighboring podocytes. Nephrin has also been suggested to be involved in signaling processes that are important for podocyte survival and differentiation. A new study by Doné et al. reports that the absence of nephrin leads to the lack of slit diaphragms but does not affect podocyte apoptosis and gene expression patterns.
+

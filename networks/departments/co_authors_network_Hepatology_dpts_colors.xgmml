@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="ARNON RONEN R">
+<graphics fill="22fc72"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Hepatology;Surgery"/>
+</node>
+<node id="2" label="KERKAR NANDA N">
+<graphics fill="3fd42f"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Hepatology"/>
+</node>
+<node id="3" label="CHU JAIME J">
+<graphics fill="3fd42f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Hepatology"/>
+</node>
+<edge source="3" target="2" label="co-authorship: 20609173">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#3fd42f" width="1.6666667"/>
+<att name="departments" type="string" value="Hepatology"/>
+</edge>
+<edge source="1" target="3" label="co-authorship: 20609173">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#3fd42f" width="1.6666667"/>
+<att name="departments" type="string" value="Hepatology"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 19841596 - co-authorship: 20070561 - co-authorship: 20531025 - co-authorship: 20557477 - co-authorship: 20609173 - co-authorship: 20946468 - co-authorship: 21175846 - co-authorship: 21219560 - co-authorship: 21504522">
+<att name="weight" type="real" value="4.333333"/>
+<graphics fill="#3fd42f" width="21.666664"/>
+<att name="departments" type="string" value="Hepatology"/>
+</edge>
+</graph>

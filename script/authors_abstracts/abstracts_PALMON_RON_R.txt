@@ -1,0 +1,4 @@
+18816678
+What is the role and significance of serum and stool biomarkers in the diagnosis of IBD?
+Biomarkers hold promise for identifying high-risk individuals who may go on to develop IBD as well as prognosticate disease behavior. Stool markers have not been readily accepted but may be more sensitive and specific than our serum biomarkers for evaluating disease activity. Ultimately, genomic and proteomic approaches will be used to identify novel biomarkers in IBD.
+

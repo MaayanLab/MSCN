@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="BEYER KIRSTEN K">
+<graphics fill="cf3f25"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</node>
+<node id="2" label="SAMPSON HUGH HA">
+<graphics fill="cf3f25"/>
+<att name="functions" type="string" value="DEAN FOR TRANSLATIONAL BIOMEDICAL RESEARCH ;PROFESSOR"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</node>
+<node id="3" label="SICHERER SCOTT SH">
+<graphics fill="cf3f25"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</node>
+<node id="4" label="CHEHADE MIRNA M">
+<graphics fill="be6056"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Allergy and Immunology;Gastroenterology"/>
+</node>
+<node id="5" label="WANG JULIE J">
+<graphics fill="cf3f25"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</node>
+<node id="6" label="NOWAK-WEGRZYN ANNA A">
+<graphics fill="cf3f25"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</node>
+<node id="7" label="YANG NAN N">
+<graphics fill="cf3f25"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</node>
+<node id="8" label="KIM JENNIFER JS">
+<graphics fill="cf3f25"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</node>
+<edge source="1" target="2" label="co-authorship: 17517096 - co-authorship: 17573723 - co-authorship: 18186809 - co-authorship: 18760458 - co-authorship: 19522997">
+<att name="weight" type="real" value="2.5"/>
+<graphics fill="#cf3f25" width="12.5"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</edge>
+<edge source="2" target="5" label="co-authorship: 18243289 - co-authorship: 19577281 - co-authorship: 20226304 - co-authorship: 20642207">
+<att name="weight" type="real" value="1.6666667"/>
+<graphics fill="#cf3f25" width="8.333334"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</edge>
+<edge source="3" target="5" label="co-authorship: 20477008">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#cf3f25" width="2.5"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</edge>
+<edge source="4" target="2" label="co-authorship: 17873744 - co-authorship: 18061100 - co-authorship: 19141350">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#cf3f25" width="7.5"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</edge>
+<edge source="2" target="7" label="co-authorship: 20642207">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#cf3f25" width="1.6666667"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</edge>
+<edge source="6" target="3" label="co-authorship: 18547626 - co-authorship: 18620743 - co-authorship: 18828521 - co-authorship: 18851876 - co-authorship: 19500710 - co-authorship: 20004784">
+<att name="weight" type="real" value="2.3333333"/>
+<graphics fill="#cf3f25" width="11.666666"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</edge>
+<edge source="5" target="7" label="co-authorship: 20642207">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#cf3f25" width="1.6666667"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</edge>
+<edge source="6" target="2" label="co-authorship: 18547626 - co-authorship: 18620743 - co-authorship: 18851876 - co-authorship: 19348919 - co-authorship: 19523674 - co-authorship: 20004784 - co-authorship: 20226304">
+<att name="weight" type="real" value="2.6666665"/>
+<graphics fill="#cf3f25" width="13.333332"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</edge>
+<edge source="4" target="3" label="co-authorship: 17873749">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#cf3f25" width="2.5"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</edge>
+<edge source="2" target="3" label="co-authorship: 17613633 - co-authorship: 17689596 - co-authorship: 18547626 - co-authorship: 18620743 - co-authorship: 18729729 - co-authorship: 18851876 - co-authorship: 20004784 - co-authorship: 20042231 - co-authorship: 20451041 - co-authorship: 20462634 - co-authorship: 21035177 - co-authorship: 21565391">
+<att name="weight" type="real" value="5.333333"/>
+<graphics fill="#cf3f25" width="26.666664"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</edge>
+<edge source="8" target="3" label="co-authorship: 21453813">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#cf3f25" width="2.5"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</edge>
+<edge source="6" target="5" label="co-authorship: 20226304">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#cf3f25" width="1.6666667"/>
+<att name="departments" type="string" value="Allergy and Immunology"/>
+</edge>
+</graph>

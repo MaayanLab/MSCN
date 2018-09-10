@@ -1,0 +1,2080 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="BUCHSBAUM MONTE MS">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="2" label="HARVEY PHILIP PD">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="3" label="YEHUDA RACHEL R">
+<graphics fill="6cb346"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Neuroscience;Psychiatry"/>
+</node>
+<node id="4" label="BUXBAUM JOSEPH JD">
+<graphics fill="cfd2cc"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Neuroscience;Psychiatry"/>
+</node>
+<node id="5" label="HAROUTUNIAN VAHRAM V">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="6" label="PASINETTI GIULIO GM">
+<graphics fill="55de4a"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Neurology;Neuroscience;Psychiatry"/>
+</node>
+<node id="7" label="SCHMEIDLER JAMES J">
+<graphics fill="09863f"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Biomathematical Sciences;Psychiatry"/>
+</node>
+<node id="8" label="BIERER LINDA LM">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="9" label="GOODMAN MARIANNE M">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="10" label="KOENIGSBERG HAROLD HW">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="11" label="MITELMAN SERGE SA">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="12" label="SIEVER LARRY LJ">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="13" label="HAZNEDAR MUSTAFA MM">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="14" label="GEORGAKOPOULOS ANASTASIOS A">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="15" label="ROBAKIS NIKOLAOS NK">
+<graphics fill="6cb346"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Neuroscience;Psychiatry"/>
+</node>
+<node id="16" label="SHIOI JUNICHI J">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="17" label="CHEMTOB CLAUDE CM">
+<graphics fill="d60f3d"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Psychiatry"/>
+</node>
+<node id="18" label="NOMURA YOKO Y">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="19" label="SILVERMAN JEREMY JM">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="20" label="DAVIS KENNETH KL">
+<graphics fill="5dc73d"/>
+<att name="functions" type="string" value="PRESIDENT AND CHIEF EXECUTIVE OFFICER;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics;Psychiatry;The Mount Sinai Medical Center"/>
+</node>
+<node id="21" label="STEWART DANIEL DG">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="22" label="TANG CHEUK CY">
+<graphics fill="5fa79e"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry;Radiology"/>
+</node>
+<node id="23" label="ABRAMOVITZ ROBERT R">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="24" label="DE GASPERI RITA R">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="25" label="ELDER GREGORY GA">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="RESEARCH PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="26" label="CAI GUIQING G">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="27" label="SMITH CHRISTOPHER CJ">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="28" label="BLITZER ROBERT RD">
+<graphics fill="8da8c6"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics;Psychiatry"/>
+</node>
+<node id="29" label="IYENGAR RAVI R">
+<graphics fill="905a42"/>
+<att name="functions" type="string" value="DIRECTOR;DIRECTOR;PROFESSOR;PROFESSOR;PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Experimental Therapeutics Institute;Oncological Sciences;Pharmacology and Systems Therapeutics;Psychiatry;Systems Biology Center New York"/>
+</node>
+<node id="30" label="GARAKANI AMIR A">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="31" label="HEATH DESMOND D">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="32" label="FRIEDMAN JOSEPH J">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="33" label="SAKURAI TAKESHI T">
+<graphics fill="d13776"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology;Pharmacology and Systems Therapeutics;Psychiatry"/>
+</node>
+<node id="34" label="GAMA SOSA MIGUEL MA">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="35" label="FAN JIN J">
+<graphics fill="6cb346"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neuroscience;Psychiatry"/>
+</node>
+<node id="36" label="FOSSELLA JOHN JA">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="37" label="MCCLURE MARGARET MM">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="38" label="ANNUNZIATO RACHEL RA">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="39" label="SHEMESH EYAL E">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="40" label="DAVIDSON KARINA KW">
+<graphics fill="6b76f2"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR;ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Psychiatry"/>
+</node>
+<node id="41" label="RIECKMANN NINA N">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="42" label="SOLANTO MARY MV">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="43" label="WASSERSTEIN JEANETTE J">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="44" label="FLORY JANINE JD">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="45" label="GROSSMAN ROBERT RA">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="46" label="RAMOZ NICOLAS N">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="47" label="LIU XUN X">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="48" label="SILVERMAN MICHAEL ME">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="49" label="GROSSMAN HILLEL HT">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="50" label="DAHLMAN KAREN K">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="51" label="REICHENBERG AVRAHAM A">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="52" label="CHARNEY DENNIS DS">
+<graphics fill="893c03"/>
+<att name="functions" type="string" value="DEAN;PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Mount Sinai School of Medicine;Neuroscience;Pharmacology and Systems Therapeutics;Psychiatry"/>
+</node>
+<node id="53" label="MATHEW SANJAY SJ">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="PROFESSORIAL LECTURER"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="54" label="RAPP MICHAEL M">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="55" label="PUROHIT DUSHYANT DP">
+<graphics fill="60aa6f"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pathology;Psychiatry"/>
+</node>
+<node id="56" label="PROHOVNIK ISAK I">
+<graphics fill="5fa79e"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry;Radiology"/>
+</node>
+<node id="57" label="LUO XIAODONG X">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="58" label="MANJI HUSSEINI HK">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="59" label="ELBAZ ZEINAB Z">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="60" label="WHITE LEONARD L">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="61" label="LOEB KATHARINE KL">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="62" label="SANO MARY M">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="63" label="DEVI LAKSHMI LA">
+<graphics fill="df0ee7"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Neuroscience;Pharmacology and Systems Therapeutics;Psychiatry"/>
+</node>
+<node id="64" label="SCHNAIDER BEERI MICHAL M">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="65" label="MCKAY MARY MM">
+<graphics fill="72345d"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine;Psychiatry"/>
+</node>
+<node id="66" label="GORDON WAYNE WA">
+<graphics fill="4f7ff5"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry;Rehabilitation Medicine"/>
+</node>
+<node id="67" label="DAVIDSON MICHAEL M">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="68" label="KANELLOPOULOU ISABELLA I">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="69" label="OZBAY FATIH F">
+<graphics fill="72345d"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine;Psychiatry"/>
+</node>
+<node id="70" label="SOUTHWICK STEVEN S">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="71" label="HIRSCHOWITZ JACK J">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="72" label="PALLANTI STEFANO S">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="VISITING ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="73" label="KATZ CRAIG CL">
+<graphics fill="ff0c1e"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR;ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education;Psychiatry"/>
+</node>
+<node id="74" label="SMITH REBECCA RP">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="75" label="BERGMANN CHRISTINE C">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="76" label="ANAGNOSTOU EVDOKIA E">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="77" label="GREENBERG RICK R">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="78" label="NEWCORN JEFFREY J">
+<graphics fill="d60f3d"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Psychiatry"/>
+</node>
+<node id="79" label="GOLIER JULIA J">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="80" label="LINDEN MARIA M">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="81" label="MITSIS EFFIE EM">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="82" label="ALLEN ANDREA A">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="83" label="DECARIA CONCETTA CM">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="84" label="FEDER ADRIANA A">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="85" label="BOWIE CHRISTOPHER C">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="86" label="CHEMERINSKI ERAN E">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="87" label="MAKOTKINE IOURI I">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="88" label="NESTLER ERIC EJ">
+<graphics fill="782443"/>
+<att name="functions" type="string" value="DIRECTOR;PROFESSOR;PROFESSOR;PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Friedman Brain Institute;Neuroscience;Pharmacology and Systems Therapeutics;Psychiatry"/>
+</node>
+<node id="89" label="WEINSTEIN LISSA LN">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="90" label="IVANOV ILIYAN I">
+<graphics fill="dbbf8f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Child and Adolescent Psychiatry"/>
+</node>
+<node id="91" label="TAKAHASHI NAGAHIDE N">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="92" label="GOLDSTEIN MARTIN MA">
+<graphics fill="004a7d"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology;Psychiatry"/>
+</node>
+<node id="93" label="MCGURK SUSAN SR">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="94" label="KOLEVZON ALEXANDER A">
+<graphics fill="d60f3d"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Psychiatry"/>
+</node>
+<node id="95" label="CHACKO ANIL A">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="96" label="REN YANHUA Y">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="97" label="BURG MATTHEW MM">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="98" label="DANIELS-BRADY CATHERINE C">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="99" label="RIEDER RONALD R">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="100" label="SICHER CAROLYN C">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="101" label="BARTZ JENNIFER JA">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="102" label="BESPALOVA IRINA IN">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="103" label="DURNER MARTINA M">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="104" label="GRODBERG DAVID D">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="105" label="ALOYSI AMY A">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="106" label="POPEO DENNIS D">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="107" label="NEUMEISTER ALEXANDER A">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="108" label="RIVERA JAMES J">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="109" label="ZAPATA-VEGA MARIA MI">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="110" label="KEMETHER EILEEN E">
+<graphics fill="42f3da"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</node>
+<node id="111" label="SKLAR PAMELA P">
+<graphics fill="cfd2cc"/>
+<att name="functions" type="string" value="SENIOR FACULTY;SENIOR FACULTY;SENIOR FACULTY"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Neuroscience;Psychiatry"/>
+</node>
+<edge source="44" target="3" label="co-authorship: 17721957 - co-authorship: 21508511">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#42f3da" width="5.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="24" target="25" label="co-authorship: 17403541 - co-authorship: 17593907 - co-authorship: 19852847 - co-authorship: 19937345 - co-authorship: 20015484">
+<att name="weight" type="real" value="1.325"/>
+<graphics fill="#42f3da" width="6.625"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="18" target="7" label="co-authorship: 18552630 - co-authorship: 18945918">
+<att name="weight" type="real" value="0.4166667"/>
+<graphics fill="#42f3da" width="2.0833335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="81" target="12" label="co-authorship: 21115066">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="83" target="72" label="co-authorship: 19028836">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="9" target="13" label="co-authorship: 17203018">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#42f3da" width="0.8333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="5" label="co-authorship: 16769157 - co-authorship: 17472705 - co-authorship: 18466986 - co-authorship: 19273754 - co-authorship: 19343227 - co-authorship: 20205790">
+<att name="weight" type="real" value="1.7500001"/>
+<graphics fill="#42f3da" width="8.750001"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="21" target="22" label="co-authorship: 18766013">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="35" label="co-authorship: 21185269">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#6cb346" width="1.25"/>
+<att name="departments" type="string" value="Neuroscience;Psychiatry"/>
+</edge>
+<edge source="1" target="72" label="co-authorship: 18781089 - co-authorship: 20588072">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#42f3da" width="3.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="9" target="12" label="co-authorship: 17203018 - co-authorship: 17258691 - co-authorship: 18638645 - co-authorship: 19394205 - co-authorship: 19651401 - co-authorship: 20451217">
+<att name="weight" type="real" value="1.9500002"/>
+<graphics fill="#42f3da" width="9.750001"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="26" target="46" label="co-authorship: 18348195">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="31" label="co-authorship: 17574821">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="5" target="93" label="co-authorship: 19896333">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="11" label="co-authorship: 17203018 - co-authorship: 17329081 - co-authorship: 17587598 - co-authorship: 17671868 - co-authorship: 19547667 - co-authorship: 19616411 - co-authorship: 19713080 - co-authorship: 20535056">
+<att name="weight" type="real" value="3.0833335"/>
+<graphics fill="#42f3da" width="15.416668"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="76" target="19" label="co-authorship: 18925931">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="84" target="107" label="co-authorship: 21377656">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="26" label="co-authorship: 21062623">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="20" target="60" label="co-authorship: 20634363 - co-authorship: 21346734">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#42f3da" width="3.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="92" target="48" label="co-authorship: 19718457">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="94" target="27" label="co-authorship: 20044143">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="68" target="7" label="co-authorship: 18558643">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="33" target="7" label="co-authorship: 20015484">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="42f3da" width="0.625"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="10" target="81" label="co-authorship: 21115066">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="97" target="40" label="co-authorship: 20097703 - co-authorship: 20185971">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#42f3da" width="3.75"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="30" label="co-authorship: 17560768">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="46" target="27" label="co-authorship: 17894412">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="5" target="62" label="co-authorship: 18239198">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="35" target="90" label="co-authorship: 19520360 - co-authorship: 20026227">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#DDCCFF" width="4.166667"/>
+<att name="departments" type="string" value="inter-departmental:Neuroscience;Psychiatry &amp; Child and Adolescent Psychiatry"/>
+</edge>
+<edge source="5" target="2" label="co-authorship: 19896333">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="26" target="33" label="co-authorship: 19360675">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="32" target="22" label="co-authorship: 17578565 - co-authorship: 20045072">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#42f3da" width="2.916667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="77" target="18" label="co-authorship: 18945918">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#42f3da" width="0.8333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="102" target="103" label="co-authorship: 20875727 - co-authorship: 21451436">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#42f3da" width="2.916667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="24" target="7" label="co-authorship: 19852847 - co-authorship: 20015484">
+<att name="weight" type="real" value="0.325"/>
+<graphics fill="#42f3da" width="1.625"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="25" target="19" label="co-authorship: 19147740">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="26" target="91" label="co-authorship: 21062623">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="56" target="7" label="co-authorship: 18079025">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="42f3da" width="0.71428573"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="5" target="54" label="co-authorship: 18079025">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#42f3da" width="0.71428573"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="81" target="22" label="co-authorship: 21115066">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="45" target="3" label="co-authorship: 17768269 - co-authorship: 18785948 - co-authorship: 19622684">
+<att name="weight" type="real" value="0.8666667"/>
+<graphics fill="#42f3da" width="4.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="69" target="70" label="co-authorship: 18627668">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="103" target="19" label="co-authorship: 20875727 - co-authorship: 21451436">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#42f3da" width="2.916667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="20" label="co-authorship: 17579610 - co-authorship: 20950668">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="42f3da" width="2.916667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="5" target="91" label="co-authorship: 20205790">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="5" target="12" label="co-authorship: 17848916">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="9" label="co-authorship: 17203018">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#42f3da" width="0.8333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="73" target="74" label="co-authorship: 18795171">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="57" target="19" label="co-authorship: 18161858">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="32" label="co-authorship: 17578565 - co-authorship: 20045072">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#42f3da" width="2.916667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="53" target="107" label="co-authorship: 21377656">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="91" label="co-authorship: 19636386 - co-authorship: 20015484 - co-authorship: 20205790 - co-authorship: 20950668 - co-authorship: 21062623 - co-authorship: 21132795 - co-authorship: 21167025 - co-authorship: 21328569">
+<att name="weight" type="real" value="1.9916668"/>
+<graphics fill="#42f3da" width="9.958334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="46" label="co-authorship: 17894412 - co-authorship: 18348195 - co-authorship: 20015484">
+<att name="weight" type="real" value="0.575"/>
+<graphics fill="#42f3da" width="2.875"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="55" target="7" label="co-authorship: 18079025 - co-authorship: 18367838 - co-authorship: 18765651 - co-authorship: 19129700 - co-authorship: 19228583 - co-authorship: 21187583 - co-authorship: 21244352 - co-authorship: 21458888">
+<att name="weight" type="real" value="2.0928571"/>
+<graphics fill="42f3da" width="10.464286"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="10" target="56" label="co-authorship: 19394205">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="102" target="7" label="co-authorship: 20875727">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="102" target="19" label="co-authorship: 20875727 - co-authorship: 21451436">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#42f3da" width="2.916667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="13" target="81" label="co-authorship: 19027195">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="20" target="91" label="co-authorship: 20950668">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="20" target="5" label="co-authorship: 17291370 - co-authorship: 17583597 - co-authorship: 18029146 - co-authorship: 18322470 - co-authorship: 21431547 - co-authorship: 21605958">
+<att name="weight" type="real" value="2.8333335"/>
+<graphics fill="#42f3da" width="14.166668"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="7" label="co-authorship: 17472705 - co-authorship: 17894412 - co-authorship: 18466986 - co-authorship: 19343227 - co-authorship: 19393990 - co-authorship: 19852847 - co-authorship: 20015484 - co-authorship: 20205790">
+<att name="weight" type="real" value="1.8583333"/>
+<graphics fill="42f3da" width="9.291667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="2" target="22" label="co-authorship: 18204342 - co-authorship: 18766013">
+<att name="weight" type="real" value="0.4"/>
+<graphics fill="#42f3da" width="2.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="23" target="7" label="co-authorship: 18552630 - co-authorship: 18945918">
+<att name="weight" type="real" value="0.4166667"/>
+<graphics fill="#42f3da" width="2.0833335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="105" target="106" label="co-authorship: 21343715">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="34" target="91" label="co-authorship: 20015484">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#42f3da" width="0.625"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="103" target="7" label="co-authorship: 20875727">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="86" target="2" label="co-authorship: 19196927">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="50" target="2" label="co-authorship: 18028386">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="76" target="35" label="co-authorship: 21185269">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="59" target="60" label="co-authorship: 18204342">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="65" target="100" label="co-authorship: 20842273">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="17" target="3" label="co-authorship: 20636686">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="49" target="57" label="co-authorship: 18161858 - co-authorship: 19382130">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#42f3da" width="2.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="12" target="89" label="co-authorship: 19516057">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="59" target="35" label="co-authorship: 18204342">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="14" target="16" label="co-authorship: 17254019 - co-authorship: 17428795 - co-authorship: 18184791 - co-authorship: 19008223 - co-authorship: 21597003">
+<att name="weight" type="real" value="1.6666667"/>
+<graphics fill="#42f3da" width="8.333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="45" target="7" label="co-authorship: 18785948 - co-authorship: 19622684">
+<att name="weight" type="real" value="0.53333336"/>
+<graphics fill="#42f3da" width="2.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="58" target="53" label="co-authorship: 18172433">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="50" target="57" label="co-authorship: 19382130">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="33" label="co-authorship: 17579610 - co-authorship: 19360675 - co-authorship: 19636386 - co-authorship: 20015484 - co-authorship: 20950668 - co-authorship: 21132795 - co-authorship: 21167025 - co-authorship: 21328569">
+<att name="weight" type="real" value="2.2083335"/>
+<graphics fill="42f3da" width="11.041668"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="7" target="27" label="co-authorship: 17894412">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="35" target="42" label="co-authorship: 19594667">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="54" target="19" label="co-authorship: 18079025">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#42f3da" width="0.71428573"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="97" target="22" label="co-authorship: 20185971">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="52" target="74" label="co-authorship: 18795171">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="77" target="7" label="co-authorship: 18945918">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#42f3da" width="0.8333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="10" label="co-authorship: 17203018">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#42f3da" width="0.8333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="13" target="22" label="co-authorship: 20045072">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="49" target="54" label="co-authorship: 18079025">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#42f3da" width="0.71428573"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="12" target="22" label="co-authorship: 17601709 - co-authorship: 17825840 - co-authorship: 18588988 - co-authorship: 19473820 - co-authorship: 21115066">
+<att name="weight" type="real" value="1.4166667"/>
+<graphics fill="#42f3da" width="7.083334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="17" target="78" label="co-authorship: 18945918">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#d60f3d" width="0.8333334"/>
+<att name="departments" type="string" value="Pediatrics;Psychiatry"/>
+</edge>
+<edge source="7" target="3" label="co-authorship: 17137559 - co-authorship: 17392739 - co-authorship: 17955524 - co-authorship: 18281061 - co-authorship: 18785948 - co-authorship: 18930323 - co-authorship: 19162277 - co-authorship: 19393990 - co-authorship: 19622684">
+<att name="weight" type="real" value="3.2833333"/>
+<graphics fill="42f3da" width="16.416666"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="56" target="55" label="co-authorship: 18079025">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="42f3da" width="0.71428573"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="17" target="77" label="co-authorship: 18945918">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#42f3da" width="0.8333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="55" target="54" label="co-authorship: 18079025">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#42f3da" width="0.71428573"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="46" target="7" label="co-authorship: 17894412 - co-authorship: 20015484">
+<att name="weight" type="real" value="0.325"/>
+<graphics fill="#42f3da" width="1.625"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="55" target="62" label="co-authorship: 18239198 - co-authorship: 21187583">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#42f3da" width="3.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="63" target="29" label="co-authorship: 18309063 - co-authorship: 18323015 - co-authorship: 19562802">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="8da8c6" width="7.5"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics;Psychiatry"/>
+</edge>
+<edge source="90" target="78" label="co-authorship: 20035584">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Child and Adolescent Psychiatry &amp; Pediatrics;Psychiatry"/>
+</edge>
+<edge source="7" target="64" label="co-authorship: 19129700">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="26" target="27" label="co-authorship: 17427195">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="2" target="21" label="co-authorship: 18766013">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="35" target="22" label="co-authorship: 17601709 - co-authorship: 17825840 - co-authorship: 18204342 - co-authorship: 19086020 - co-authorship: 19520360 - co-authorship: 19594667">
+<att name="weight" type="real" value="2.0333333"/>
+<graphics fill="42f3da" width="10.166666"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="25" target="91" label="co-authorship: 20015484 - co-authorship: 21132795 - co-authorship: 21328569">
+<att name="weight" type="real" value="0.625"/>
+<graphics fill="#42f3da" width="3.125"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="79" target="80" label="co-authorship: 18955942">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="26" target="19" label="co-authorship: 17427195 - co-authorship: 18001468 - co-authorship: 18348195 - co-authorship: 18925931">
+<att name="weight" type="real" value="1.0833334"/>
+<graphics fill="#42f3da" width="5.416667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 16769157 - co-authorship: 19273754 - co-authorship: 20854419">
+<att name="weight" type="real" value="1.1666667"/>
+<graphics fill="#42f3da" width="5.833334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="59" target="2" label="co-authorship: 18204342">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="62" target="7" label="co-authorship: 19584451 - co-authorship: 21187583">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#42f3da" width="3.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="25" target="33" label="co-authorship: 20015484 - co-authorship: 21132795 - co-authorship: 21328569">
+<att name="weight" type="real" value="0.625"/>
+<graphics fill="#42f3da" width="3.125"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="30" target="71" label="co-authorship: 18703936 - co-authorship: 20825264">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#42f3da" width="4.166667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="73" target="70" label="co-authorship: 18795171">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="2" target="7" label="co-authorship: 17392739 - co-authorship: 18558643 - co-authorship: 19622684">
+<att name="weight" type="real" value="0.78333336"/>
+<graphics fill="#42f3da" width="3.9166667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="82" target="83" label="co-authorship: 19028836">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="82" target="72" label="co-authorship: 19028836 - co-authorship: 19825906">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#42f3da" width="4.166667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="25" target="7" label="co-authorship: 17472705 - co-authorship: 18466986 - co-authorship: 19147740 - co-authorship: 19852847 - co-authorship: 20015484">
+<att name="weight" type="real" value="1.075"/>
+<graphics fill="#42f3da" width="5.375"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="56" target="19" label="co-authorship: 18079025 - co-authorship: 19342124">
+<att name="weight" type="real" value="0.64285713"/>
+<graphics fill="#42f3da" width="3.2142856"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="98" target="99" label="co-authorship: 20576983">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="45" target="2" label="co-authorship: 19622684">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="35" target="36" label="co-authorship: 17652463 - co-authorship: 19344637 - co-authorship: 20392278">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#42f3da" width="7.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="87" target="3" label="co-authorship: 19411143">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="6" label="co-authorship: 16769157 - co-authorship: 19273754">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="6cb346" width="3.3333335"/>
+<att name="departments" type="string" value="Neuroscience;Psychiatry"/>
+</edge>
+<edge source="52" target="58" label="co-authorship: 18172433">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="101" target="94" label="co-authorship: 20855907 - co-authorship: 21115834">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#42f3da" width="5.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="74" target="70" label="co-authorship: 18795171">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="85" target="2" label="co-authorship: 19196927">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="49" target="56" label="co-authorship: 18079025">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#42f3da" width="0.71428573"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="13" target="72" label="co-authorship: 20588072">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="57" target="62" label="co-authorship: 18805604 - co-authorship: 19697298">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#42f3da" width="3.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="23" target="77" label="co-authorship: 18945918">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#42f3da" width="0.8333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="62" target="19" label="co-authorship: 19293568 - co-authorship: 19584451">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#42f3da" width="3.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="40" target="41" label="co-authorship: 17709116 - co-authorship: 19592517 - co-authorship: 20185971 - co-authorship: 20920644">
+<att name="weight" type="real" value="1.75"/>
+<graphics fill="#42f3da" width="8.75"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="35" target="2" label="co-authorship: 18204342">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="7" target="91" label="co-authorship: 20015484 - co-authorship: 20205790">
+<att name="weight" type="real" value="0.375"/>
+<graphics fill="#42f3da" width="1.875"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="22" label="co-authorship: 17329081 - co-authorship: 17578565 - co-authorship: 17606659 - co-authorship: 18588988 - co-authorship: 18766013 - co-authorship: 19473820 - co-authorship: 20045072">
+<att name="weight" type="real" value="1.8666668"/>
+<graphics fill="#42f3da" width="9.333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="9" target="56" label="co-authorship: 19394205">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="32" target="13" label="co-authorship: 20045072">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="56" target="54" label="co-authorship: 18079025">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#42f3da" width="0.71428573"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="85" target="86" label="co-authorship: 19196927">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="14" target="15" label="co-authorship: 17254019 - co-authorship: 17428795 - co-authorship: 18184791 - co-authorship: 19008223 - co-authorship: 19661068 - co-authorship: 21107857 - co-authorship: 21597003">
+<att name="weight" type="real" value="2.5"/>
+<graphics fill="#42f3da" width="12.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="35" target="10" label="co-authorship: 19651401">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="49" target="5" label="co-authorship: 18079025 - co-authorship: 18765651 - co-authorship: 19228583 - co-authorship: 19382130 - co-authorship: 20808140">
+<att name="weight" type="real" value="1.3428571"/>
+<graphics fill="#42f3da" width="6.714286"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="13" target="31" label="co-authorship: 17574821">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="94" target="91" label="co-authorship: 21062623">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="26" target="94" label="co-authorship: 21062623">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="49" target="19" label="co-authorship: 18023042 - co-authorship: 18079025 - co-authorship: 18161858 - co-authorship: 18757771 - co-authorship: 19147740">
+<att name="weight" type="real" value="1.3095238"/>
+<graphics fill="#42f3da" width="6.547619"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="55" target="19" label="co-authorship: 18079025 - co-authorship: 18367838">
+<att name="weight" type="real" value="0.34285715"/>
+<graphics fill="#42f3da" width="1.7142857"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="8" target="87" label="co-authorship: 19411143">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="26" target="7" label="co-authorship: 19393990">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="25" target="5" label="co-authorship: 17472705 - co-authorship: 18466986">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="41" target="22" label="co-authorship: 20185971">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="2" target="37" label="co-authorship: 17662256">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="14" target="29" label="co-authorship: 21107857">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="67" target="19" label="co-authorship: 18538995">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="13" label="co-authorship: 17203018 - co-authorship: 17329081 - co-authorship: 17478083 - co-authorship: 17574821 - co-authorship: 17587598 - co-authorship: 17587876 - co-authorship: 17606659 - co-authorship: 18272348 - co-authorship: 18588988 - co-authorship: 18781089 - co-authorship: 19027195 - co-authorship: 19168139 - co-authorship: 19473820 - co-authorship: 19547667 - co-authorship: 20045072 - co-authorship: 20588072">
+<att name="weight" type="real" value="5.166667"/>
+<graphics fill="#42f3da" width="25.833336"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="35" target="94" label="co-authorship: 21185269">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="93" target="55" label="co-authorship: 19896333">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="44" target="12" label="co-authorship: 18075475">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="20" target="7" label="co-authorship: 18558643">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="94" target="19" label="co-authorship: 20044143">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="8" target="7" label="co-authorship: 18281061 - co-authorship: 19162277">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#42f3da" width="3.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="76" target="94" label="co-authorship: 21185269">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="24" target="33" label="co-authorship: 20015484">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#42f3da" width="0.625"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="34" label="co-authorship: 19852847 - co-authorship: 20015484">
+<att name="weight" type="real" value="0.325"/>
+<graphics fill="#42f3da" width="1.625"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="15" target="16" label="co-authorship: 17254019 - co-authorship: 17428795 - co-authorship: 18184791 - co-authorship: 19008223 - co-authorship: 21597003">
+<att name="weight" type="real" value="1.6666667"/>
+<graphics fill="#42f3da" width="8.333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="3" label="co-authorship: 16445942 - co-authorship: 19622684">
+<att name="weight" type="real" value="0.53333336"/>
+<graphics fill="#42f3da" width="2.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="11" target="22" label="co-authorship: 17329081">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="47" target="12" label="co-authorship: 19651401">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="75" target="57" label="co-authorship: 18805604">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="34" target="46" label="co-authorship: 20015484">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#42f3da" width="0.625"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="84" target="53" label="co-authorship: 21194898 - co-authorship: 21377656">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#42f3da" width="2.916667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="111" label="co-authorship: 21549318">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#cfd2cc" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Neuroscience;Psychiatry"/>
+</edge>
+<edge source="108" target="109" label="co-authorship: 21391411">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="28" target="29" label="co-authorship: 17537959 - co-authorship: 18485874">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#8da8c6" width="5.0"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics;Psychiatry"/>
+</edge>
+<edge source="50" target="49" label="co-authorship: 19382130">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="8" target="45" label="co-authorship: 17768269">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="56" target="12" label="co-authorship: 19394205">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="12" label="co-authorship: 17203018 - co-authorship: 17478083 - co-authorship: 18272348 - co-authorship: 18588988 - co-authorship: 19473820">
+<att name="weight" type="real" value="1.3333334"/>
+<graphics fill="#42f3da" width="6.666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="23" target="3" label="co-authorship: 20636686">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="5" target="19" label="co-authorship: 18079025 - co-authorship: 18367838 - co-authorship: 19585955">
+<att name="weight" type="real" value="0.8428571"/>
+<graphics fill="#42f3da" width="4.214286"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="76" target="26" label="co-authorship: 18925931">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="84" target="88" label="co-authorship: 19455174">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="24" target="91" label="co-authorship: 20015484">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#42f3da" width="0.625"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="26" target="104" label="co-authorship: 21062623">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="20" label="co-authorship: 18766013">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="2" target="55" label="co-authorship: 19896333">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="71" target="94" label="co-authorship: 20825264">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="25" target="46" label="co-authorship: 20015484">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#42f3da" width="0.625"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="5" target="64" label="co-authorship: 18367838 - co-authorship: 19129700">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#42f3da" width="2.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="35" target="47" label="co-authorship: 18261834 - co-authorship: 18949039 - co-authorship: 19002254 - co-authorship: 19269079 - co-authorship: 19301995 - co-authorship: 19651401 - co-authorship: 20220007 - co-authorship: 20675812">
+<att name="weight" type="real" value="3.7"/>
+<graphics fill="#42f3da" width="18.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="52" target="107" label="co-authorship: 21377656">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="30" target="94" label="co-authorship: 20825264">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="13" target="11" label="co-authorship: 19547667">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="35" target="61" label="co-authorship: 18227630">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="25" target="49" label="co-authorship: 19147740">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="35" target="60" label="co-authorship: 18204342">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="81" label="co-authorship: 19027195 - co-authorship: 19715400">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#42f3da" width="4.166667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="34" target="7" label="co-authorship: 19852847 - co-authorship: 20015484">
+<att name="weight" type="real" value="0.325"/>
+<graphics fill="#42f3da" width="1.625"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="59" target="22" label="co-authorship: 18204342">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="12" target="19" label="co-authorship: 20826004 - co-authorship: 21498463">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#42f3da" width="5.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="35" target="12" label="co-authorship: 17601709 - co-authorship: 17825840 - co-authorship: 19651401">
+<att name="weight" type="real" value="0.8666667"/>
+<graphics fill="#42f3da" width="4.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="23" target="78" label="co-authorship: 18945918">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#42f3da" width="0.8333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="110" label="co-authorship: 21431919">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="20" target="21" label="co-authorship: 17291370 - co-authorship: 18381916 - co-authorship: 18766013">
+<att name="weight" type="real" value="1.0333334"/>
+<graphics fill="#42f3da" width="5.166667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="20" target="33" label="co-authorship: 17579610 - co-authorship: 20950668">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="8da8c6" width="2.916667"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics;Psychiatry"/>
+</edge>
+<edge source="33" target="91" label="co-authorship: 19636386 - co-authorship: 20015484 - co-authorship: 20950668 - co-authorship: 21132795 - co-authorship: 21167025 - co-authorship: 21328569">
+<att name="weight" type="real" value="1.5416667"/>
+<graphics fill="#42f3da" width="7.708334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="47" target="48" label="co-authorship: 17984858 - co-authorship: 19718457">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#42f3da" width="4.166667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="104" target="94" label="co-authorship: 21062623">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="104" target="91" label="co-authorship: 21062623">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="95" target="65" label="co-authorship: 20046919 - co-authorship: 21278845">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#42f3da" width="5.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="38" target="3" label="co-authorship: 17885569 - co-authorship: 20441725">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#42f3da" width="3.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="2" target="68" label="co-authorship: 18558643">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="30" target="53" label="co-authorship: 18840371">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="10" target="22" label="co-authorship: 21115066">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="50" target="7" label="co-authorship: 19382130">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="13" target="10" label="co-authorship: 17203018">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#42f3da" width="0.8333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="64" target="19" label="co-authorship: 18367838 - co-authorship: 19293568">
+<att name="weight" type="real" value="0.53333336"/>
+<graphics fill="#42f3da" width="2.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="78" target="7" label="co-authorship: 18945918">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="42f3da" width="0.8333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="50" target="5" label="co-authorship: 19382130">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="21" label="co-authorship: 18766013">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="38" target="39" label="co-authorship: 17663682 - co-authorship: 17885569 - co-authorship: 18435606 - co-authorship: 18435607 - co-authorship: 18794506 - co-authorship: 20441725">
+<att name="weight" type="real" value="2.3333333"/>
+<graphics fill="#42f3da" width="11.666666"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="25" label="co-authorship: 17403541 - co-authorship: 17472705 - co-authorship: 18466986 - co-authorship: 19852847 - co-authorship: 20015484 - co-authorship: 20130188 - co-authorship: 21132795 - co-authorship: 21328569">
+<att name="weight" type="real" value="2.1583333"/>
+<graphics fill="#42f3da" width="10.791666"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="39" target="3" label="co-authorship: 17885569 - co-authorship: 20441725">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#42f3da" width="3.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="65" target="39" label="co-authorship: 18435606 - co-authorship: 18794506">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#42f3da" width="3.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="52" target="84" label="co-authorship: 19152285 - co-authorship: 19455174 - co-authorship: 21194898 - co-authorship: 21377656">
+<att name="weight" type="real" value="1.4166667"/>
+<graphics fill="#42f3da" width="7.083334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="26" target="62" label="co-authorship: 20381196">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="46" target="91" label="co-authorship: 20015484">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#42f3da" width="0.625"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="78" target="18" label="co-authorship: 18945918">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#42f3da" width="0.8333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="50" target="51" label="co-authorship: 18028386">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="57" target="7" label="co-authorship: 18161858 - co-authorship: 19382130">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#42f3da" width="2.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="49" target="7" label="co-authorship: 18023042 - co-authorship: 18079025 - co-authorship: 18161858 - co-authorship: 18757771 - co-authorship: 18765651 - co-authorship: 19147740 - co-authorship: 19228583 - co-authorship: 19382130">
+<att name="weight" type="real" value="2.0095239"/>
+<graphics fill="#42f3da" width="10.047619"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="49" target="55" label="co-authorship: 18079025 - co-authorship: 18765651 - co-authorship: 19228583">
+<att name="weight" type="real" value="0.64285713"/>
+<graphics fill="#42f3da" width="3.2142856"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="10" target="11" label="co-authorship: 17203018">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#42f3da" width="0.8333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="92" target="47" label="co-authorship: 19718457">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="62" target="64" label="co-authorship: 19293568">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="13" target="12" label="co-authorship: 19473820">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="104" label="co-authorship: 21062623">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="10" target="47" label="co-authorship: 19651401">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="54" target="7" label="co-authorship: 18079025">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#42f3da" width="0.71428573"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="5" target="55" label="co-authorship: 18079025 - co-authorship: 18239198 - co-authorship: 18367838 - co-authorship: 18765651 - co-authorship: 19129700 - co-authorship: 19228583 - co-authorship: 19896333 - co-authorship: 21244352 - co-authorship: 21458888">
+<att name="weight" type="real" value="2.3428571"/>
+<graphics fill="#42f3da" width="11.714286"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="75" target="62" label="co-authorship: 18805604">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="76" target="4" label="co-authorship: 18925931 - co-authorship: 21185269">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="94" label="co-authorship: 21062623 - co-authorship: 21185269">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="42f3da" width="2.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="17" target="18" label="co-authorship: 17283305 - co-authorship: 17347371 - co-authorship: 18250236 - co-authorship: 18552630 - co-authorship: 18945918 - co-authorship: 19178553 - co-authorship: 19487609 - co-authorship: 20636686">
+<att name="weight" type="real" value="3.1666665"/>
+<graphics fill="#42f3da" width="15.833332"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="97" target="41" label="co-authorship: 20185971">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="67" target="7" label="co-authorship: 18538995">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="5" target="57" label="co-authorship: 19382130">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="2" target="51" label="co-authorship: 18028386">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="5" target="21" label="co-authorship: 17291370">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="52" target="73" label="co-authorship: 18795171">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="50" target="66" label="co-authorship: 18520427">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#42f3da" width="2.5"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="20" target="2" label="co-authorship: 18558643 - co-authorship: 18766013 - co-authorship: 20634363 - co-authorship: 21346734">
+<att name="weight" type="real" value="1.1166667"/>
+<graphics fill="#42f3da" width="5.5833335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="62" label="co-authorship: 20381196">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="42" target="22" label="co-authorship: 19594667">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="81" target="62" label="co-authorship: 19697298">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="25" target="34" label="co-authorship: 17593907 - co-authorship: 19852847 - co-authorship: 19937345 - co-authorship: 20015484">
+<att name="weight" type="real" value="0.9916667"/>
+<graphics fill="#42f3da" width="4.9583335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="2" target="3" label="co-authorship: 16445942 - co-authorship: 17392739 - co-authorship: 19622684">
+<att name="weight" type="real" value="0.8666667"/>
+<graphics fill="#42f3da" width="4.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="19" target="27" label="co-authorship: 20044143">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="22" target="60" label="co-authorship: 18204342">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="46" target="19" label="co-authorship: 17894412 - co-authorship: 18348195">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#42f3da" width="2.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="38" target="65" label="co-authorship: 18435606 - co-authorship: 18794506">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#42f3da" width="3.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="52" target="53" label="co-authorship: 18028881 - co-authorship: 18172433 - co-authorship: 18412102 - co-authorship: 19058788 - co-authorship: 19188290 - co-authorship: 19188629 - co-authorship: 19288975 - co-authorship: 19545857 - co-authorship: 19897179 - co-authorship: 21194898 - co-authorship: 21377656">
+<att name="weight" type="real" value="4.916667"/>
+<graphics fill="#42f3da" width="24.583336"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="26" target="3" label="co-authorship: 19393990">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="23" target="17" label="co-authorship: 18552630 - co-authorship: 18945918 - co-authorship: 20636686">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#42f3da" width="3.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="77" target="78" label="co-authorship: 18945918">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#42f3da" width="0.8333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="18" target="3" label="co-authorship: 20636686">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="19" label="co-authorship: 17427195 - co-authorship: 17894412 - co-authorship: 18001468 - co-authorship: 18348195 - co-authorship: 18925931">
+<att name="weight" type="real" value="1.2833333"/>
+<graphics fill="#42f3da" width="6.4166665"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="55" target="64" label="co-authorship: 18367838 - co-authorship: 19129700">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#42f3da" width="2.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="46" target="33" label="co-authorship: 20015484">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#42f3da" width="0.625"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="42" target="43" label="co-authorship: 17712167 - co-authorship: 20231319">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#42f3da" width="5.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="27" label="co-authorship: 17427195 - co-authorship: 17894412">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#42f3da" width="2.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="17" target="7" label="co-authorship: 18552630 - co-authorship: 18768035 - co-authorship: 18945918 - co-authorship: 21599869">
+<att name="weight" type="real" value="1.0833334"/>
+<graphics fill="42f3da" width="5.416667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="2" target="93" label="co-authorship: 19896333">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="9" target="47" label="co-authorship: 19651401">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="45" label="co-authorship: 19622684">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="34" target="33" label="co-authorship: 20015484">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#42f3da" width="0.625"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="7" target="19" label="co-authorship: 17289158 - co-authorship: 17894412 - co-authorship: 18023042 - co-authorship: 18079025 - co-authorship: 18161858 - co-authorship: 18367838 - co-authorship: 18538995 - co-authorship: 18757771 - co-authorship: 19147740 - co-authorship: 19584451 - co-authorship: 20875727">
+<att name="weight" type="real" value="3.1261904"/>
+<graphics fill="#42f3da" width="15.630952"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="9" target="10" label="co-authorship: 17203018 - co-authorship: 19394205 - co-authorship: 19651401 - co-authorship: 20451217">
+<att name="weight" type="real" value="0.95000005"/>
+<graphics fill="#42f3da" width="4.75"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="52" target="70" label="co-authorship: 18795171">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="1" target="7" label="co-authorship: 19622684">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="5" target="7" label="co-authorship: 17472705 - co-authorship: 17845826 - co-authorship: 18079025 - co-authorship: 18367838 - co-authorship: 18466986 - co-authorship: 18765651 - co-authorship: 19129700 - co-authorship: 19228583 - co-authorship: 19343227 - co-authorship: 19382130 - co-authorship: 20079340 - co-authorship: 20205790 - co-authorship: 21244352 - co-authorship: 21331351 - co-authorship: 21458888">
+<att name="weight" type="real" value="4.542857"/>
+<graphics fill="#42f3da" width="22.714287"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="29" target="15" label="co-authorship: 21107857">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="5" target="56" label="co-authorship: 18079025">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#42f3da" width="0.71428573"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="24" label="co-authorship: 17403541 - co-authorship: 19852847 - co-authorship: 20015484">
+<att name="weight" type="real" value="0.65833336"/>
+<graphics fill="#42f3da" width="3.2916667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="9" target="11" label="co-authorship: 17203018">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#42f3da" width="0.8333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="23" target="18" label="co-authorship: 17347378 - co-authorship: 18552630 - co-authorship: 18945918 - co-authorship: 20636686">
+<att name="weight" type="real" value="1.1666667"/>
+<graphics fill="#42f3da" width="5.833334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="10" target="12" label="co-authorship: 17203018 - co-authorship: 19394205 - co-authorship: 19651401 - co-authorship: 20451217 - co-authorship: 21115066">
+<att name="weight" type="real" value="1.2"/>
+<graphics fill="#42f3da" width="6.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="2" target="60" label="co-authorship: 18204342 - co-authorship: 20634363 - co-authorship: 21346734">
+<att name="weight" type="real" value="0.8666667"/>
+<graphics fill="#42f3da" width="4.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="20" target="22" label="co-authorship: 18766013">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="24" target="34" label="co-authorship: 17593907 - co-authorship: 19852847 - co-authorship: 19937345 - co-authorship: 20015484">
+<att name="weight" type="real" value="0.9916667"/>
+<graphics fill="#42f3da" width="4.9583335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="40" target="22" label="co-authorship: 20185971">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="7" target="39" label="co-authorship: 21599869">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="35" target="9" label="co-authorship: 19651401">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#42f3da" width="1.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="20" target="68" label="co-authorship: 18558643">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#42f3da" width="1.25"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="17" target="39" label="co-authorship: 18768035 - co-authorship: 21599869">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#42f3da" width="3.3333335"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="57" target="81" label="co-authorship: 19697298">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#42f3da" width="1.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="11" target="12" label="co-authorship: 17203018">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#42f3da" width="0.8333334"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="4" target="3" label="co-authorship: 19393990">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#6cb346" width="1.25"/>
+<att name="departments" type="string" value="Neuroscience;Psychiatry"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 16445942 - co-authorship: 18766013 - co-authorship: 19622684">
+<att name="weight" type="real" value="0.73333335"/>
+<graphics fill="#42f3da" width="3.6666667"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="24" target="46" label="co-authorship: 20015484">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#42f3da" width="0.625"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="52" target="88" label="co-authorship: 19455174">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="df0ee7" width="1.6666667"/>
+<att name="departments" type="string" value="Neuroscience;Pharmacology and Systems Therapeutics;Psychiatry"/>
+</edge>
+<edge source="88" target="96" label="co-authorship: 20056891 - co-authorship: 20729844">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#42f3da" width="5.0"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+<edge source="90" target="22" label="co-authorship: 19520360">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Child and Adolescent Psychiatry &amp; Psychiatry;Radiology"/>
+</edge>
+<edge source="8" target="3" label="co-authorship: 17202561 - co-authorship: 17768269 - co-authorship: 18037011 - co-authorship: 18281061 - co-authorship: 19162277 - co-authorship: 19411143">
+<att name="weight" type="real" value="2.3333333"/>
+<graphics fill="#42f3da" width="11.666666"/>
+<att name="departments" type="string" value="Psychiatry"/>
+</edge>
+</graph>

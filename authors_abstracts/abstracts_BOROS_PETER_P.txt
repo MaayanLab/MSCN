@@ -1,0 +1,16 @@
+20705113
+Myeloid-derived suppressor cells: natural regulators for transplant tolerance.
+Myeloid derived suppressor cells (MDSC) contribute to the negative regulation of immune response in cancer patients. This review summarizes results on important issues related to MDSC biology, including expansion and activation of MDSC, phenotype, and subsets as well pathways and different mechanisms by which these cells exert their suppressive effect. Recent observations suggesting that MDSC may have roles in transplant tolerance are presented. Although therapeutic targeting and destruction of MDCS is of primary interest in cancer patients, in transplantation it will instead be necessary to induce, expand, and activate these cells; thus current possibilities for in vitro generation of MDSC are also discussed.
+
+18638653
+De novo autoimmunity after organ transplantation: targets and possible pathways.
+The development of autoantibodies to different tissue-specific antigens in patients without existing history of autoimmune diseases suggests that autoimmunity may develop de novo after organ transplantation. In addition to allo-specific immune responses, tissue-specific autoimmunity also appears contribute to the host anti-graft response, and thus may affect long-term graft function. As graft failure caused by chronic rejection is a major challenge in clinical transplantation, understanding de novo autoreactivity after transplantation has important ramifications. This review investigates this emerging concept by discussing target antigens and possible pathways.
+
+17584602
+Organ transplantation in rodents: novel applications of long-established methods.
+Rodent models of solid organ transplantation have been used for many decades. Standardized operative techniques resulting in highly reproducible survival rates have been developed for several organs. This allowed scientists to investigate many clinically relevant problems, test new drugs and establish novel treatment regimens. Recently, many studies used these models to explore novel issues such as graft modification by pharmaceutical, surgical or genetic engineering methods, post-transplant regeneration, leukocyte trafficking or interactions between the innate and allo-specific arms of the immune response. The results from these studies clearly facilitate a more complex and comprehensive understanding of existing problem. The long-established methods of rodent organ transplantation, combined with the newest achievements in surgical techniques, biotechnology and imaging, will remain indispensable tools of transplantation biology.
+
+19538489
+Human FOXP3+ regulatory T cells in transplantation.
+CD4+CD25+FOXP3+ suppressive regulatory T cells (Treg) represent a subset of immune regulatory cells. Based on experimental results, Treg have recently been considered as a potential treatment option in several diseases. Compared with murine Treg, human CD4+CD25+FOXP3+ cells are less well characterized and understood, so a thorough understanding of their biology is vital before clinical applications can be initiated. This review summarizes knowledge on generation, phenotypic characteristics and function of human Treg. The possible role of these cells in organ transplantation, as well as interactions between immunosuppression and Treg are also discussed.
+

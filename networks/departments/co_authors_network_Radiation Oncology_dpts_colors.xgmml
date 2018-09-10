@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="STOCK RICHARD RG">
+<graphics fill="5f5bad"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Radiation Oncology"/>
+</node>
+<node id="2" label="STONE NELSON NN">
+<graphics fill="d0c9bc"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR;CLINICAL PROFESSOR;CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Radiation Oncology;Urology"/>
+</node>
+<node id="3" label="ROSENSTEIN BARRY BS">
+<graphics fill="55fbfe"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology;Preventive Medicine;Radiation Oncology"/>
+</node>
+<node id="4" label="GREEN SHERYL S">
+<graphics fill="5f5bad"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Radiation Oncology"/>
+</node>
+<node id="5" label="GUPTA VISHAL V">
+<graphics fill="5f5bad"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Radiation Oncology"/>
+</node>
+<node id="6" label="SOM PETER PM">
+<graphics fill="055cd0"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Otolaryngology;Radiation Oncology;Radiology"/>
+</node>
+<edge source="4" target="1" label="co-authorship: 17517479 - co-authorship: 20589524">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#5f5bad" width="4.166667"/>
+<att name="departments" type="string" value="Radiation Oncology"/>
+</edge>
+<edge source="3" target="2" label="co-authorship: 17490827 - co-authorship: 17689884 - co-authorship: 18582155 - co-authorship: 21167528">
+<att name="weight" type="real" value="1.3333334"/>
+<graphics fill="5f5bad" width="6.666667"/>
+<att name="departments" type="string" value="Radiation Oncology"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 21167528">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#5f5bad" width="1.6666667"/>
+<att name="departments" type="string" value="Radiation Oncology"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 20830768">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#5f5bad" width="2.5"/>
+<att name="departments" type="string" value="Radiation Oncology"/>
+</edge>
+<edge source="4" target="3" label="co-authorship: 17517479">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#5f5bad" width="1.6666667"/>
+<att name="departments" type="string" value="Radiation Oncology"/>
+</edge>
+<edge source="3" target="1" label="co-authorship: 17490827 - co-authorship: 17517479 - co-authorship: 17689884 - co-authorship: 18582155 - co-authorship: 21167528">
+<att name="weight" type="real" value="1.6666667"/>
+<graphics fill="#5f5bad" width="8.333334"/>
+<att name="departments" type="string" value="Radiation Oncology"/>
+</edge>
+</graph>

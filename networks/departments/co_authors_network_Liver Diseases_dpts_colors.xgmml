@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="ROAYAIE SASAN S">
+<graphics fill="539bd5"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Liver Diseases;Surgery"/>
+</node>
+<node id="2" label="SCHIANO THOMAS TD">
+<graphics fill="b439a0"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</node>
+<node id="3" label="ALLINA JORGE J">
+<graphics fill="b439a0"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</node>
+<node id="4" label="ODIN JOSEPH JA">
+<graphics fill="b439a0"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</node>
+<node id="5" label="BACH NANCY N">
+<graphics fill="b439a0"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</node>
+<node id="6" label="FRIEDMAN SCOTT SL">
+<graphics fill="b439a0"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</node>
+<node id="7" label="NIETO NATALIA N">
+<graphics fill="b439a0"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</node>
+<node id="8" label="LIU LAWRENCE L">
+<graphics fill="b439a0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</node>
+<node id="9" label="ALOMAN COSTICA C">
+<graphics fill="b439a0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</node>
+<node id="10" label="BANSAL MEENA MB">
+<graphics fill="b439a0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</node>
+<node id="11" label="HONG FENG F">
+<graphics fill="b439a0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</node>
+<node id="12" label="PERUMALSWAMI PONNI P">
+<graphics fill="b439a0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</node>
+<node id="13" label="GOUON-EVANS VALERIE V">
+<graphics fill="0b4ace"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Liver Diseases"/>
+</node>
+<node id="14" label="BRANCH ANDREA AD">
+<graphics fill="2984f0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Liver Diseases;Microbiology;Surgery"/>
+</node>
+<edge source="6" target="7" label="co-authorship: 18316020">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b439a0" width="2.5"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="8" target="4" label="co-authorship: 18452122">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b439a0" width="2.5"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="6" target="4" label="co-authorship: 19908945">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#b439a0" width="1.6666667"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="14" target="2" label="co-authorship: 21034775">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b439a0" width="2.5"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="3" target="6" label="co-authorship: 19908945">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#b439a0" width="1.6666667"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="6" target="11" label="co-authorship: 20022962">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b439a0" width="2.5"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="4" target="12" label="co-authorship: 19676005">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b439a0" width="2.5"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="9" target="6" label="co-authorship: 19396960 - co-authorship: 21284665">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#b439a0" width="5.0"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="10" target="6" label="co-authorship: 20563750">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b439a0" width="2.5"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 16967310 - co-authorship: 18589139">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#b439a0" width="5.0"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="3" target="5" label="co-authorship: 18392679">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#b439a0" width="1.6666667"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17222534 - co-authorship: 18023559 - co-authorship: 18392679 - co-authorship: 19908945">
+<att name="weight" type="real" value="1.5000001"/>
+<graphics fill="#b439a0" width="7.5000005"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="10" target="11" label="co-authorship: 19434726 - co-authorship: 20683959">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#b439a0" width="5.0"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="5" target="4" label="co-authorship: 18023559 - co-authorship: 18392679">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#b439a0" width="3.3333335"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="6" target="1" label="co-authorship: 18929564 - co-authorship: 19665249">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#b439a0" width="5.0"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="9" target="2" label="co-authorship: 21442058">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b439a0" width="2.5"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+<edge source="6" target="13" label="co-authorship: 20430021">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b439a0" width="2.5"/>
+<att name="departments" type="string" value="Liver Diseases"/>
+</edge>
+</graph>

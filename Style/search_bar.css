@@ -1,0 +1,20 @@
+#top_search
+{
+    width: 380px;
+    float: right;
+}
+#search_bar
+{
+    background-image: url('../images/search.png');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    width: 240px;
+    height: 17px;
+    margin: 0px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-left: 38px;
+    border-style: none;
+    float: left;
+}

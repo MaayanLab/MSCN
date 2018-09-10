@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="POU5F1">
+<graphics fill="#b61515"/>
+</node>
+<node id="2" label="GATAD2B">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="3" label="SALL4">
+<graphics fill="#b61515"/>
+</node>
+<node id="4" label="NANOG">
+<graphics fill="#b61515"/>
+</node>
+<node id="5" label="SOX2">
+<graphics fill="#b61515"/>
+</node>
+<node id="6" label="SP1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="7" label="SMARCA4">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="8" label="GATAD2A">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="9" label="MBD3">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="10" label="ESRRB">
+<graphics fill="#b61515"/>
+</node>
+<node id="11" label="HCFC1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="12" label="SALL3">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="13" label="CTBP2">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="14" label="ZFP143">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="15" label="TCFCP2L1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="16" label="MYC">
+<graphics fill="#b61515"/>
+</node>
+<node id="17" label="BRD8">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="18" label="NR0B1">
+<graphics fill="#b61515"/>
+</node>
+<node id="19" label="ILF3">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="20" label="ZFP281">
+<graphics fill="#b61515"/>
+</node>
+<node id="21" label="HDAC2">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="22" label="SALL1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="23" label="DPF2">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="24" label="KLF5">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="25" label="PRMT1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="26" label="HDAC1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="27" label="EWSR1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="28" label="PBRM1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="29" label="WAPL">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="30" label="ZFP219">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="31" label="TCFCP2">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="32" label="YY1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="33" label="L1TD1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="34" label="CHD4">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="35" label="ACTL6A">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="36" label="MTA2">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="37" label="MTA1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="38" label="TBP">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="39" label="NACC1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="40" label="RIF1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="41" label="UBP1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="42" label="RBBP5">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="43" label="SMARCA5">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="44" label="TRRAP">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="45" label="EP400">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="46" label="SMARCD1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="47" label="SMARCC1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="48" label="MED12">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="49" label="ARID1A">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="50" label="MTA3">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="51" label="ZFP42">
+<graphics fill="#b61515"/>
+</node>
+<node id="52" label="TRIM28">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="53" label="SMARCB1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="54" label="WDR5">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="55" label="RBBP7">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="56" label="KLF4">
+<graphics fill="#b61515"/>
+</node>
+<node id="57" label="REST">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="58" label="DMAP1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="59" label="RBBP4">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="60" label="ZBTB2">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="61" label="JMJD1C">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="62" label="RNF2">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="63" label="ZSCAN10">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="64" label="OGT">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="65" label="PML">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="66" label="CDK1">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="67" label="RAI14">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="68" label="ZFP462">
+<graphics fill="#FFFF00"/>
+</node>
+<edge source="18" target="6" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="66" target="1" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="39" target="4" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="3" target="53" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="38" label="ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="64" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="23" target="51" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="23" target="1" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="22" target="5" label="ppi: 21062744">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="15" target="54" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="44" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="26" target="3" label="ppi: 19440552">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="9" target="1" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="39" target="47" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="62" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="67" label="ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="38" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="3" target="7" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="14" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="40" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="49" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="11" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="2" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="9" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="39" target="3" label="ppi: 20362541 - ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="28" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="39" target="22" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="22" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="36" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="68" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="35" target="1" label="ppi: 20362542">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="3" target="31" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="47" target="51" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="22" label="ppi: 20362542 - ppi: 20362541 - ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="36" target="1" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="62" target="51" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="12" label="ppi: 20362542">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="19" target="4" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="3" label="ppi: 20362541 - ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="67" target="51" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="13" target="1" label="ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="31" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="50" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="36" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="65" target="1" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="22" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="37" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="58" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="58" target="16" label="ppi: 20946988">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="8" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="53" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="2" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="64" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="50" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="36" target="4" label="ppi: 18454141">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="34" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="46" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="55" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="11" target="1" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="26" target="1" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="33" target="1" label="ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="27" target="20" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="18" target="57" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="60" label="ppi: 20362542">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="39" target="20" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="34" target="10" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="9" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="35" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="45" target="10" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="58" target="44" label="ppi: 20946988">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="39" target="51" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="47" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="22" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="52" target="51" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="7" label="ppi: 20362542 - ppi: 20362541 - ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="24" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="46" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="41" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="3" label="ppi: 20362541 - ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="11" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="43" label="ppi: 20362542 - ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="68" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="4" target="6" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="21" target="4" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="50" target="1" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="34" target="1" label="ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="49" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="37" target="1" label="ppi: 20362542">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="37" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="21" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="58" target="10" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="47" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="4" target="65" label="ppi: 18454140">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="23" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="8" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="17" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="4" target="3" label="ppi: 16840789 - ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="4" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="4" target="22" label="ppi: 21062744 - ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="51" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="44" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="32" target="51" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="50" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="49" target="1" label="ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="53" label="ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="66" target="20" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="41" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="19" target="1" label="ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="4" target="40" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="15" target="14" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="56" target="5" label="ppi: 19816951">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="4" target="29" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="18" target="54" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="9" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="17" target="10" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="35" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="27" target="1" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="33" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="3" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="18" target="40" label="ppi: 17093407 - ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="45" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="3" target="30" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="45" target="1" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="36" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="15" label="ppi: 20362541 - ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="40" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="64" target="1" label="ppi: 20362542">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="48" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="45" target="16" label="ppi: 20946988">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="18" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="54" label="ppi: 20362541 - ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="5" label="ppi: 17324942">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="47" label="ppi: 20362542 - ppi: 0 - ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="18" target="1" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="40" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="62" label="ppi: 0 - ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="21" target="3" label="ppi: 19440552">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="25" target="51" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="37" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="4" target="57" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="61" target="1" label="ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="24" target="36" label="ppi: 18983969">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="26" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="21" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="30" label="ppi: 17093407 - ppi: 20362542 - ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="7" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="18" target="52" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="43" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="42" label="ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="18" target="25" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="3" target="14" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="55" label="ppi: 0 - ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="39" target="40" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="54" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="59" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="42" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="1" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="55" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="8" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="23" target="20" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="4" target="1" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="31" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="2" target="1" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="3" target="54" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="37" target="4" label="ppi: 18454141">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="24" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="28" target="1" label="ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="5" target="63" label="ppi: 19740739">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="10" target="61" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="34" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="2" target="39" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="17" target="58" label="ppi: 20946988">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="7" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="8" target="1" label="ppi: 0">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="33" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="15" target="44" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="40" target="20" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="29" target="51" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="12" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="4" target="20" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="48" target="4" label="ppi: 19036726">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="16" target="44" label="ppi: 20946988">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="49" target="10" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="4" target="18" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="56" target="1" label="ppi: 20362542">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="15" target="41" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="23" target="10" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="17" target="16" label="ppi: 20946988">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="21" target="1" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="23" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="3" target="47" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="3" target="20" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="63" label="ppi: 19740739">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="26" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="32" label="ppi: 19536159">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="21" target="24" label="ppi: 18983969">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="2" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="3" target="46" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="3" target="60" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="18" target="64" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="58" target="45" label="ppi: 20946988">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="4" target="52" label="ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="39" target="1" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="6" label="ppi: 20362542 - ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="1" target="52" label="ppi: 20508149">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="43" target="15" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="18" target="3" label="ppi: 20362541 - ppi: 17093407">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="18" target="22" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="24" target="1" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="13" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<edge source="59" target="3" label="ppi: 20362541">
+<graphics fill="#DDCCFF"/>
+</edge>
+<node id="69" label="PRDM14">
+<graphics fill="#FFFF00"/>
+</node>
+<node id="70" label="JARID2">
+<graphics fill="#b61515"/>
+</node>
+<node id="71" label="TBX3">
+<graphics fill="#b61515"/>
+</node>
+<edge source="1" target="71" label="logof: 20526341">
+<graphics fill="#FFB340"/>
+</edge>
+<edge source="4" target="1" label="logof: 20526341">
+<graphics fill="#FFB340"/>
+</edge>
+<edge source="70" target="1" label="logof: 20526341">
+<graphics fill="#FFB340"/>
+</edge>
+<edge source="1" target="5" label="logof: 20526341">
+<graphics fill="#FFB340"/>
+</edge>
+<edge source="1" target="69" label="logof: 20953172">
+<graphics fill="#FFB340"/>
+</edge>
+<edge source="18" target="1" label="logof: 20526341">
+<graphics fill="#FFB340"/>
+</edge>
+<edge source="56" target="1" label="logof: 20526341">
+<graphics fill="#FFB340"/>
+</edge>
+<edge source="70" target="69" label="logof: 20953172">
+<graphics fill="#FFB340"/>
+</edge>
+<edge source="69" target="5" label="logof: 20953172">
+<graphics fill="#FFB340"/>
+</edge>
+</graph>

@@ -1,0 +1,8 @@
+19217519
+Lipid management in the geriatric patient.
+Elderly individuals are at higher risk for cardiovascular events, and thus this population stands to gain a greater reduction in events from lipid therapy than younger individuals. Multiple primary and secondary prevention trials have demonstrated that the benefits of statins in geriatric patients are equivalent to, or greater than, those seen in younger patients. Combination therapy with non-statin agents should be considered in patients who do not meet cholesterol goals or who have concomitant hypertriglyceridemia or low levels of high-density lipoprotein cholesterol. Although increased side effects may occur with high-dose statin therapy, careful vigilance of drug interactions and limiting polypharmacy can reduce these effects.
+
+18539240
+Cardiac sarcoidosis.
+Sarcoidosis is a systemic disease with a favorable prognosis, high remission rate, and low mortality. Cardiac involvement alters this prognosis. Clinical manifestations most commonly include arrhythmias, conduction abnormalities, and congestive heart failure. Treatment includes immunosuppressant therapy, permanent pacemakers in the setting of conduction abnormalities, and implantable cardioverter-defibrillators in patients at risk for sudden cardiac death. Risk stratification for sudden cardiac death is essential in otherwise asymptomatic patients who have suspected cardiac sarcoidosis.
+

@@ -1,0 +1,12 @@
+20803676
+A model of a hospitalist role in the care of admitted patients in the emergency department.
+
+
+18828171
+Clinical prediction rules for hospitalists.
+
+
+18491194
+Tips for teachers of evidence-based medicine: clinical prediction rules (CPRs) and estimating pretest probability.
+Clinical prediction rules (CPR) are tools that clinicians can use to predict the most likely diagnosis, prognosis, or response to treatment in a patient based on individual characteristics. CPRs attempt to standardize, simplify, and increase the accuracy of clinicians' diagnostic and prognostic assessments. The teaching tips series is designed to give teachers advice and materials they can use to attain specific educational objectives. In this article, we present 3 teaching tips aimed at helping clinical learners use clinical prediction rules and to more accurately assess pretest probability in every day practice. The first tip is designed to demonstrate variability in physician estimation of pretest probability. The second tip demonstrates how the estimate of pretest probability influences the interpretation of diagnostic tests and patient management. The third tip exposes learners to various examples and different types of Clinical Prediction Rules (CPR) and how to apply them in practice. PILOT TESTING: We field tested all 3 tips with 16 learners, a mix of interns and senior residents. Teacher preparatory time was approximately 2 hours. The field test utilized a board and a data projector; 3 handouts were prepared. The tips were felt to be clear and the educational objectives reached. Potential teaching pitfalls were identified. Teaching with these tips will help physicians appreciate the importance of applying evidence to their every day decisions. In 2 or 3 short teaching sessions, clinicians can also become familiar with the use of CPRs in applying evidence consistently in everyday practice.
+

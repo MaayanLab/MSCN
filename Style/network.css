@@ -1,0 +1,63 @@
+#corpus
+{
+    margin-top: 20px;
+}
+#corpus h4
+{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	margin-left: 25%;
+	text-transform : none;
+}
+
+#formnetwork
+{
+	margin: auto;
+    text-align: left;
+    overflow: auto;
+    float: left;
+    width: 25%;
+}
+
+#flashcontainer
+{
+	margin: auto;
+    overflow: hidden;
+    text-align: center;
+    width: 75%;
+    padding-bottom : 20px;
+}
+
+#formnetwork form
+{
+	margin: auto;
+    text-align: left;
+	border-top: solid 1px #EEEEEE;
+	padding-right : 10px;
+}
+
+#flashcytoscape
+{
+    text-align: center;
+}
+
+table
+{
+    margin: auto;
+}
+
+.center
+{
+    text-align: center;
+}
+
+#infos
+{
+     border-top: solid 1px #EEEEEE;
+}
+
+.clear
+{
+	clear: both;
+}

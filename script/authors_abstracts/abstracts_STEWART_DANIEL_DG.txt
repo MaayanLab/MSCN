@@ -1,0 +1,12 @@
+18766013
+Temporal characteristics of tract-specific anisotropy abnormalities in schizophrenia.
+White matter abnormalities have been detected using diffusion tensor imaging in a variety of locations in the brains of patients with schizophrenia. Studies that included first-episode patients report less severe or no abnormalities but more pronounced deficits in chronic patients. Here, we investigated these abnormalities in a very large group of patients with schizophrenia who had both large ranges in age and in duration of illness. A highly reproducible diffusion tensor imaging tractography technique was used to quantify the fractional anisotropy of the genu and splenium of the corpus callosum as well as the bilateral pyramidal tracts. We found a decline in fractional anisotropy that correlated with the duration of illness in the genu and splenium of the corpus callosum but not in the pyramidal tracts. The findings suggest that there are white matter tract-specific degenerative mechanisms that may be present at the point of illness onset and may progress throughout the illness.
+
+18381916
+The lobotomist.
+
+
+17291370
+Variations in oligodendrocyte-related gene expression across multiple cortical regions: implications for the pathophysiology of schizophrenia.
+The disconnectivity syndrome hypothesis of schizophrenia suggests that communication between multiple brain circuits and regions may be disrupted. Microarray studies analysed gene expression in 15 different brain regions derived from 13 persons with schizophrenia and controls. The superior temporal gyrus, cingulate gyrus and hippocampus evidence the greatest numbers of abnormally expressed genes. Gene ontology categorization suggested that gene classes associated with oligodendrocytes and myelin function were among the most profoundly affected. qPCR and additional microarray studies have validated these oligodendrocyte- and myelin-associated findings in independent cohorts. At least some of the affected genes are associated with the regulation of axoglial contacts, axon calibre and the integrity of functional elements involved in signal propagation. The confluence of emerging evidence shows that myelination abnormalities are major components of the neurobiology of schizophrenia and suggest that re-evaluation of some long-held hypotheses and beliefs regarding the biological substrates of schizophrenia may be warranted.
+

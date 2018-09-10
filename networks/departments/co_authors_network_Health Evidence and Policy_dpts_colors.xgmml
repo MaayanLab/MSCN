@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="BICKELL NINA NA">
+<graphics fill="272888"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine;Health Evidence and Policy"/>
+</node>
+<node id="2" label="WANG JASON JJ">
+<graphics fill="cb0b11"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</node>
+<node id="3" label="HOROWITZ CAROL CR">
+<graphics fill="40751f"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Health Evidence and Policy;Medicine"/>
+</node>
+<node id="4" label="HEBERT PAUL PL">
+<graphics fill="cb0b11"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</node>
+<node id="5" label="SISK JANE JE">
+<graphics fill="cb0b11"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</node>
+<node id="6" label="HOWELL ELIZABETH EA">
+<graphics fill="8b67ab"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Health Evidence and Policy;Obstetrics, Gynecology and Reproductive Science;Psychiatry"/>
+</node>
+<node id="7" label="GELIJNS ANNETINE AC">
+<graphics fill="cb0b11"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</node>
+<node id="8" label="MOSKOWITZ ALAN AJ">
+<graphics fill="40751f"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Health Evidence and Policy;Medicine"/>
+</node>
+<node id="9" label="PARIDES MICHAEL MK">
+<graphics fill="cb0b11"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</node>
+<node id="10" label="GIACOVELLI JEANNINE JK">
+<graphics fill="cb0b11"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</node>
+<node id="11" label="GRECO GIAMPAOLO G">
+<graphics fill="cb0b11"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</node>
+<node id="12" label="EGOROVA NATALIA NN">
+<graphics fill="cb0b11"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</node>
+<node id="13" label="KLEINMAN LAWRENCE L">
+<graphics fill="9b9978"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Health Evidence and Policy;Pediatrics"/>
+</node>
+<node id="14" label="KAPLAN HAROLD HS">
+<graphics fill="cb0b11"/>
+<att name="functions" type="string" value="PROFESSOR (PENDING)"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</node>
+<edge source="4" target="5" label="co-authorship: 18306248 - co-authorship: 18332492">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#cb0b11" width="2.916667"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="6" target="5" label="co-authorship: 18332492">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#cb0b11" width="1.6666667"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17577028">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#cb0b11" width="2.5"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="12" target="7" label="co-authorship: 20840476 - co-authorship: 20881774">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#cb0b11" width="2.25"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="7" target="9" label="co-authorship: 19486755">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#cb0b11" width="1.6666667"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="7" target="11" label="co-authorship: 20840476 - co-authorship: 20881774">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#cb0b11" width="2.25"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="14" target="8" label="co-authorship: 20840476">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#cb0b11" width="1.0"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="11" target="14" label="co-authorship: 20840476">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#cb0b11" width="1.0"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="7" target="14" label="co-authorship: 20840476">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#cb0b11" width="1.0"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="5" target="2" label="co-authorship: 18306248">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#cb0b11" width="1.25"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="3" target="5" label="co-authorship: 18306248">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#cb0b11" width="1.25"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="12" target="13" label="co-authorship: 20674247">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#cb0b11" width="2.5"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="7" target="8" label="co-authorship: 19486755 - co-authorship: 19632560 - co-authorship: 20840476 - co-authorship: 20881774">
+<att name="weight" type="real" value="1.2833334"/>
+<graphics fill="#cb0b11" width="6.416667"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="12" target="11" label="co-authorship: 20840476 - co-authorship: 20881774">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#cb0b11" width="2.25"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="8" target="9" label="co-authorship: 19486755">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#cb0b11" width="1.6666667"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="12" target="8" label="co-authorship: 20840476 - co-authorship: 20881774 - co-authorship: 21498023">
+<att name="weight" type="real" value="0.95"/>
+<graphics fill="#cb0b11" width="4.75"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="4" target="3" label="co-authorship: 18306248">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#cb0b11" width="1.25"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="3" target="2" label="co-authorship: 18306248">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#cb0b11" width="1.25"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="11" target="8" label="co-authorship: 20840476 - co-authorship: 20881774">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#cb0b11" width="2.25"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="12" target="14" label="co-authorship: 20840476">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#cb0b11" width="1.0"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="10" target="11" label="co-authorship: 19782526">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#cb0b11" width="2.5"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="4" target="2" label="co-authorship: 18306248">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#cb0b11" width="1.25"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+<edge source="4" target="6" label="co-authorship: 18332492">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#cb0b11" width="1.6666667"/>
+<att name="departments" type="string" value="Health Evidence and Policy"/>
+</edge>
+</graph>

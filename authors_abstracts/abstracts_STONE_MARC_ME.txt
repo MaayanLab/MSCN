@@ -1,0 +1,24 @@
+19240043
+Current perioperative management of the patient with a cardiac rhythm management device.
+The safe and effective perioperative management of the patient with a cardiac rhythm management device (ie, pacemaker and/or implantable cardioverter defibrillator) is based entirely on the avoidance of adverse outcomes, including damage to the device, the leads, or the site of lead implantation that might prevent the device from functioning as intended. An important management principle is the potential reprogramming of such a device in the perioperative period to avoid transient interruption of device function or the delivery of inappropriate electrophysiological therapy (eg, unnecessary defibrillation or pacing). Given the large numbers of patients worldwide currently implanted with these devices, the anesthesia practitioner should become electively familiar with the current technology. This article describes the current status of cardiac rhythm management devices and discusses recommended perioperative management.
+
+19174527
+Cerebral air embolism recognized by cerebral oximetry.
+Absolute cerebral oximetry is useful in clinical settings to identify "catastrophic events" that may occur during the course of surgeries that would otherwise have gone unrecognized. This study reports a case in which cerebral desaturation occurred after commencing cardiopulmonary bypass. Consequently, the source of air entrainment was discovered and therapeutic measures implemented.
+
+19054691
+Successful conservative management of a tracheal tear in a septic octogenarian.
+
+
+17711972
+Anesthetic consideration for descending thoracic aortic aneurysm repair.
+Anesthesia for surgery of the aorta poses some of the most difficult challenges for anesthesiologists. Major hemodynamic and physiologic stresses and sophisticated techniques of extracorporeal support are superimposed on patients with complex medical disease states. In this review, etiologies, natural history, and surgical techniques of thoracic aortic aneurysm are presented. Anesthetic considerations are discussed in detail, including the management of distal perfusion using partial cardiopulmonary bypass. Considerations of spinal cord protection, including management of proximal hypertension, cerebral spinal fluid drainage, and pharmacological therapies, are presented.
+
+17711971
+Current status of mechanical circulatory assistance.
+Mechanical circulatory support has become an increasingly used management strategy for patients with both acute and chronic ventricular failure. This article briefly reviews the current state of mechanical circulatory support with a focus on indications, contraindications, and complications of currently available devices. Perioperative considerations for ventricular assist device implantation are discussed, including the decision-making process underlying the use of univentricular versus biventricular support, specific anesthetic considerations, and the role of transesophageal echocardiography where ventricular assist devices are concerned. The anesthetic considerations for the patient already supported by a ventricular assist device presenting for noncardiac surgery are also reviewed. The work concludes with a discussion of the rationale behind the next generation of continuous flow devices currently in human clinical trials.
+
+17711970
+Intracardiac thrombosis and acute right ventricular failure following complex reoperative cardiac surgery with aprotinin and deep hypothermic circulatory arrest.
+Although coagulopathy and bleeding are common in the setting of cardiac surgery, a growing number of case reports in the literature suggest that hypercoagulability may also result in significant morbidity and mortality. We present a case of apparent hypercoagulability with formation of thrombus in the cardiac chambers following reoperative cardiac surgery using cardiopulmonary bypass, aprotinin, and deep hypothermic arrest. A review of those hypercoagulable disorders with reported impact on cardiac surgery and a discussion follow the case presentation.
+

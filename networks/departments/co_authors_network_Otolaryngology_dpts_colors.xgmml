@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="GENDEN ERIC EM">
+<graphics fill="eb4f9c"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Neurosurgery;Otolaryngology"/>
+</node>
+<node id="2" label="JACOBSON ADAM AS">
+<graphics fill="64b2be"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</node>
+<node id="3" label="LAWSON WILLIAM W">
+<graphics fill="64b2be"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</node>
+<node id="4" label="SOM PETER PM">
+<graphics fill="055cd0"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Otolaryngology;Radiation Oncology;Radiology"/>
+</node>
+<node id="5" label="OMERHODZIC SABINA S">
+<graphics fill="64b2be"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</node>
+<node id="6" label="SHAPSHAY STANLEY SM">
+<graphics fill="64b2be"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</node>
+<node id="7" label="WOO PEAK P">
+<graphics fill="64b2be"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</node>
+<node id="8" label="TENG MARITA MS">
+<graphics fill="64b2be"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</node>
+<node id="9" label="ALTMAN KENNETH KW">
+<graphics fill="64b2be"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</node>
+<node id="10" label="IVEY CHANDRA C">
+<graphics fill="64b2be"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</node>
+<node id="11" label="GURUDUTT VIVEK VV">
+<graphics fill="64b2be"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</node>
+<node id="12" label="WU MAOXIN M">
+<graphics fill="cb2229"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Otolaryngology;Pathology"/>
+</node>
+<node id="13" label="GANNON PATRICK PJ">
+<graphics fill="64b2be"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</node>
+<node id="14" label="POSNER MARSHALL M">
+<graphics fill="53f21f"/>
+<att name="functions" type="string" value="SENIOR FACULTY;SENIOR FACULTY"/>
+<att name="departments" type="string" value="Hematology and Medical Oncology;Otolaryngology"/>
+</node>
+<node id="15" label="SIKORA ANDREW A">
+<graphics fill="32c24c"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR;ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Immunology;Dermatology;Oncological Sciences;Otolaryngology"/>
+</node>
+<node id="16" label="CHANDRASEKHAR SUJANA SS">
+<graphics fill="64b2be"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</node>
+<node id="17" label="GOVINDARAJ SATISH S">
+<graphics fill="64b2be"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</node>
+<edge source="1" target="11" label="co-authorship: 21461387">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#64b2be" width="2.5"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="11" target="4" label="co-authorship: 21454406">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#64b2be" width="2.5"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="9" target="6" label="co-authorship: 18564532">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#64b2be" width="1.6666667"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="14" target="15" label="co-authorship: 21105129">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="64b2be" width="2.5"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="2" target="5" label="co-authorship: 17956165">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#64b2be" width="1.6666667"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="9" target="13" label="co-authorship: 20589388">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#64b2be" width="2.5"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="1" target="5" label="co-authorship: 17696843 - co-authorship: 17956165">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#64b2be" width="3.3333335"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="5" target="4" label="co-authorship: 17696843">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#64b2be" width="1.6666667"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="1" target="8" label="co-authorship: 18164833">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#64b2be" width="2.5"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="1" target="4" label="co-authorship: 17696843 - co-authorship: 18258379 - co-authorship: 18794447 - co-authorship: 19342543 - co-authorship: 19544537 - co-authorship: 20830768 - co-authorship: 20833855">
+<att name="weight" type="real" value="3.3333335"/>
+<graphics fill="64b2be" width="16.666668"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="11" target="12" label="co-authorship: 19526573">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#64b2be" width="2.5"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17112771 - co-authorship: 17956165 - co-authorship: 17972312 - co-authorship: 19031407">
+<att name="weight" type="real" value="1.8333334"/>
+<graphics fill="#64b2be" width="9.166667"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="10" target="7" label="co-authorship: 18641533">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#64b2be" width="2.5"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="1" target="12" label="co-authorship: 21046586">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="64b2be" width="2.5"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="16" target="17" label="co-authorship: 21225816">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#64b2be" width="2.5"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17416805 - co-authorship: 18388213 - co-authorship: 18467519 - co-authorship: 18768714">
+<att name="weight" type="real" value="2.0"/>
+<graphics fill="#64b2be" width="10.0"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="6" target="7" label="co-authorship: 17721401 - co-authorship: 18564532">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#64b2be" width="4.166667"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+<edge source="9" target="7" label="co-authorship: 18564532 - co-authorship: 20842035">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#64b2be" width="4.166667"/>
+<att name="departments" type="string" value="Otolaryngology"/>
+</edge>
+</graph>

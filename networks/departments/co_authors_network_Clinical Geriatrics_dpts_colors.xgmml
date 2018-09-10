@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="FERNANDEZ HELEN HM">
+<graphics fill="8bbb23"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine"/>
+</node>
+<node id="2" label="LEIPZIG ROSANNE RM">
+<graphics fill="de3564"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine;Health Evidence and Policy"/>
+</node>
+<node id="3" label="SORIANO RAINIER RP">
+<graphics fill="faf6be"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine;Medical Education"/>
+</node>
+<edge source="2" target="3" label="co-authorship: 19704193">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="8bbb23" width="2.5"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 18299494">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#8bbb23" width="2.5"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine"/>
+</edge>
+</graph>

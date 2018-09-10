@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="LABOW DANIEL DM">
+<graphics fill="dc4dae"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Surgical Oncology"/>
+</node>
+<node id="2" label="SCHWARTZ MYRON ME">
+<graphics fill="dc4dae"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Surgical Oncology"/>
+</node>
+<edge source="1" target="2" label="co-authorship: 17429765 - co-authorship: 19524573">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#dc4dae" width="5.0"/>
+<att name="departments" type="string" value="Surgical Oncology"/>
+</edge>
+</graph>

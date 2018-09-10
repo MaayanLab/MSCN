@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="AISENBERG JAMES J">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="2" label="COHEN LAWRENCE LB">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="3" label="HARPAZ NOAM N">
+<graphics fill="45635a"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology;Pathology"/>
+</node>
+<node id="4" label="ITZKOWITZ STEVEN SH">
+<graphics fill="6a4ae6"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR (PENDING)"/>
+<att name="departments" type="string" value="Gastroenterology;Oncological Sciences"/>
+</node>
+<node id="5" label="CHEHADE MIRNA M">
+<graphics fill="be6056"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Allergy and Immunology;Gastroenterology"/>
+</node>
+<node id="6" label="MAYER LLOYD L">
+<graphics fill="c3efc4"/>
+<att name="functions" type="string" value="CO-DIRECTOR;PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Immunology;Gastroenterology;Immunology Institute;Microbiology"/>
+</node>
+<node id="7" label="GEORGE JAMES J">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="8" label="LICHTIGER SIMON S">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="9" label="PRESENT DANIEL DH">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="10" label="XIE JIANLIN J">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="11" label="MILLER KENNETH KM">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="12" label="SACHAR DAVID DB">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="13" label="CHOKHAVATIA SITA S">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="14" label="POTACK JONATHAN JZ">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="15" label="MARION JAMES JF">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="16" label="STEINLAUF ADAM AF">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="17" label="ULLMAN THOMAS TA">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="18" label="WAYE JEROME JD">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="19" label="KIM MICHELLE MK">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="20" label="PATEL KALPESH KK">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="21" label="BENKOV KEITH KJ">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="22" label="DUNKIN DAVID D">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="23" label="AKHTAR REZA R">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="24" label="SHAH BRIJEN B">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="25" label="BAMJI NEVILLE ND">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<node id="26" label="ANANDASABAPATHY SHARMILA S">
+<graphics fill="51ecfd"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</node>
+<edge source="3" target="4" label="co-authorship: 18054559 - co-authorship: 21308408">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="51ecfd" width="5.0"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="3" target="19" label="co-authorship: 20198431">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#51ecfd" width="2.5"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="25" target="2" label="co-authorship: 20717045 - co-authorship: 21396640">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#51ecfd" width="2.25"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="15" target="6" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="2" target="24" label="co-authorship: 20678015">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#51ecfd" width="2.5"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="1" target="9" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="9" target="18" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="3" target="17" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="6" target="16" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="4" target="17" label="co-authorship: 21530747">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#51ecfd" width="2.5"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="2" target="11" label="co-authorship: 18224442 - co-authorship: 20717045 - co-authorship: 21396640">
+<att name="weight" type="real" value="0.78333336"/>
+<graphics fill="#51ecfd" width="3.9166667"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="13" target="12" label="co-authorship: 19713865">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#51ecfd" width="2.5"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="4" target="10" label="co-authorship: 18200660">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#51ecfd" width="2.5"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="6" target="9" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="25" target="3" label="co-authorship: 20717045">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#51ecfd" width="1.0"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="1" target="11" label="co-authorship: 18224442 - co-authorship: 19585070 - co-authorship: 20717045 - co-authorship: 21396640">
+<att name="weight" type="real" value="1.2833334"/>
+<graphics fill="#51ecfd" width="6.416667"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="13" target="14" label="co-authorship: 18679534">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#51ecfd" width="2.5"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="23" target="4" label="co-authorship: 20309919">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#51ecfd" width="2.5"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17397402 - co-authorship: 17681185 - co-authorship: 18224442 - co-authorship: 20717045 - co-authorship: 21396640">
+<att name="weight" type="real" value="1.7833334"/>
+<graphics fill="#51ecfd" width="8.916667"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="9" target="16" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="15" target="18" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="1" target="17" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="3" target="11" label="co-authorship: 20717045">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#51ecfd" width="1.0"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="2" target="3" label="co-authorship: 20717045">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#51ecfd" width="1.0"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="7" target="8" label="co-authorship: 18177449">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#51ecfd" width="1.6666667"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="15" target="16" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="3" target="16" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="3" target="6" label="co-authorship: 18844620 - co-authorship: 20629103 - co-authorship: 20664576 - co-authorship: 20956091 - co-authorship: 20978345">
+<att name="weight" type="real" value="2.125"/>
+<graphics fill="51ecfd" width="10.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="19" target="20" label="co-authorship: 19122508">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#51ecfd" width="2.5"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="3" target="9" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="3" target="12" label="co-authorship: 18662238 - co-authorship: 19067409 - co-authorship: 19177428 - co-authorship: 21336499">
+<att name="weight" type="real" value="2.0"/>
+<graphics fill="#51ecfd" width="10.0"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="1" target="3" label="co-authorship: 18844620 - co-authorship: 20717045">
+<att name="weight" type="real" value="0.325"/>
+<graphics fill="#51ecfd" width="1.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="7" target="9" label="co-authorship: 18177449">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#51ecfd" width="1.6666667"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="26" target="18" label="co-authorship: 20978843">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#51ecfd" width="1.6666667"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="1" target="18" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 18054562">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="51ecfd" width="2.5"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="3" target="15" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="16" target="17" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="1" target="25" label="co-authorship: 21396640">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#51ecfd" width="1.25"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="1" target="16" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="1" target="6" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="1" target="15" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="8" target="9" label="co-authorship: 18177449 - co-authorship: 18928936 - co-authorship: 20955442">
+<att name="weight" type="real" value="1.3333334"/>
+<graphics fill="#51ecfd" width="6.666667"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="26" target="3" label="co-authorship: 20978843">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#51ecfd" width="1.6666667"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="25" target="11" label="co-authorship: 20717045 - co-authorship: 21396640">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#51ecfd" width="2.25"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="6" target="17" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="6" target="18" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="17" target="18" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="3" target="18" label="co-authorship: 18844620 - co-authorship: 20978843">
+<att name="weight" type="real" value="0.45833334"/>
+<graphics fill="#51ecfd" width="2.2916667"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="16" target="18" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="21" target="22" label="co-authorship: 19854973">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#51ecfd" width="2.5"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="15" target="17" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="9" target="17" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="6" target="24" label="co-authorship: 20594134">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#51ecfd" width="2.5"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+<edge source="15" target="9" label="co-authorship: 18844620">
+<att name="weight" type="real" value="0.125"/>
+<graphics fill="#51ecfd" width="0.625"/>
+<att name="departments" type="string" value="Gastroenterology"/>
+</edge>
+</graph>

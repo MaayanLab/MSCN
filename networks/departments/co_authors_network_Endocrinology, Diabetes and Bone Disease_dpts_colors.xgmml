@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="EPSTEIN SOLOMON S">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="2" label="IQBAL JAMEEL J">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="VISITING ASSOCIATE"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="3" label="SUN LI L">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="4" label="ZAIDI MONE M">
+<graphics fill="23257a"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease;Geriatrics and Palliative Medicine;Structural and Chemical Biology"/>
+</node>
+<node id="5" label="LEROITH DEREK D">
+<graphics fill="0de2c6"/>
+<att name="functions" type="string" value="DIRECTOR;PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease;Metabolism Institute"/>
+</node>
+<node id="6" label="YAKAR SHOSHANA S">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="7" label="BLOOMGARDEN ZACHARY ZT">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="8" label="MECHANICK JEFFREY JI">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="9" label="DAVIES TERRY TF">
+<graphics fill="dae597"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease;Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="10" label="LATIF RAUF R">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="11" label="TAMLER RONALD R">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="12" label="TOMER YARON Y">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="13" label="YIN XIAOMING X">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="14" label="RAYFIELD ELLIOT EJ">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="15" label="SKAMAGAS MARIA M">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="16" label="FUTTERWEIT WALTER W">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="17" label="KARNIELI EDDY E">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="VISITING PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="18" label="BUETTNER CHRISTOPH C">
+<graphics fill="c88049"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease;Neuroscience"/>
+</node>
+<node id="19" label="MORSHED SYED SA">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="ADJUNCT INSTRUCTOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="20" label="MA RISHENG R">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="21" label="POTENZA MATTHEW M">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="22" label="YANAGISAWA ROBERT RT">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="23" label="LEVINE ALICE AC">
+<graphics fill="199c88"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease;Oncological Sciences"/>
+</node>
+<node id="24" label="STEFAN MIHAELA M">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="25" label="GEER ELIZA EB">
+<graphics fill="fbf569"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease;Neurosurgery"/>
+</node>
+<node id="26" label="POST KALMON KD">
+<graphics fill="1c5f60"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease;Neurosurgery;Oncological Sciences"/>
+</node>
+<node id="27" label="HABER RICHARD RS">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<node id="28" label="GLANDT MARIELA M">
+<graphics fill="d06f6f"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</node>
+<edge source="9" target="12" label="co-authorship: 17911434 - co-authorship: 18406788 - co-authorship: 18925838">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#d06f6f" width="5.0"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="19" target="4" label="co-authorship: 19328414">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#d06f6f" width="1.25"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="10" target="3" label="co-authorship: 18332426">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#d06f6f" width="1.0"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="24" target="12" label="co-authorship: 20303712">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d06f6f" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="25" target="26" label="co-authorship: 20550536">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#fbf569" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease;Neurosurgery"/>
+</edge>
+<edge source="21" target="22" label="co-authorship: 19364696">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d06f6f" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 16968888 - co-authorship: 17872390 - co-authorship: 19968915">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#d06f6f" width="3.75"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="21" target="14" label="co-authorship: 19421968">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d06f6f" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="9" target="3" label="co-authorship: 18083940 - co-authorship: 18332426 - co-authorship: 19482685 - co-authorship: 19604463 - co-authorship: 19631028 - co-authorship: 19816170">
+<att name="weight" type="real" value="1.4"/>
+<graphics fill="#d06f6f" width="7.0"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="9" target="27" label="co-authorship: 20615129">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d06f6f" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 16968888 - co-authorship: 17300752 - co-authorship: 17681281 - co-authorship: 17872390 - co-authorship: 18060857 - co-authorship: 18083939 - co-authorship: 18083940 - co-authorship: 18332426 - co-authorship: 18384744 - co-authorship: 18384746 - co-authorship: 19482685 - co-authorship: 19584858 - co-authorship: 19604463 - co-authorship: 19607804 - co-authorship: 19631028 - co-authorship: 19653998 - co-authorship: 19787657 - co-authorship: 19816170 - co-authorship: 19968915 - co-authorship: 20171951 - co-authorship: 20392242 - co-authorship: 20421485 - co-authorship: 20439235 - co-authorship: 20448000 - co-authorship: 20809202 - co-authorship: 20826544 - co-authorship: 20830538 - co-authorship: 20857349 - co-authorship: 21062299 - co-authorship: 21108516">
+<att name="weight" type="real" value="9.483333"/>
+<graphics fill="#d06f6f" width="47.416664"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="2" target="3" label="co-authorship: 16968888 - co-authorship: 17681281 - co-authorship: 17872390 - co-authorship: 18060857 - co-authorship: 18083939 - co-authorship: 18083940 - co-authorship: 18332426 - co-authorship: 18384744 - co-authorship: 18384746 - co-authorship: 19482685 - co-authorship: 19584858 - co-authorship: 19604463 - co-authorship: 19631028 - co-authorship: 19653998 - co-authorship: 19787657 - co-authorship: 19816170 - co-authorship: 19968915 - co-authorship: 20171951 - co-authorship: 20392242 - co-authorship: 20421485 - co-authorship: 20439235 - co-authorship: 20448000 - co-authorship: 20809202 - co-authorship: 20826544 - co-authorship: 20830538 - co-authorship: 20857349 - co-authorship: 21062299">
+<att name="weight" type="real" value="8.150002"/>
+<graphics fill="#d06f6f" width="40.750008"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="8" target="4" label="co-authorship: 19482685 - co-authorship: 21108516">
+<att name="weight" type="real" value="0.53333336"/>
+<graphics fill="#d06f6f" width="2.6666667"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="9" target="19" label="co-authorship: 18719020 - co-authorship: 19328414 - co-authorship: 19332151 - co-authorship: 20195479 - co-authorship: 20844004">
+<att name="weight" type="real" value="1.5833335"/>
+<graphics fill="#d06f6f" width="7.9166675"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="23" target="4" label="co-authorship: 20227393">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="d06f6f" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="8" target="3" label="co-authorship: 19482685 - co-authorship: 21108516">
+<att name="weight" type="real" value="0.53333336"/>
+<graphics fill="#d06f6f" width="2.6666667"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="9" target="20" label="co-authorship: 19074581">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#d06f6f" width="1.6666667"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="10" target="12" label="co-authorship: 17911434 - co-authorship: 18925838">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d06f6f" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="17" target="5" label="co-authorship: 18775352 - co-authorship: 20960553">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#d06f6f" width="5.0"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="18" target="18" label="co-authorship: 18516053">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#c88049" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease;Neuroscience"/>
+</edge>
+<edge source="12" target="13" label="co-authorship: 17911434 - co-authorship: 18925838">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d06f6f" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="7" target="17" label="co-authorship: 18449525">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d06f6f" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="5" target="15" label="co-authorship: 18302671">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d06f6f" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="10" target="4" label="co-authorship: 18332426 - co-authorship: 19328414">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#d06f6f" width="2.25"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="10" target="19" label="co-authorship: 18719020 - co-authorship: 19328414 - co-authorship: 19332151 - co-authorship: 20195479 - co-authorship: 20844004">
+<att name="weight" type="real" value="1.5833335"/>
+<graphics fill="#d06f6f" width="7.9166675"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="5" target="14" label="co-authorship: 18159646">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d06f6f" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="8" target="11" label="co-authorship: 17543734">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d06f6f" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="1" target="4" label="co-authorship: 16968888 - co-authorship: 17872390 - co-authorship: 18056047 - co-authorship: 19968915">
+<att name="weight" type="real" value="1.25"/>
+<graphics fill="#d06f6f" width="6.25"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="7" target="16" label="co-authorship: 18308657">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d06f6f" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="9" target="8" label="co-authorship: 19482685">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#d06f6f" width="1.0"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="10" target="13" label="co-authorship: 17911434 - co-authorship: 18925838 - co-authorship: 19211403 - co-authorship: 20578897">
+<att name="weight" type="real" value="1.1666667"/>
+<graphics fill="#d06f6f" width="5.833334"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="7" target="28" label="co-authorship: 21466632">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d06f6f" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="2" target="8" label="co-authorship: 19482685 - co-authorship: 20814769">
+<att name="weight" type="real" value="0.7"/>
+<graphics fill="#d06f6f" width="3.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="9" target="10" label="co-authorship: 17412816 - co-authorship: 17911409 - co-authorship: 17911434 - co-authorship: 18332426 - co-authorship: 18719020 - co-authorship: 18925838 - co-authorship: 19074581 - co-authorship: 19211403 - co-authorship: 19328414 - co-authorship: 19332151 - co-authorship: 19675158 - co-authorship: 20195479 - co-authorship: 20578897 - co-authorship: 20719860 - co-authorship: 20844004">
+<att name="weight" type="real" value="5.2833333"/>
+<graphics fill="#d06f6f" width="26.416666"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="25" target="15" label="co-authorship: 20841313">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d06f6f" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="9" target="2" label="co-authorship: 18083940 - co-authorship: 18332426 - co-authorship: 19482685 - co-authorship: 19604463 - co-authorship: 19631028 - co-authorship: 19816170">
+<att name="weight" type="real" value="1.4"/>
+<graphics fill="#d06f6f" width="7.0"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="10" target="20" label="co-authorship: 19074581">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#d06f6f" width="1.6666667"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="1" target="3" label="co-authorship: 16968888 - co-authorship: 17872390 - co-authorship: 19968915">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#d06f6f" width="3.75"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="9" target="13" label="co-authorship: 17911434 - co-authorship: 18925838 - co-authorship: 19211403 - co-authorship: 20578897">
+<att name="weight" type="real" value="1.1666667"/>
+<graphics fill="#d06f6f" width="5.833334"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="7" target="8" label="co-authorship: 17285009">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d06f6f" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 17264177 - co-authorship: 17315038 - co-authorship: 18437163 - co-authorship: 18687786 - co-authorship: 18777452 - co-authorship: 19150422 - co-authorship: 19436992 - co-authorship: 19497975 - co-authorship: 19800274 - co-authorship: 19956655 - co-authorship: 19959755 - co-authorship: 20068149 - co-authorship: 20801951 - co-authorship: 20926579">
+<att name="weight" type="real" value="7.0"/>
+<graphics fill="#d06f6f" width="35.0"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="2" target="4" label="co-authorship: 16968888 - co-authorship: 17164398 - co-authorship: 17681281 - co-authorship: 17872390 - co-authorship: 18060857 - co-authorship: 18083939 - co-authorship: 18083940 - co-authorship: 18332426 - co-authorship: 18384744 - co-authorship: 18384746 - co-authorship: 18384751 - co-authorship: 19482685 - co-authorship: 19584858 - co-authorship: 19604463 - co-authorship: 19622779 - co-authorship: 19631028 - co-authorship: 19653998 - co-authorship: 19787657 - co-authorship: 19816170 - co-authorship: 19968915 - co-authorship: 20171951 - co-authorship: 20392242 - co-authorship: 20421485 - co-authorship: 20439235 - co-authorship: 20448000 - co-authorship: 20809202 - co-authorship: 20826544 - co-authorship: 20830538 - co-authorship: 20857349 - co-authorship: 21062299">
+<att name="weight" type="real" value="9.65"/>
+<graphics fill="#d06f6f" width="48.25"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="9" target="4" label="co-authorship: 18083940 - co-authorship: 18332426 - co-authorship: 19328414 - co-authorship: 19482685 - co-authorship: 19604463 - co-authorship: 19631028 - co-authorship: 19816170">
+<att name="weight" type="real" value="1.65"/>
+<graphics fill="d06f6f" width="8.25"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+<edge source="2" target="10" label="co-authorship: 18332426">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#d06f6f" width="1.0"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease"/>
+</edge>
+</graph>

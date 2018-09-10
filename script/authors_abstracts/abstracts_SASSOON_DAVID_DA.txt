@@ -1,0 +1,4 @@
+19535900
+Effects of p21 deletion in mouse models of premature aging.
+An approach to investigate the role of cellular senescence in organismal aging has been to abrogate signaling pathways known to induce cellular senescence and to assess the effects in mouse models of premature aging. Recently, we reported the effect of loss of function of p21, a gene implicated in p53-induced cellular senescence, in the background of the Ku80(-/-) premature aging mouse (Zhao et al., EMBO Rep 2009). Here, we provide an overview of the effects of p21 deletion in different models of premature aging.
+

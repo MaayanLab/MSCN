@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="DANIAS JOHN J">
+<graphics fill="5c2f77"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</node>
+<node id="2" label="GOLDBLUM DAVID D">
+<graphics fill="5c2f77"/>
+<att name="functions" type="string" value="VISITING RESEARCH ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</node>
+<node id="3" label="BERNSTEIN AUDREY AM">
+<graphics fill="d79e12"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Ophthalmology;Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="4" label="MASUR SANDRA SK">
+<graphics fill="0e9d9a"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Anatomy and Functional Morphology;Ophthalmology;Structural and Chemical Biology"/>
+</node>
+<node id="5" label="ASBELL PENNY PA">
+<graphics fill="5c2f77"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</node>
+<node id="6" label="DU TED TT">
+<graphics fill="5c2f77"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</node>
+<node id="7" label="GAGLIUSO DONNA DJ">
+<graphics fill="5c2f77"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</node>
+<node id="8" label="MITTAG THOMAS TW">
+<graphics fill="d79e12"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR EMERITUS"/>
+<att name="departments" type="string" value="Ophthalmology;Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="9" label="EPSTEIN SETH S">
+<graphics fill="5c2f77"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</node>
+<node id="10" label="ALVAREZ LAWRENCE LJ">
+<graphics fill="5c2f77"/>
+<att name="functions" type="string" value="RESEARCH ASSISTANT"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</node>
+<node id="11" label="CANDIA OSCAR OA">
+<graphics fill="6e46bb"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Ophthalmology;Structural and Chemical Biology"/>
+</node>
+<node id="12" label="WEI YI Y">
+<graphics fill="5c2f77"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</node>
+<node id="13" label="WOLOSIN JOSE JM">
+<graphics fill="5c2f77"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</node>
+<node id="14" label="DUNN MARCIA MJ">
+<graphics fill="5c2f77"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</node>
+<node id="15" label="LUSTGARTEN JACQUELINE JS">
+<graphics fill="5c2f77"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</node>
+<node id="16" label="BASILE MARIA M">
+<graphics fill="5c2f77"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</node>
+<node id="17" label="FRIEDMAN ALAN AH">
+<graphics fill="4c4f24"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR;CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Ophthalmology;Pathology"/>
+</node>
+<node id="18" label="MLODZIK MAREK M">
+<graphics fill="aab791"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology;Oncological Sciences;Ophthalmology"/>
+</node>
+<node id="19" label="RAND ALLISON AL">
+<graphics fill="5c2f77"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</node>
+<edge source="5" target="6" label="co-authorship: 17568211 - co-authorship: 17993829 - co-authorship: 19431927">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#5c2f77" width="7.5"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="7" target="8" label="co-authorship: 17724199">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#5c2f77" width="2.5"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="9" target="12" label="co-authorship: 19116146">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#5c2f77" width="1.6666667"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="12" target="13" label="co-authorship: 19116146">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#5c2f77" width="1.6666667"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="1" target="8" label="co-authorship: 19737878">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#5c2f77" width="2.5"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="5" target="9" label="co-authorship: 17962448">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#5c2f77" width="2.5"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="14" target="15" label="co-authorship: 19920602">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#5c2f77" width="2.5"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="10" target="11" label="co-authorship: 18234193 - co-authorship: 18289913 - co-authorship: 19427852">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#5c2f77" width="7.5"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="5" target="12" label="co-authorship: 19724208 - co-authorship: 20162838 - co-authorship: 21519031">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#5c2f77" width="7.5"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="16" target="17" label="co-authorship: 21060046">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#5c2f77" width="1.6666667"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="9" target="13" label="co-authorship: 19116146">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#5c2f77" width="1.6666667"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17507651 - co-authorship: 20393108">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="5c2f77" width="5.0"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="1" target="17" label="co-authorship: 21060046">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#5c2f77" width="1.6666667"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17224751">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#5c2f77" width="2.5"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="5" target="19" label="co-authorship: 21597374">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#5c2f77" width="2.5"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="16" target="1" label="co-authorship: 21060046">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#5c2f77" width="1.6666667"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+<edge source="1" target="18" label="co-authorship: 21285373">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#5c2f77" width="2.5"/>
+<att name="departments" type="string" value="Ophthalmology"/>
+</edge>
+</graph>

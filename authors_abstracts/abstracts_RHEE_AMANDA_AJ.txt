@@ -1,0 +1,8 @@
+20881483
+Laboratory point-of-care monitoring in the operating room.
+The fundamental advantage of point-of-care testing (POCT) is rapid acquisition of laboratory data. This is particularly advantageous in the operative arena because of the urgency of timeliness in anesthetic patient care. Technology is persistently evolving, such that it is imperative to regularly review available devices and investigate new devices that emerge each year. This review provides a comprehensive, current summary of POCT most pertinent to the anesthesiologist, and recent investigations that evaluate them. Perioperative POCT includes arterial blood gas monitoring, chemistry, co-oximetry panels, parathyroid hormone assays, and coagulation testing. Parathyroid hormone assays continue to guide surgical resection of the parathyroid glands. Coagulation testing aids anesthesiologists in diagnosis of coagulopathy as well as therapeutic optimization of anticoagulants such as clopidogrel and aspirin. POCT, although generally found to be more expensive compared to laboratory testing, has been shown to quicken result time. POCT will continue to be useful in the realm of anesthesiology in management of the surgical patient to guide drug therapy, surgical strategy, and medical management. A major challenge to POCT continues to be developing platforms to configure, organize, and distribute laboratory results as well as minimizing cost.
+
+20434926
+Manifestation of aortic root abscess from acute bacterial endocarditis.
+
+

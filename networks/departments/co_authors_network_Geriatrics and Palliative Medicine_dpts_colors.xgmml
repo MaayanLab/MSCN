@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="HOF PATRICK PR">
+<graphics fill="9a2bf9"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Neuroscience;Ophthalmology"/>
+</node>
+<node id="2" label="MORRISON JOHN JH">
+<graphics fill="9f3b36"/>
+<att name="functions" type="string" value="DEAN OF BASIC SCIENCES AND THE GRADUATE SCHOOL OF BIOLOGICAL SCIENCES ;PROFESSOR "/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Neuroscience"/>
+</node>
+<node id="3" label="RAPP PETER PR">
+<graphics fill="9f3b36"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Neuroscience"/>
+</node>
+<node id="4" label="DECHERRIE LINDA LV">
+<graphics fill="2c3220"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Medicine"/>
+</node>
+<node id="5" label="SORIANO THERESA TA">
+<graphics fill="09bb9f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR (PENDING)"/>
+<att name="departments" type="string" value="General Internal Medicine;Geriatrics and Palliative Medicine"/>
+</node>
+<node id="6" label="FERNANDEZ HELEN HM">
+<graphics fill="8bbb23"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine"/>
+</node>
+<node id="7" label="LEIPZIG ROSANNE RM">
+<graphics fill="de3564"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine;Health Evidence and Policy"/>
+</node>
+<node id="8" label="MEIER DIANE DE">
+<graphics fill="2c3220"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Medicine"/>
+</node>
+<node id="9" label="PENROD JOAN JD">
+<graphics fill="8bbb23"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine"/>
+</node>
+<node id="10" label="FRISINA PASQUALE PG">
+<graphics fill="eb0213"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</node>
+<node id="11" label="LIBOW LESLIE LS">
+<graphics fill="eb0213"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</node>
+<node id="12" label="NEUFELD RICHARD RR">
+<graphics fill="eb0213"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</node>
+<node id="13" label="LESSER GERSON GT">
+<graphics fill="2c3220"/>
+<att name="functions" type="string" value="ADJUNCT CLINICAL PROFESSOR;ADJUNCT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Medicine"/>
+</node>
+<node id="14" label="SORIANO RAINIER RP">
+<graphics fill="faf6be"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine;Medical Education"/>
+</node>
+<node id="15" label="STRIKER GARY GE">
+<graphics fill="3291cc"/>
+<att name="functions" type="string" value="RESEARCH PROFESSOR;RESEARCH PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Nephrology"/>
+</node>
+<node id="16" label="ZHENG FENG F">
+<graphics fill="eb0213"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</node>
+<node id="17" label="BRADLEY SARA SM">
+<graphics fill="eb0213"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</node>
+<node id="18" label="KARANI REENA R">
+<graphics fill="faf6be"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine;Medical Education"/>
+</node>
+<node id="19" label="PASINETTI GIULIO GM">
+<graphics fill="55de4a"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Neurology;Neuroscience;Psychiatry"/>
+</node>
+<node id="20" label="LIVOTE ELAYNE EE">
+<graphics fill="eb0213"/>
+<att name="functions" type="string" value="TEACHING ASSISTANT"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</node>
+<node id="21" label="ZHU CAROLYN CW">
+<graphics fill="eb0213"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</node>
+<node id="22" label="KEYHANI SALOMEH S">
+<graphics fill="70929f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Health Evidence and Policy;Medicine"/>
+</node>
+<node id="23" label="KELLEY AMY AS">
+<graphics fill="eb0213"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</node>
+<node id="24" label="CHAI EMILY E">
+<graphics fill="8bbb23"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine"/>
+</node>
+<node id="25" label="MOBBS CHARLES CV">
+<graphics fill="9f3b36"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Neuroscience"/>
+</node>
+<edge source="25" target="16" label="co-authorship: 21533091">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#eb0213" width="2.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="24" target="8" label="co-authorship: 21482839">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="eb0213" width="2.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="15" target="16" label="co-authorship: 19776174 - co-authorship: 19946325 - co-authorship: 20006791 - co-authorship: 20363923 - co-authorship: 21150875">
+<att name="weight" type="real" value="2.5"/>
+<graphics fill="#eb0213" width="12.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="17" target="18" label="co-authorship: 20104622">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#eb0213" width="2.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="6" target="7" label="co-authorship: 18299494">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#8bbb23" width="2.5"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="11" target="12" label="co-authorship: 19061275">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#eb0213" width="2.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="13" target="11" label="co-authorship: 19129700">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#eb0213" width="2.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="2" target="3" label="co-authorship: 17592140 - co-authorship: 20519525 - co-authorship: 20738280 - co-authorship: 20861381 - co-authorship: 21030115 - co-authorship: 21613486">
+<att name="weight" type="real" value="2.8333335"/>
+<graphics fill="#9f3b36" width="14.166668"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Neuroscience"/>
+</edge>
+<edge source="8" target="9" label="co-authorship: 18779466">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="eb0213" width="2.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="20" target="21" label="co-authorship: 20625271 - co-authorship: 20975515">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#eb0213" width="5.0"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17207780 - co-authorship: 17420070 - co-authorship: 17433917 - co-authorship: 17592140 - co-authorship: 18402929 - co-authorship: 19723561 - co-authorship: 20139149">
+<att name="weight" type="real" value="3.3333335"/>
+<graphics fill="#9f3b36" width="16.666668"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Neuroscience"/>
+</edge>
+<edge source="4" target="5" label="co-authorship: 18225454">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="eb0213" width="2.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="7" target="14" label="co-authorship: 19704193">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="8bbb23" width="2.5"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="1" target="3" label="co-authorship: 17592140 - co-authorship: 20095006 - co-authorship: 21127015">
+<att name="weight" type="real" value="1.3333334"/>
+<graphics fill="#9f3b36" width="6.666667"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Neuroscience"/>
+</edge>
+<edge source="10" target="11" label="co-authorship: 18992700">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#eb0213" width="2.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="23" target="8" label="co-authorship: 21167451">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#eb0213" width="2.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="1" target="19" label="co-authorship: 20579773">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="9f3b36" width="2.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Neuroscience"/>
+</edge>
+<edge source="22" target="9" label="co-authorship: 20660637">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="eb0213" width="2.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+</graph>

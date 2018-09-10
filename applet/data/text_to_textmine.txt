@@ -1,0 +1,158 @@
+In activated CD8(+) T cells, the mammalian target of rapamycin pathway inhibits ELF4 and Kruppel-like factor 4 expression
+Kruppel-like factor 4 promotes differentiation by transforming growth factor-beta receptor-mediated Smad and p38 MAPK signaling in vascular smooth muscle cells
+KLF4 is identified as a novel transcription factor that controls NAG-1 promoter activity in human and mouse colorectal cancers. And PPARgamma agonists up-regulate KLF4 expression in receptor-dependent manner.
+This study reports the first identified target gene for KLF4 was CYP1A1, and the mechanism by which KLF4 regulates CYP1A1 expression.
+Loss of KLF4 protein expression might contribute to assessing prognosis in colorectal cancer with lymph node metastasis
+This paper describes that KLF4 is transcriptionally activated by the p53 tumor suppressor after DNA damage and results in the transcriptional activation of the p21 cell cycle inhibitor gene.
+The finding suggests that KLF4 may be an important factor for the maintenance of the developmental and the tumorigenic potential of IGCNU as well as for the malignancy of seminoma.
+KLF4 has a role in the aggressive phenotype of early-stage infiltrating ductal carcinoma
+a longer isoform of gut-enriched Kruppel-like factor 4 (GKLF) we term GKLFa interacts with the CD11d promoter
+Observational study of gene-disease association. (HuGE Navigator)
+analysis of role of KLF4 in postnatal maturation and maintenance of the ocular surface
+Results suggest an important role for KLF4 as a novel regulator of the constitutive expression of HSP73, but not HSP72.
+show that Klf4 interacts directly with Oct4 and Sox2 when expressed at levels sufficient to induce induced pluripotent stem cells.
+Synergistic activation of the rat laminin gamma1 chain promoter by the gut-enriched Kruppel-like factor (GKLF/KLF4) and Sp1.
+KLF4 expression largely reproduces the protective phenotype in endothelial cellsdecreased angiogenic, migratory, and inflammatory potential
+the lack of KLF4 alone does not prevent complete spermatogenesis in mice
+KLF4 expression is associated with human skin SCC progression and metastases
+Data show that that KLF4 is inactivated by either genetic or epigenetic mechanisms in a large subset of medulloblastomas and that it likely functions as a tumor suppressor gene in the pathogenesis of medulloblastoma.
+Kruppel-like factor 4 inhibits epithelial-to-mesenchymal transition through regulation of E-cadherin gene expression
+Data show that human testis strongly expresses KLF4 and they were localized to nuclei of round spermatids during normal spermatogenesis stages II-IV.
+Transcriptional profiling of KLF4 reveals that it has a global inhibitory effect on macromolecular synthesis.
+KLF4 can function in the nucleus to induce squamous epithelial dysplasia.
+in deleted Klf4 animals around postnatal day 18, a critical period of terminal Sertoli cell differentiation, mutant seminiferous tubules exhibited a disorganized germinal epithelium and delayed lumen formation
+KLF4 binds to the p57(Kip2) promoter and transcriptionally upregulates its expression, which in turn inhibits the stress activated protein kinase cascade and c-Jun phosphorylation.
+the cross talk of KLF4 and beta-catenin plays a critical role in homeostasis of the normal intestine as well as in tumorigenesis of colorectal cancers.
+This paper reports a consensus DNA binding sequence for KLF4 using an unbiased screen.
+induction of GKLF mRNA and protein expression by interferon-gamma treatment was associated with reduction of ornithine decarboxylase (ODC) gene expression and enzyme activity in colon cancer HT-29 cells
+Paper describes the first identification of the mouse Kruppel-like factor 4 or KLF4 (gut) that appears to be an inhibitor of cell growth.
+Results show that testicular cells make intensive use of alternative polyadenylation of Klf4 mRNA strongly suggesting translational regulation of the Klf4 message in spermatids.
+Kruppel-like factor 4, Elk-1, and histone deacetylases cooperatively suppress smooth muscle cell differentiation markers in response to oxidized phospholipids.
+Reveiw article on the function of KLF4 and KLF5 in regulating cell proliferation.
+role of KLF4 in maintaining the integrity of the G2/M checkpoint following DNA damage
+possible mechanism by which KLF4 is inhibited by Notch, which controls goblet cell differentiation in mouse gastrointestinal tract
+The expression of KLF4 resulted in marked inhibition of cell growth and clonogenic formation. The tumor-suppressive effect was associated with in up-regulating p21 and down-regulating cyclin D1, leading to cell cycle arrest at the G(1)-S checkpoint.
+Studies discovered a novel molecular network between p53, KLF4 and ERalpha.
+Paper describes that Klf4 is acutely induced after DNA damage due to activation of p53 and that Klf4 transcriptionally activates the gene encoding the cyclin dependent kinase inhibitor, p21.
+these data identify a significant degree of mechanistic and functional conservation between KLF2 and KLF4, and importantly, provide further insights into the complex regulatory networks governing endothelial vasoprotection.
+Klf4 functions upstream of Nanog in ES cell self-renewal and in preventing ES cell differentiation
+KLF4 is a critical regulator in the transcriptional network controlling monocyte differentiation.
+Sp1 has a role in increasing the expression of KLF4 in phenotypically modulated smooth muscle cells.
+Kruppel-like factor 4 is a novel mediator of Kallistatin in inhibiting endothelial inflammation via increased endothelial nitric-oxide synthase expression.
+Klf4 transcripts can be detected from embryonic day 4.5 (E4.5) on in the developing mouse conceptus, and Klf4 expression before E10 is restricted to extraembryonic tissues.
+KLF4 exerts a global inhibitory effect on macromolecular biosynthesis that is beyond its established role as a cell cycle inhibitor.
+KLF4 plays an important role in regulating the expression of HMGB1 in normal condition, as well as the translocation and release of HMGB1 in response to LPS
+inhibition of miR-25 in cytokine-stimulated ASM cells up-regulates KLF4 expression via a post-transcriptional mechanism.
+KLF4 may be a key effector of PDGF-BB and injury-induced phenotypic switching of vascular smooth muscle.
+Using ectopic expression of Oct4, Sox2, Klf4 and Myc, we have derived iPS cells from fetal, neonatal and adult human primary cells
+Mouse embryonic fibroblasts (MEFs) null for the Klf4 alleles manifest genetic instability including chromosome aberrations, centrosome amplification and aneuploid.
+Induces pluripotent stem cells from mouse embryonic fibroblasts with small-molecule compounds, BIX-01294 and BayK8644
+analysis of SNPs, located in the KLF2, KLF4 and KLF5 gene did not show an association with Type 2 diabetes in this French population
+Luciferase reporter gene assays revealed that survivin promoter activity is repressed upon overexpression of KLF4 in EC9706 cells.
+Notch signaling suppresses KLF4 expression in intestinal tumors and colorectal cancer cells
+Haploinsufficiency of Kruppel-like factor 4 promotes adenomatous polyposis coli dependent intestinal tumorigenesis
+KLF4 inhibition by antisense oligonucleotides markedly decreased the constitutive expression of HSP90 (HSP84 and HSP86).
+Paper describes that KLF4 is responsible for mediating the G1-S cell cycle effect of p53 after DNA damage
+KLF4 is potentially a reliable marker of HNSCC, and myrAkt transgenic mice are valuable tools for preclinical research of HNSCC.
+Klf4 plays a key role in late fetal and/or postnatal cardiac development and deletion causes postnatal death and growth retardation.
+findings suggest that endogenous expression of reprogramming genes could help the reprogramming process and somatic stem cells might be more prone to reprogramming due to their specific genetic background.
+KLF4 is both necessary and sufficient in preventing centrosome amplification following gamma-radiation-induced DNA damage.
+KLF4 might function as an activator or repressor of transcription depending on whether it interacts with co-activators such as p300 and CREB-binding protein or co-repressors such as HDAC3.
+down-regulated KLF4, CHGA, GPX3, SST and LIPF, together with up-regulated SERPINH1, THY1 and INHBA is an 8-gene signature for gastric cancer
+transactivation of Kruppel-like factor 4(KLF4) by butyrate appears to be mediated through interaction with a Sp1 transcription factor-binding domain on the promoter
+study identified KLF4 as a transcriptional repressor of axon growth in retinal ganglion cells and other CNS neurons
+KLF4 is necessary for preventing the entry into mitosis following DNA damage
+Review article on the diverse function of KLF4 and KLF5 in epithelial tissues.
+Paper describes that Klf4 is a suppressor of the promoter of the cytochrome P4501A1 gene and does so by interfering with the activating effect of Sp1.
+Paper describes the isolation and characterization of the Klf4 gene including its promoter regulation.  Among other transcription factors, Klf4 itself is an activator of its gene promoter.
+The work identifies KLF4 as a putative tumor suppressor in B-cell malignancies.
+KLF4 is an essential mediator of p53 in controlling G(1)/S progression of the cell cycle following DNA damage
+Review article on the function of KLFs in colorectal cancer.
+GKLF-dependent transcriptional repression is mediated by a transforming growth factor-beta control element
+inactivation of KLF4 is one of the frequent steps towards bladder carcinogenesis
+Data showed that both KLF4 and PBX1 mRNA and protein expression were downregulated during hESC differentiation. Overexpression of KLF4 and PBX1 upregulated NANOG promoter activity and NANOG protein expression.
+Regulation of A33 antigen expression by GKLF.
+Studies show that the expression of genes belonging to the OCT3/SOX2/NANOG/KLF4 core circuitry that acts at the highest level in regulating stem cell biology.
+KLF4 regulates centrosome duplication after gamma-radiation induced DNA damage.
+pluripotent stem cells activated expression of embryonic stem cell-specific transcripts including endogenous Klf4, and downregulated markers of lineage specification
+these results suggest that CtBPs attenuate KLF4-mediated transcriptional activation through the physical interaction with KLF4.
+KLF4 regulates the G2-M transition of the cell cycle after DNA damage
+results suggest that glutamatergic stimulation can trigger rapid elevation of KLF4 mRNA and protein levels, and that the overexpression of KLF4 can regulate neuronal cell cycle proteins and sensitize neurons to NMDA-induced caspase-3 activity
+Paper describes that expression of Klf4 is decreased in tumors when compared to normal mucosa in intestinal tumors from the Min (multiple intestinal neoplasia) mouse and FAP (familial adenomatous polyposis) patients.
+Results suggest that KLF4 could contribute to breast tumor progression by activating synthesis of Notch1 and by promoting signaling through a non-canonical Notch1 pathway.
+Klf4 is essential for squamous epithelial differentiation in vivo and interacts with Klf5 to maintain normal epithelial homeostasis.
+Transient transfection of Kruppel-like factor 4 suppressed LDLR, steroidogenic acute regulatory protein, and CYP11A
+This study characterized the gene and promoter structures of the mouse KLF4 gene.
+KLF4 is required for the expression of VSMC differentiation marker genes induced by all-trans retinoic acid
+This paper describes that the nuclear localization signals within KLF4 define a closely related subfamily of Kruppel-like factors including KLF1, KLF2 and KLF4.
+KLF4 directly interacts with TCF4 independently of beta-catenin and that KLF4 and TCF4 are expressed in similar patterns within the large intestine
+KLF4 plays an important role in regulating the expression of IL-10
+study reports that NMDA induced significant and transient upregulation of KLF4 protein expression, in hippocampal slices
+These data indicate that PF4 induction of monocyte KLF4 expression may be an important step in the pathogenesis of experimental cerebral malaria.
+Paper identifies a consensus DNA binding sequence for Klf4.
+KLF4 functions as an immediate early regulator of adipogenesis to induce C/EBPbeta.
+The inflammation-selective effects of loss-of-KLF4 and the gain-of-KLF4-induced monocytic differentiation in HL60 cells identify KLF4 as a key regulator of monocytic differentiation
+role in cell cycle regulation and epithelial differentiation
+This is the first paper that describes the identification and characterization of KLF4 (also called GKLF) and that KLF4 is inhibitor of cell growth.
+human neural stem cells are capable of reprogramming into a pluripotent state by forced expression of Oct3/4 and Klf4
+A review article that summarizes the mechanisms by which KLF4 and KLF5 regulate cell proliferation.
+Loss of KLF4 is associated with B-cell non-Hodgkin lymphoma and in classic Hodgkin lymphoma.
+Reduced levels of KLF4 tumor suppressor activity in colon tumors may be driven by elevated beta-catenin/Tcf signaling.
+Notch inhibits expression of KLF4 in the intestinal epithelium.  Inhibition of Notch in ApcMin mice causes reduction of intestinal tumors, increase in KLF4 expression and goblet cell hyperplasia.
+Results indicate that KLF4 positively regulates human ghrelin expression via binding to a KLF-responsive region in the promoter.
+The advantage of this system over the traditional retroviral infection is the ability to turn the genes on and off so that the kinetics of reprogramming and gene expression requirements can be analyzed in detail.
+KLF4 is a tumor suppressor in colorectal cancer.
+Promoter hypermethylation and hemizygous deletion contributed to the down-regulation of KLF4 expression and the induction of apoptosis contributed to the antitumor activity of KLF4; alteration of KLF4 expression plays a role in gastric cancer development.
+Klf4 is an immediate early gene in TM4 cells and its expression in several epithelia of the male and female reproductive tract suggests an important role of Klf4 in mouse reproductive functions.
+Over-expression of KLF4 in human colon cancer cells reduces tumorigenecity.
+KLF4 is a novel regulator of u-PAR expression that drives the synthesis of u-PAR in the luminal surface epithelial cells of the colon
+cGMP-dependent protein kinase expression is regulated by Rho and Kruppel-like transcription factor-4
+Paper describes the profile of target genets regulated by KLF4 using cDNA microarray analysis
+hTERT is one of the major targets of KLF4 in cancer and stem cells to maintain long-term proliferation potential.
+This paper examines the structure-function relationship of KLF4 in activating target gene expression and in suppressing growth.
+Paper describes that KLF4 and KLF5 oppositely regulate the promoter of the KLF4 gene
+These results establish Klf4 as an important node in the genetic network of transcription factors regulating the corneal homeostasis.
+N-Myc regulates expression of pluripotency genes in neuroblastoma including lif, klf2, klf4, and lin28b
+KLF4 has a role as a regulator of key signaling pathways that control macrophage activation
+All-trans retinoic acid induces HDAC2 phosphorylation mediated by JNK signaling, and thus causes HDAC2 dissociation from KLF4, subsequently leading to the increase in KLF4 acetylation.
+KLF4 maintains the integrity of adherens junctions and prevents vascular leakage in response to inflammatory stimuli
+Data demonstrated that Klf4 directly binds to the 5' regulatory region of RAR alpha, down-regulates RAR alpha expression, and specifically inhibits RAR alpha-mediated phosphatidylinositol 3-kinase (PI3K) and ERK signaling.
+These studies demonstrate the role of Klf4 in microglia in mediating neuroinflammation in response to the bacterial endotoxin LPS.
+down-regulation of gut-enriched Kruppel-like factor in esophageal squamous cancer
+These studies implicate KLF4 as a novel transcriptional regulator that is indispensible for the heart's response to stress in vivo.
+Klf4 regulates B cell number and activation-induced B cell proliferation through directly acting on the promoter of cyclin D2
+These results unmask KLF4 as a regulator of p53 that oncogenically transforms cells as a function of p21CIP1 status.
+Induced pluripotent stem cells programmed with OCT4/SOX2/KLF4 and without c-MYC yield proficient cardiogenesis for functional heart chimerism.
+This paper describes the opposite effect of KLF4 and KLF5 on transcription of the KLF4 gene.
+Induction of p53 by GKLF is essential for inhibition of proliferation of vascular smooth muscle cells.
+This study reports that haploinsufficiency of Klf4 gene in transgenic mice with targeted deletion of one of the Klf4 alleles promotes intestinal tumorigenesis when crossbred with the ApcMin mice.
+Loss of a single genetic factor, Klf4, leads to dramatic changes in the gastric epithelia of mice, and Klf4 is part of a regulatory pathway involving p21 WAF1/CIP1 but not Cdx2. Thus, Klf4 is critical for normal gastric epithelial homeostasis.
+relevant interaction of GKLF, Id3, and p53 for VSMC proliferation
+Paper describes that expression of Klf4 is developmentally regulated and is decreased in a mouse model of intestinal tumorigenesis.
+Stoichiometric and temporal requirements of Oct4, Sox2, Klf4, and c-Myc expression for efficient human iPSC induction and differentiation.
+KLF4 can act to repress histidine decarboxylase gene expression by Sp1-dependent and -independent mechanisms
+KLF4 may be an important determinant of cell fate following gamma-radiation-induced DNA damage.
+Klf4 was specifically expressed in polarizing odontoblasts from E16.5 (incisor) or E18.5 (first molar) to PN3. KLF4 was specifically expressed in polarizing odontoblasts and ameloblasts at same stages.
+Klf2, Klf4 and Klf5 integrate into the Nanog transcriptional network to specify gene expression that is unique to ES cells
+KLF4 is induced during zinc restriction and is a transcription factor involved in adaptive regulation of the zinc transporter ZIP4
+Paper identifies two potent nuclear localization signals (NLSs) in Klf4 that are similar to those of two other KLFs: Klf1 and Klf2.
+KLF4 is activated by ELF4 and inhibits the proliferation of CD8+ T cells.
+The Klf4 conditional null corneal stromal edema is characterized by increased collagen interfibrillar spacing and increased diameter of individual fibrils. The stroma also exhibits reduced interfibrillar proteoglycans.
+KLF4 exhibits anti-apoptotic effect after gamma-radiation induced DNA damage.
+overexpression of miR-10b in KYSE140 and KYSE450 cells led to a reduction of endogenous KLF4 protein, whereas silencing of miR-10b in EC9706 cells caused up-regulation of KLF4 protein in esophageal cancer
+Increased miR-145 expression inhibits human embryonic stem cells self-renewal, represses expression of pluripotency genes, and induces lineage-restricted differentiation; loss of miR-145 impairs differentiation and elevates OCT4, SOX2, and KLF4.
+Paper describes the mechanism of transactivation by Klf4, which depends on several acidic amino acid residues in the N terminus and on interaction with p300/CBP.
+Overexpression of KLF4 increased the death rate of C2C12 cells, whereas KLF4 deficiency decreased the injury of C2C12 cells from heat stress conditions, suggesting that KLF4 might play an important role in cell injury induced by heat stress.
+identification as target of bone morphogenetic proteins and transforming growth factor beta 1 in the regulation of vascular smooth muscle cell phenotype
+Klf4 plays a critical role in regulating expression of SMC differentiation markers and proliferation of SMCs in vivo in response to vascular injury.
+a transcription factor required for terminal differentiaion of goblet cells in the colon
+KLF4 pathway is a potential effector of retinoid signaling in tumor prevention. Of several oncogenes that independently induce malignant transformation of RK3E epithelial cells, only KLF4 showed substantial sensitivity to retinoids.
+Klf4 is a target gene for FOXO transcription factors, which also suppress B cell proliferation
+Genetic and epigenetic alterations of the KLF4 gene might play a minor role in gastric carcinogenesis.
+This study examines the expression of KLF4 during embryonic and postnatal development and in intestinal tumorigenesis.
+intestinal alkaline transactivation by Kruppel-like factor-4 is likely mediated through a critical region located within the proximal IAP promoter region
+A review article that summarizes the biological and pathobiological functions in the intestinal epithelium.
+findings demonstrate that MEFs null for the Klf4 alleles are genetically unstable, as evidenced by the presence of aneuploidy, chromosome aberration and centrosome amplification
+Kruppel-like factor 4 as a novel regulator of endothelial activation in response to pro-inflammatory stimuli.
+KLF-4 and AP-2 is regulating the activity of the hSMVT promoter in the intestine and provide direct in vivo confirmation of hSMVT promoter activity.
+This paper reports that KLF4 is regulated by the APC tumor suppressor in colorectal cancer cells through CDX2.

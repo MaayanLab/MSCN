@@ -1,0 +1,8 @@
+21621091
+Rethinking testing for pulmonary embolism: less is more.
+
+
+20498425
+Screening for breast and prostate cancers: moving toward transparency.
+Despite mortality reductions found in early trials, recent population-based data suggest that breast and prostate cancer screening have not yielded expected benefits. Whereas evidence-based appraisals generally mistrust disease-specific mortality as a primary outcome measure, cancer screening trials have consistently used this endpoint, largely because of the impracticality of studies with enough statistical power to detect all-cause mortality reductions, which would require millions of subjects. The acceptance of disease-specific mortality as a practical surrogate for all-cause mortality may explain the discrepancy between expected and actual impact. Screening may reduce deaths from the target cancer but may increase deaths from other causes, most likely because of overdiagnosis, an increasingly recognized risk of cancer screening. Recognition of the discrepancy between the expected and the actual impact of screening and recognition of overdiagnosis as a source of harm may be critical for understanding and projecting the potential impact of cancer screening programs.
+

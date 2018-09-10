@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="ETZ CHRISTIAN C">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="2" label="GRIEPP RANDALL RB">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="3" label="DI LUOZZO GABRIELE G">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="4" label="ADAMS DAVID DH">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="5" label="FILSOUFI FARZAN F">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="6" label="SCURLOCK COREY C">
+<graphics fill="383420"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Cardiothoracic Surgery"/>
+</node>
+<node id="7" label="CHIKWE JOANNA J">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="8" label="CARPENTIER ALAIN A">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="9" label="FISCHER GREGORY GW">
+<graphics fill="383420"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Cardiothoracic Surgery"/>
+</node>
+<node id="10" label="ANYANWU ANELECHI A">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="11" label="LAZALA RICARDO R">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="12" label="STELZER PAUL P">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="13" label="VARGHESE ROBIN R">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="14" label="REDDY RAMACHANDRA RC">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="15" label="AKUJUO ADANNA A">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="ADJUNCT CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="16" label="RAIKHELKAR JAYASHREE JK">
+<graphics fill="383420"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Cardiothoracic Surgery"/>
+</node>
+<node id="17" label="MILLA FEDERICO F">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<edge source="7" target="12" label="co-authorship: 20103274">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#57d441" width="2.5"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="17" target="16" label="co-authorship: 20952252">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="17" target="6" label="co-authorship: 20952252">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="6" target="12" label="co-authorship: 20338298">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#57d441" width="2.5"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="8" target="5" label="co-authorship: 17870003 - co-authorship: 17996175 - co-authorship: 18033787 - co-authorship: 18662625 - co-authorship: 19137798 - co-authorship: 19376733">
+<att name="weight" type="real" value="2.0"/>
+<graphics fill="#57d441" width="10.0"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="4" target="6" label="co-authorship: 17667513">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="9" target="12" label="co-authorship: 20138551 - co-authorship: 20346705">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#57d441" width="3.3333335"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="9" target="14" label="co-authorship: 20382033">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="6" target="13" label="co-authorship: 20841364">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="15" target="7" label="co-authorship: 20570181">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#57d441" width="1.25"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="3" target="2" label="co-authorship: 17257944 - co-authorship: 17532939 - co-authorship: 17888971 - co-authorship: 18036948 - co-authorship: 18954623 - co-authorship: 19324177 - co-authorship: 19463592 - co-authorship: 19640920 - co-authorship: 19699894 - co-authorship: 19933513 - co-authorship: 20417761 - co-authorship: 20494193 - co-authorship: 20579669 - co-authorship: 20609797 - co-authorship: 20732484 - co-authorship: 20868820 - co-authorship: 21092800 - co-authorship: 21502113">
+<att name="weight" type="real" value="8.000001"/>
+<graphics fill="#57d441" width="40.000004"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="3" target="6" label="co-authorship: 18595867 - co-authorship: 20609797">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#57d441" width="4.166667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="10" target="6" label="co-authorship: 19700348">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#57d441" width="2.5"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="7" target="9" label="co-authorship: 19833254">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="7" target="5" label="co-authorship: 17720380 - co-authorship: 17855197 - co-authorship: 18033787 - co-authorship: 18036372 - co-authorship: 18036921 - co-authorship: 18047491 - co-authorship: 18068053 - co-authorship: 18263692 - co-authorship: 18397906 - co-authorship: 18606623 - co-authorship: 18835184 - co-authorship: 19137798 - co-authorship: 19539151 - co-authorship: 19955117 - co-authorship: 19962482 - co-authorship: 20570181 - co-authorship: 20846993 - co-authorship: 21045786 - co-authorship: 21256303 - co-authorship: 21435512">
+<att name="weight" type="real" value="6.916667"/>
+<graphics fill="#57d441" width="34.583336"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="4" target="3" label="co-authorship: 18036948">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="2" target="11" label="co-authorship: 19463592 - co-authorship: 20494193">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#57d441" width="3.3333335"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="4" target="5" label="co-authorship: 17285207 - co-authorship: 17667513 - co-authorship: 17669910 - co-authorship: 17720380 - co-authorship: 17763386 - co-authorship: 17766132 - co-authorship: 17855197 - co-authorship: 17901106 - co-authorship: 17976438 - co-authorship: 17996175 - co-authorship: 18022072 - co-authorship: 18033787 - co-authorship: 18036372 - co-authorship: 18036921 - co-authorship: 18047491 - co-authorship: 18068053 - co-authorship: 18249332 - co-authorship: 18263692 - co-authorship: 18291158 - co-authorship: 18355221 - co-authorship: 18374780 - co-authorship: 18462651 - co-authorship: 18471460 - co-authorship: 18606623 - co-authorship: 18628344 - co-authorship: 18662625 - co-authorship: 18689806 - co-authorship: 18693117 - co-authorship: 18721573 - co-authorship: 18793229 - co-authorship: 18834824 - co-authorship: 18835184 - co-authorship: 19041839 - co-authorship: 19101329 - co-authorship: 19137798 - co-authorship: 19376733 - co-authorship: 19539151 - co-authorship: 19962482 - co-authorship: 20570181 - co-authorship: 20846993 - co-authorship: 21256303 - co-authorship: 21435512">
+<att name="weight" type="real" value="16.916666"/>
+<graphics fill="#57d441" width="84.58333"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="16" target="13" label="co-authorship: 20841364">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="4" target="2" label="co-authorship: 18036948 - co-authorship: 20934726">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#57d441" width="3.3333335"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="16" target="6" label="co-authorship: 20841364 - co-authorship: 20952252">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#383420" width="3.3333335"/>
+<att name="departments" type="string" value="Anesthesiology;Cardiothoracic Surgery"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 17667513">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="10" target="5" label="co-authorship: 18693117">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="4" target="10" label="co-authorship: 18693117">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="9" target="2" label="co-authorship: 19933513 - co-authorship: 20579669 - co-authorship: 20934726">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#57d441" width="5.0"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="4" target="13" label="co-authorship: 21092900">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="9" target="13" label="co-authorship: 20138551 - co-authorship: 20346705">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#57d441" width="3.3333335"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="4" target="9" label="co-authorship: 17889020 - co-authorship: 18653545 - co-authorship: 18689806 - co-authorship: 18948030 - co-authorship: 19560666 - co-authorship: 19628131 - co-authorship: 19789057 - co-authorship: 19822810 - co-authorship: 19833254 - co-authorship: 19951981 - co-authorship: 20089230 - co-authorship: 20472633 - co-authorship: 20494091 - co-authorship: 20934726">
+<att name="weight" type="real" value="6.5000005"/>
+<graphics fill="#57d441" width="32.500004"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="15" target="13" label="co-authorship: 21092900">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="2" target="6" label="co-authorship: 20609797">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="3" target="11" label="co-authorship: 19463592 - co-authorship: 20494193">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#57d441" width="3.3333335"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="5" target="14" label="co-authorship: 20382033">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="15" target="5" label="co-authorship: 20570181">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#57d441" width="1.25"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17198797 - co-authorship: 17720373 - co-authorship: 17720376">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#57d441" width="7.5"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="4" target="8" label="co-authorship: 17996175 - co-authorship: 18033787 - co-authorship: 18662625 - co-authorship: 19137798 - co-authorship: 19376733">
+<att name="weight" type="real" value="1.5000001"/>
+<graphics fill="#57d441" width="7.5000005"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="5" target="9" label="co-authorship: 20078712 - co-authorship: 20382033">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#57d441" width="4.166667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="12" target="13" label="co-authorship: 20138551 - co-authorship: 20346705">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#57d441" width="3.3333335"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="4" target="7" label="co-authorship: 17720380 - co-authorship: 17855197 - co-authorship: 18033787 - co-authorship: 18036372 - co-authorship: 18036921 - co-authorship: 18047491 - co-authorship: 18068053 - co-authorship: 18263692 - co-authorship: 18417011 - co-authorship: 18606623 - co-authorship: 18835184 - co-authorship: 19137798 - co-authorship: 19451034 - co-authorship: 19539151 - co-authorship: 19833254 - co-authorship: 19962482 - co-authorship: 20570181 - co-authorship: 20846993 - co-authorship: 21092884 - co-authorship: 21256303 - co-authorship: 21316508 - co-authorship: 21435512">
+<att name="weight" type="real" value="7.750001"/>
+<graphics fill="#57d441" width="38.750004"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="4" target="15" label="co-authorship: 21092900">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#57d441" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="8" target="7" label="co-authorship: 19137798">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#57d441" width="1.25"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="3" target="9" label="co-authorship: 19933513 - co-authorship: 20579669">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#57d441" width="3.3333335"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+</graph>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="AGARWAL SHRADHA S">
+<graphics fill="1b691b"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</node>
+<node id="2" label="DAHAN STEPHANIE S">
+<graphics fill="1b691b"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</node>
+<node id="3" label="MAYER LLOYD L">
+<graphics fill="c3efc4"/>
+<att name="functions" type="string" value="CO-DIRECTOR;PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Immunology;Gastroenterology;Immunology Institute;Microbiology"/>
+</node>
+<node id="4" label="CUNNINGHAM-RUNDLES CHARLOTTE C">
+<graphics fill="dc7314"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Immunology;Pediatrics"/>
+</node>
+<node id="5" label="LEGARDA-ADDISON DIANA D">
+<graphics fill="1b691b"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</node>
+<node id="6" label="TING ADRIAN AT">
+<graphics fill="1b691b"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</node>
+<node id="7" label="XIONG HUABAO H">
+<graphics fill="1b691b"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</node>
+<node id="8" label="BUSSE PAULA PJ">
+<graphics fill="1b691b"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</node>
+<node id="9" label="CERUTTI ANDREA A">
+<graphics fill="1b691b"/>
+<att name="functions" type="string" value="SENIOR FACULTY"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</node>
+<node id="10" label="SHAN MEIMEI M">
+<graphics fill="1b691b"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</node>
+<edge source="9" target="7" label="co-authorship: 20676093">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#1b691b" width="1.25"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</edge>
+<edge source="4" target="10" label="co-authorship: 20676093">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#1b691b" width="1.25"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</edge>
+<edge source="1" target="4" label="co-authorship: 17304889 - co-authorship: 17910333 - co-authorship: 19671377 - co-authorship: 20629103">
+<att name="weight" type="real" value="1.8333334"/>
+<graphics fill="#1b691b" width="9.166667"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</edge>
+<edge source="1" target="8" label="co-authorship: 20377107">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#1b691b" width="2.5"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</edge>
+<edge source="9" target="10" label="co-authorship: 20676093">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#1b691b" width="1.25"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</edge>
+<edge source="2" target="3" label="co-authorship: 17291293 - co-authorship: 18045591 - co-authorship: 18588554 - co-authorship: 19538323 - co-authorship: 21056041">
+<att name="weight" type="real" value="2.3333335"/>
+<graphics fill="#1b691b" width="11.666668"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 17306544 - co-authorship: 17548614 - co-authorship: 18636086 - co-authorship: 19373245">
+<att name="weight" type="real" value="2.0"/>
+<graphics fill="#1b691b" width="10.0"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</edge>
+<edge source="9" target="4" label="co-authorship: 20676093">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#1b691b" width="1.25"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</edge>
+<edge source="4" target="3" label="co-authorship: 20629103 - co-authorship: 20956091">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="1b691b" width="4.166667"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</edge>
+<edge source="1" target="3" label="co-authorship: 17291293 - co-authorship: 19637385 - co-authorship: 19665769 - co-authorship: 20629103">
+<att name="weight" type="real" value="1.6666667"/>
+<graphics fill="#1b691b" width="8.333334"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</edge>
+<edge source="3" target="7" label="co-authorship: 18054562 - co-authorship: 18506885 - co-authorship: 19592489">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#1b691b" width="7.5"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</edge>
+<edge source="10" target="7" label="co-authorship: 20676093">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#1b691b" width="1.25"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17291293">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#1b691b" width="1.6666667"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</edge>
+<edge source="4" target="7" label="co-authorship: 20676093">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#1b691b" width="1.25"/>
+<att name="departments" type="string" value="Clinical Immunology"/>
+</edge>
+</graph>

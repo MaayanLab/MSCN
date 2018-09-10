@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="BEDERSON JOSHUA JB">
+<graphics fill="b45304"/>
+<att name="functions" type="string" value="PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</node>
+<node id="2" label="SEHBA FATIMA FA">
+<graphics fill="ec290d"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Neuroscience;Neurosurgery"/>
+</node>
+<node id="3" label="ARGINTEANU MARC MS">
+<graphics fill="b45304"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</node>
+<node id="4" label="MOORE FRANK FM">
+<graphics fill="b45304"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</node>
+<node id="5" label="CAMINS MARTIN M">
+<graphics fill="b45304"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</node>
+<node id="6" label="STEINBERGER ALFRED A">
+<graphics fill="b45304"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</node>
+<node id="7" label="GENDEN ERIC EM">
+<graphics fill="eb4f9c"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Neurosurgery;Otolaryngology"/>
+</node>
+<node id="8" label="NAIDICH THOMAS TP">
+<graphics fill="f666bc"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Anatomy and Functional Morphology;Neurosurgery;Radiology"/>
+</node>
+<node id="9" label="EMDAD LUNI L">
+<graphics fill="b45304"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</node>
+<node id="10" label="GERMANO ISABELLE IM">
+<graphics fill="1aee9d"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Neurology;Neurosurgery;Oncological Sciences"/>
+</node>
+<node id="11" label="GEER ELIZA EB">
+<graphics fill="fbf569"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease;Neurosurgery"/>
+</node>
+<node id="12" label="POST KALMON KD">
+<graphics fill="1c5f60"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease;Neurosurgery;Oncological Sciences"/>
+</node>
+<node id="13" label="FRONTERA JENNIFER JA">
+<graphics fill="98cad8"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology;Neurosurgery"/>
+</node>
+<node id="14" label="GORDON ERROL E">
+<graphics fill="98cad8"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology;Neurosurgery"/>
+</node>
+<node id="15" label="PATEL AMAN A">
+<graphics fill="8ed2b6"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Neurosurgery;Radiology"/>
+</node>
+<node id="16" label="DEINER STACIE SG">
+<graphics fill="f684ca"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Geriatrics and Palliative Medicine;Neurosurgery"/>
+</node>
+<node id="17" label="OSBORN IRENE IP">
+<graphics fill="cb19cc"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Neurosurgery"/>
+</node>
+<edge source="11" target="12" label="co-authorship: 20550536">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#fbf569" width="2.5"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease;Neurosurgery"/>
+</edge>
+<edge source="16" target="17" label="co-authorship: 20814550">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#cb19cc" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology;Neurosurgery"/>
+</edge>
+<edge source="1" target="14" label="co-authorship: 20717752 - co-authorship: 21125456">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b45304" width="2.5"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</edge>
+<edge source="13" target="15" label="co-authorship: 20717752 - co-authorship: 21125456">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="b45304" width="2.5"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</edge>
+<edge source="13" target="14" label="co-authorship: 20717752 - co-authorship: 21125456">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#98cad8" width="2.5"/>
+<att name="departments" type="string" value="Neurology;Neurosurgery"/>
+</edge>
+<edge source="3" target="5" label="co-authorship: 18082462">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#b45304" width="1.25"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</edge>
+<edge source="1" target="7" label="co-authorship: 18424979 - co-authorship: 18794447">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#b45304" width="5.0"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</edge>
+<edge source="1" target="13" label="co-authorship: 20717752 - co-authorship: 21125456">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b45304" width="2.5"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</edge>
+<edge source="14" target="15" label="co-authorship: 20717752 - co-authorship: 21125456">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="b45304" width="2.5"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17410718 - co-authorship: 19895201 - co-authorship: 21116923">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#b45304" width="7.5"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</edge>
+<edge source="3" target="6" label="co-authorship: 18082462">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#b45304" width="1.25"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17542503 - co-authorship: 18082462">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#b45304" width="3.75"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</edge>
+<edge source="4" target="6" label="co-authorship: 18082462">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#b45304" width="1.25"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</edge>
+<edge source="1" target="15" label="co-authorship: 20717752 - co-authorship: 21125456">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b45304" width="2.5"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</edge>
+<edge source="9" target="10" label="co-authorship: 20523363">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b45304" width="2.5"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</edge>
+<edge source="5" target="4" label="co-authorship: 18082462">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#b45304" width="1.25"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</edge>
+<edge source="1" target="8" label="co-authorship: 19474379">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b45304" width="2.5"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 18082462 - co-authorship: 20809735">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#b45304" width="3.75"/>
+<att name="departments" type="string" value="Neurosurgery"/>
+</edge>
+</graph>

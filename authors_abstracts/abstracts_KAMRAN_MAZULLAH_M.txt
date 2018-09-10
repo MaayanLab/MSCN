@@ -1,0 +1,12 @@
+19968690
+The Gerbode defect: left ventricular to right atrial communication-anatomic, hemodynamic, and echocardiographic features.
+
+
+17659921
+Comparison of platelet function and morphology in patients undergoing percutaneous coronary intervention receiving bivalirudin versus unfractionated heparin versus clopidogrel pretreatment and bivalirudin.
+We hypothesized that direct thrombin inhibition could attenuate platelet activation and release of soluble CD40 ligand (sCD40L), a marker of inflammation, during percutaneous coronary intervention (PCI). To assess platelet function under flow conditions with bivalirudin versus unfractionated heparin (UFH), we employed the cone and plate(let) analyzer (CPA) assay in drug-spiked blood samples from volunteers (n = 3) in vitro, and then in PCI patients who received bivalirudin alone (n = 20), UFH alone (n = 15), and clopidogrel pretreatment plus bivalirudin (n = 15). Scanning electron microscopy was employed to image bivalirudin or UFH-treated platelets to determine whether platelet function observations had a morphologic explanation. Enzyme immunoassay was used to measure sCD40L levels in PCI patients. In vitro, bivalirudin decreased platelet surface coverage; UFH increased platelet surface coverage. In PCI patients, bivalirudin alone decreased platelet surface coverage, UFH alone increased platelet surface coverage, and clopidogrel pretreatment plus bivalirudin additively reduced platelet surface coverage. Unlike UFH, bivalirudin did not activate platelets in SEM studies. Bivalirudin alone or coupled with clopidogrel significantly reduced plasma sCD40L in PCI patients. In conclusion, our findings suggest that under flow conditions, bivalirudin alone or coupled with clopidogrel may have an antiplatelet effect versus UFH alone during PCI. These data suggest that bivalirudin and UFH may confer an anti-inflammatory effect by reducing sCD40L during PCI.
+
+18033245
+Acute onset of hematuria and proteinuria associated with multiorgan involvement of the heart, liver, pancreas, kidneys, and skin in a patient with Henoch-Schönlein purpura.
+
+

@@ -1,0 +1,12 @@
+20803676
+A model of a hospitalist role in the care of admitted patients in the emergency department.
+
+
+19634801
+Improving patient satisfaction with pain management using Six Sigma tools.
+Patient satisfaction as a direct and public measure of quality of care is changing the way hospitals address quality improvement. The feasibility of using the Six Sigma DMAIC (Define, Measure, Analyze, Improve, Control) methodology to improve patient satisfaction as it relates to pain management was evaluated. This project used the DMAIC methodology to improve patients' overall satisfaction with pain management on two inpatient units in an urban academic medical center. Pre- and postintervention patient surveys were conducted. The DMAIC methodology provided a data-driven structure to determine the optimal improvement strategies, as well as a long-term plan for maintaining any improvements. In addition, the Change Acceleration Process (CAP) was used throughout the project's various DMAIC stages to further the work of the team by creating a shared need to meet the objectives of the project. Overall satisfaction with pain management "excellent" ratings increased from 37% to 54%. Both units surpassed the goal of at least 50% of responses in the "excellent" category. Several key drivers of satisfaction with pain management were uncovered in the Analyze phase of the project, and each saw rating increases from the pre-intervention to postintervention surveys. Ongoing monitoring by the hospital inpatient satisfaction survey showed that the pain satisfaction score improved in subsequent quarters as compared with the pre-intervention period. The Six Sigma DMAIC methodology can be used successfully to improve patient satisfaction. The project led to measurable improvements in patient satisfaction with pain management, which have endured past the duration of the Six Sigma project. The Control phase of DMAIC allows the improvements to be incorporated into daily operations.
+
+18828163
+Economic and healthcare forces of hospitalist movement.
+The field of hospital medicine has become a widely accepted model for inpatient care and has grown rapidly in the past ten years. The impetus for growth has largely been pressure to contain costs for inpatient care and improve efficiency in the hospital. Studies have shown that care by hospitalists is generally more cost-effective than care by faculty or private practice physicians without affecting quality. The field faces challenges in continuity of patient care and retention of physicians in the workforce.
+

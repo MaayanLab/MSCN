@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="REICH DAVID DL">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="2" label="SILVERSTEIN JEFFREY JH">
+<graphics fill="42a6f9"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Geriatrics and Palliative Medicine;Surgery"/>
+</node>
+<node id="3" label="UYSAL SUZAN S">
+<graphics fill="08d642"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Psychiatry"/>
+</node>
+<node id="4" label="BEILIN YAAKOV Y">
+<graphics fill="68e615"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="5" label="KROL MARINA M">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="6" label="SILVAY GEORGE G">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="7" label="YASNY JEFFREY JS">
+<graphics fill="42bfb7"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Dentistry"/>
+</node>
+<node id="8" label="NOMOTO KOICHI K">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="9" label="STONE MARC ME">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="10" label="KAHN RONALD RA">
+<graphics fill="d06b7c"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Surgery"/>
+</node>
+<node id="11" label="FISCHER GREGORY GW">
+<graphics fill="383420"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Cardiothoracic Surgery"/>
+</node>
+<node id="12" label="WAX DAVID D">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="13" label="BRYSON ETHAN EO">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="14" label="ROSENBLATT MEG MA">
+<graphics fill="e968b6"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Orthopaedics"/>
+</node>
+<node id="15" label="BHAGWAN SABRINA S">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="16" label="EISENKRAFT JAMES JB">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="17" label="HAUSMAN LAURENCE LM">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="18" label="LEVINE ADAM A">
+<graphics fill="c5354e"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Otolaryngology;Structural and Chemical Biology"/>
+</node>
+<node id="19" label="COHEN EDMOND E">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="20" label="TORRILLO TONI T">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="21" label="SCURLOCK COREY C">
+<graphics fill="383420"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Cardiothoracic Surgery"/>
+</node>
+<node id="22" label="LEIBOWITZ ANDREW AB">
+<graphics fill="d06b7c"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Surgery"/>
+</node>
+<node id="23" label="NEUSTEIN STEVEN S">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="24" label="PEREZ ANDREW AM">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="25" label="RHEE AMANDA AJ">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="26" label="GAINSBURG DANIEL DM">
+<graphics fill="5519b8"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Urology"/>
+</node>
+<node id="27" label="GALATI MARIA MF">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="28" label="BODIAN CAROL C">
+<graphics fill="a0afec"/>
+<att name="functions" type="string" value="HONORARY LECTURER"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</node>
+<node id="29" label="DEINER STACIE SG">
+<graphics fill="f684ca"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Geriatrics and Palliative Medicine;Neurosurgery"/>
+</node>
+<node id="30" label="OSBORN IRENE IP">
+<graphics fill="cb19cc"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Neurosurgery"/>
+</node>
+<node id="31" label="RAIKHELKAR JAYASHREE JK">
+<graphics fill="383420"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Cardiothoracic Surgery"/>
+</node>
+<edge source="5" target="12" label="co-authorship: 17869986">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#a0afec" width="1.6666667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="26" target="1" label="co-authorship: 20529522">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#a0afec" width="1.6666667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="27" target="1" label="co-authorship: 20579669">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#a0afec" width="1.25"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="28" target="1" label="co-authorship: 20841364 - co-authorship: 20880370">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="1" target="25" label="co-authorship: 20434926">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#a0afec" width="1.6666667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="11" target="5" label="co-authorship: 20579669">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#a0afec" width="1.25"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="11" target="27" label="co-authorship: 20579669">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#a0afec" width="1.25"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="17" target="14" label="co-authorship: 18617124">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#a0afec" width="1.6666667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="11" target="3" label="co-authorship: 20934726">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="a0afec" width="1.6666667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="13" target="2" label="co-authorship: 20880370">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#a0afec" width="1.25"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="26" target="12" label="co-authorship: 20529522">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#a0afec" width="1.6666667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="16" target="14" label="co-authorship: 18617124">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#a0afec" width="1.6666667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="17" target="1" label="co-authorship: 18922409">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="11" target="1" label="co-authorship: 17711973 - co-authorship: 19822810 - co-authorship: 19933513 - co-authorship: 20434926 - co-authorship: 20579669 - co-authorship: 20934726">
+<att name="weight" type="real" value="2.4166667"/>
+<graphics fill="#a0afec" width="12.083334"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="27" target="5" label="co-authorship: 20579669">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#a0afec" width="1.25"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="4" target="15" label="co-authorship: 18063212">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="11" target="9" label="co-authorship: 19174527">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="20" target="12" label="co-authorship: 18848442">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#a0afec" width="1.25"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="8" target="9" label="co-authorship: 17711970">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="4" target="12" label="co-authorship: 18848442">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#a0afec" width="1.25"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="28" target="5" label="co-authorship: 20647262">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#a0afec" width="1.6666667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="13" target="18" label="co-authorship: 18761254">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17325520 - co-authorship: 20880370">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#a0afec" width="2.916667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="23" target="12" label="co-authorship: 19468845">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="10" target="1" label="co-authorship: 19020149">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#a0afec" width="1.6666667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="31" target="21" label="co-authorship: 20841364 - co-authorship: 20952252">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#383420" width="3.75"/>
+<att name="departments" type="string" value="Anesthesiology;Cardiothoracic Surgery"/>
+</edge>
+<edge source="21" target="9" label="co-authorship: 19054691">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="10" target="25" label="co-authorship: 20881483">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="5" target="21" label="co-authorship: 20647262">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#a0afec" width="1.6666667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="4" target="1" label="co-authorship: 17513642 - co-authorship: 18848442 - co-authorship: 18946292">
+<att name="weight" type="real" value="1.0833334"/>
+<graphics fill="#a0afec" width="5.416667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="28" target="31" label="co-authorship: 20841364">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#a0afec" width="1.25"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="13" target="24" label="co-authorship: 21206375">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="1" target="21" label="co-authorship: 20338339 - co-authorship: 20841364">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#a0afec" width="3.75"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="13" target="14" label="co-authorship: 18044279">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="4" target="20" label="co-authorship: 18848442">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#a0afec" width="1.25"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="19" target="11" label="co-authorship: 18835528 - co-authorship: 19907314">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#a0afec" width="5.0"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="6" target="7" label="co-authorship: 17678794 - co-authorship: 20533965">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#a0afec" width="5.0"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="4" target="22" label="co-authorship: 19372342">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="5" target="1" label="co-authorship: 17513642 - co-authorship: 17869986 - co-authorship: 18693874 - co-authorship: 19020149 - co-authorship: 20579669">
+<att name="weight" type="real" value="1.7500001"/>
+<graphics fill="#a0afec" width="8.750001"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="2" target="3" label="co-authorship: 17325520">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="a0afec" width="1.6666667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="16" target="17" label="co-authorship: 18617124">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#a0afec" width="1.6666667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="10" target="9" label="co-authorship: 17711972">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="28" target="2" label="co-authorship: 20880370">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#a0afec" width="1.25"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="11" target="8" label="co-authorship: 19074783">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="28" target="21" label="co-authorship: 20647262 - co-authorship: 20841364">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#a0afec" width="2.916667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="29" target="30" label="co-authorship: 20814550">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#cb19cc" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology;Neurosurgery"/>
+</edge>
+<edge source="11" target="25" label="co-authorship: 20434926">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#a0afec" width="1.6666667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="31" target="1" label="co-authorship: 20841364">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#a0afec" width="1.25"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="1" target="12" label="co-authorship: 17869986 - co-authorship: 18848442 - co-authorship: 20529522">
+<att name="weight" type="real" value="0.91666675"/>
+<graphics fill="#a0afec" width="4.583334"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="13" target="1" label="co-authorship: 20880370">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#a0afec" width="1.25"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="4" target="5" label="co-authorship: 17513642">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#a0afec" width="1.6666667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="28" target="13" label="co-authorship: 20880370">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#a0afec" width="1.25"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="24" target="1" label="co-authorship: 19897179">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="11" target="6" label="co-authorship: 20382033">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="1" target="20" label="co-authorship: 18848442">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#a0afec" width="1.25"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="11" target="14" label="co-authorship: 19490464">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="a0afec" width="2.5"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="1" target="3" label="co-authorship: 17325520 - co-authorship: 20934726">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#a0afec" width="3.3333335"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+<edge source="10" target="5" label="co-authorship: 19020149">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#a0afec" width="1.6666667"/>
+<att name="departments" type="string" value="Anesthesiology"/>
+</edge>
+</graph>

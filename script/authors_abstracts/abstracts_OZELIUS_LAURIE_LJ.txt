@@ -1,0 +1,12 @@
+21168499
+Genetic and clinical features of primary torsion dystonia.
+Primary torsion dystonia (PTD) is defined as a syndrome in which dystonia is the only clinical sign (except for tremor), and there is no evidence of neuronal degeneration or an acquired cause by history or routine laboratory assessment. Seven different loci have been recognized for PTD but only two of the genes have been identified. In this review we will describe the phenotypes associated with these loci and discuss the responsible gene. This article is part of a Special Issue entitled "Advances in dystonia".
+
+20865765
+Direct interaction between causative genes of DYT1 and DYT6 primary dystonia.
+Primary dystonia is a movement disorder characterized by sustained muscle contractions and in which dystonia is the only or predominant clinical feature. TOR1A(DYT1) and the transcription factor THAP1(DYT6) are the only genes identified thus far for primary dystonia. Using electromobility shift assays and chromatin immunoprecipitation (ChIP) quantitative polymerase chain reaction (qPCR), we demonstrate a physical interaction between THAP1 and the TOR1A promoter that is abolished by pathophysiologic mutations. Our findings provide the first evidence that causative genes for primary dystonia intersect in a common pathway and raise the possibility of developing novel therapies targeting this pathway.
+
+19182804
+Mutations in the THAP1 gene are responsible for DYT6 primary torsion dystonia.
+We report the discovery of a mutation in the THAP1 gene in three Amish-Mennonite families with mixed-onset primary torsion dystonia (also known as DYT6 dystonia). Another mutation in a German family with primary torsion dystonia suggests that THAP1 mutations also cause dystonia in other ancestry groups. We demonstrate that the missense mutation impairs DNA binding, suggesting that transcriptional dysregulation may contribute to the phenotype of DYT6 dystonia.
+

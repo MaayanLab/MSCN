@@ -1,0 +1,84 @@
+21555665
+A Swinging Pendulum: Comment on "On Patient Autonomy and Physician Responsibility in End-of-Life Care".
+
+
+21491832
+Palliative care's positive outcomes.
+Timely, safe and patient-centered, palliative care meets quality standards.
+
+21485263
+Palliative care and health delivery reform.
+
+
+21482839
+Identifying the effective components of palliative care: comment on "The optimal delivery of palliative care".
+
+
+21383364
+Palliative care consultation teams cut hospital costs for Medicaid beneficiaries.
+Patients facing serious or life-threatening illnesses account for a disproportionately large share of Medicaid spending. We examined 2004-07 data to determine the effect on hospital costs of palliative care team consultations for patients enrolled in Medicaid at four New York State hospitals. On average, patients who received palliative care incurred $6,900 less in hospital costs during a given admission than a matched group of patients who received usual care. These reductions included $4,098 in hospital costs per admission for patients discharged alive, and $7,563 for patients who died in the hospital. Consistent with the goals of a majority of patients and their families, palliative care recipients spent less time in intensive care, were less likely to die in intensive care units, and were more likely to receive hospice referrals than the matched usual care patients. We estimate that the reductions in Medicaid hospital spending in New York State could eventually range from $84 million to $252 million annually (assuming that 2 percent and 6 percent of Medicaid patients discharged from the hospital received palliative care, respectively), if every hospital with 150 or more beds had a fully operational palliative care consultation team.
+
+21266284
+Strategies and innovative models for delivering palliative care in nursing homes.
+The goals of palliative care address critical issues for individuals with complex and serious illness residing in nursing homes, including pain and symptom management, communication, preparation for death, decisions about treatment preferences, and caregiver support. Because of the uncertain prognosis associated with chronic nonmalignant diseases such as dementia, many nursing home residents are either not referred to hospice or have very short or very long hospice stays. The integration of palliative care into nursing homes offers a potential solution to the challenges relating to hospice eligibility, staffing, training, and obtaining adequate reimbursement for care that aligns with resident and surrogate's preferences and needs. However, the delivery of palliative care in nursing homes is hindered by both regulatory and staffing barriers and, as a result, is rare. In this article, we draw on interviews with nursing home executives, practitioners, and researchers to describe the barriers to nursing home palliative care. We then describe 3 existing and successful models for providing nonhospice palliative care to nursing home residents and discuss their ongoing strengths and challenges. We conclude with specific policy proposals to expedite the integration of palliative care into the nursing home setting.
+
+21167451
+Evidence for new standard of care in non-small cell lung cancer patients.
+
+
+20636148
+Growing the interface between palliative medicine and psychiatry.
+
+
+20235871
+Health systems find opportunities and challenges in palliative care development.
+
+
+20109002
+Palliative care in long-term care: how can hospital teams interface?
+
+
+20048372
+Raising the standard: palliative care in nursing homes.
+More than two-thirds of long-stay nursing home residents suffer from dementia. This illness has a variable and unpredictable course that renders it a poor fit for the six-month life-expectancy requirement of the Medicare hospice benefit. Palliative care-a form of treatment that strives to match care to patient goals, relieve pain, and improve quality of life for people with chronic or life-threatening illnesses-should be the standard of practice for all elderly dementia patients in nursing homes, regardless of prognosis. Similar principles could apply to other long-term residents with underlying chronic diseases who would benefit from palliative care. Indeed, we would argue that the growing acceptance of the culture-change movement centered on elder-directed goals in nursing homes is promising evidence of the goodness-of-fit of palliative care principles in the long-term care setting.
+
+20043709
+Palliative medicine: politics and policy.
+
+
+19807232
+Billing for palliative consultations a prerequisite for the field's maturation.
+
+
+19327069
+Finding my place.
+
+
+19327064
+POLST offers next stage in honoring patient preferences.
+
+
+19284257
+Palliative care cost research can help other palliative care programs make their case.
+
+
+18788954
+Dartmouth Atlas Data can support palliative care development.
+
+
+18779466
+Cost savings associated with US hospital palliative care consultation programs.
+Hospital palliative care consultation teams have been shown to improve care for adults with serious illness. This study examined the effect of palliative care teams on hospital costs. We analyzed administrative data from 8 hospitals with established palliative care programs for the years 2002 through 2004. Patients receiving palliative care were matched by propensity score to patients receiving usual care. Generalized linear models were estimated for costs per admission and per hospital day. Of the 2966 palliative care patients who were discharged alive, 2630 palliative care patients (89%) were matched to 18,427 usual care patients, and of the 2388 palliative care patients who died, 2278 (95%) were matched to 2124 usual care patients. The palliative care patients who were discharged alive had an adjusted net savings of $1696 in direct costs per admission (P = .004) and $279 in direct costs per day (P < .001) including significant reductions in laboratory and intensive care unit costs compared with usual care patients. The palliative care patients who died had an adjusted net savings of $4908 in direct costs per admission (P = .003) and $374 in direct costs per day (P < .001) including significant reductions in pharmacy, laboratory, and intensive care unit costs compared with usual care patients. Two confirmatory analyses were performed. Including mean costs per day before palliative care and before a comparable reference day for usual care patients in the propensity score models resulted in similar results. Estimating costs for palliative care patients assuming that they did not receive palliative care resulted in projected costs that were not significantly different from usual care costs. Hospital palliative care consultation teams are associated with significant hospital cost savings.
+
+18411019
+Does palliative care improve quality? A survey of bereaved family members.
+Palliative care is the interdisciplinary specialty that aims to relieve suffering and improve the quality of care for patients with serious illness and their families. Although palliative care programs are becoming increasingly prevalent in U.S. hospitals, the impact of hospital palliative care consultation programs on the quality of care received by family members is not well understood. We conducted prospective quantitative telephonic interviews of family members of patients who died at Mount Sinai Medical Center between April and December 2005 using the validated "After-Death Bereaved Family Member Interview," to assess quality of medical care at the end of life. Multivariable techniques were used to compare family satisfaction of palliative care patients vs. usual care patients controlling for age, race (white vs. nonwhite), diagnosis (cancer vs. noncancer), socioeconomic status (Medicaid vs. non-Medicaid), and functional status (number of dependent activities of daily living). One hundred ninety eligible subjects were contacted and successful interviews were completed with 149 (78.4%) family members (54 palliative care and 95 usual care patients). Palliative care showed benefit, with 65% of palliative care patients' family members reporting that their emotional or spiritual needs were met, as compared to 35% of usual care patients' family members (P=0.004). Sixty-seven percent of palliative care patients' family members reported confidence in one or more self-efficacy domains, as compared to 44% of usual care patients' family members (P=0.03). Our study shows that palliative care consultation is associated with improved satisfaction, with attention to family and enhanced self-efficacy. Palliative care offers a unique approach by integrating the needs of the family into the care of the patient.
+
+17298244
+Consultation etiquette challenges palliative care to be on its best behavior.
+
+
+17219467
+Palliative care in hospitals.
+Palliative care is medical care focused on the relief of suffering and support for the best possible quality of life for patients facing serious, life-threatening illness and their families. It aims to identify and address the physical, psychological, and practical burdens of illness. Palliative care may be delivered simultaneously with all appropriate curative and life-prolonging interventions. In practice, palliative care practitioners provide assessment and treatment of pain and other symptom distress; employ communication skills with patients, families, and colleagues; support complex medical decision making and goal setting based on identifying and respecting patient wishes and goals; and promote medically informed care coordination, continuity, and practical support for patients, family caregivers, and professional colleagues across healthcare settings and through the trajectory of an illness. The field of hospital palliative care has grown rapidly in recent years in response to patient need and clinician interest in effective approaches to managing chronic life-threatening illness. The growth in the number and needs of seriously and chronically ill patients who are not clearly terminally ill has led to the development of palliative care services outside the hospice benefit provided by Medicare (and other insurers). This article reviews the clinical, educational, demographic, and financial imperatives driving this growth, describes the clinical components of palliative care and the range of service models available, defines the relation of hospital-based palliative care to hospice, summarizes the literature on palliative care outcomes, and presents practical resources for clinicians seeking knowledge and skills in the field.
+

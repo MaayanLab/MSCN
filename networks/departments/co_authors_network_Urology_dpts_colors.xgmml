@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="BAR-CHAMA NATAN N">
+<graphics fill="fa4be7"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science;Urology"/>
+</node>
+<node id="2" label="SCHIFF JONATHAN JD">
+<graphics fill="148467"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Urology"/>
+</node>
+<node id="3" label="DIEFENBACH MICHAEL MA">
+<graphics fill="884da5"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Urology"/>
+</node>
+<node id="4" label="MOHAMED NIHAL NE">
+<graphics fill="148467"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Urology"/>
+</node>
+<node id="5" label="HALL SIMON SJ">
+<graphics fill="ab7def"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSOCIATE PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Urology"/>
+</node>
+<node id="6" label="STONE NELSON NN">
+<graphics fill="d0c9bc"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR;CLINICAL PROFESSOR;CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Radiation Oncology;Urology"/>
+</node>
+<node id="7" label="THOMPSON HAYLEY HS">
+<graphics fill="884da5"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR;ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Urology"/>
+</node>
+<node id="8" label="LEVINSON ADAM AW">
+<graphics fill="148467"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Urology"/>
+</node>
+<node id="9" label="SAMADI DAVID DB">
+<graphics fill="148467"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Urology"/>
+</node>
+<node id="10" label="GAINSBURG DANIEL DM">
+<graphics fill="5519b8"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Urology"/>
+</node>
+<node id="11" label="STOCK JEFFREY JA">
+<graphics fill="45339a"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR;ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Urology"/>
+</node>
+<node id="12" label="DROLLER MICHAEL MJ">
+<graphics fill="884da5"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Urology"/>
+</node>
+<node id="13" label="KIRSCHENBAUM ALEXANDER A">
+<graphics fill="884da5"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR;ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Urology"/>
+</node>
+<edge source="8" target="9" label="co-authorship: 20202392 - co-authorship: 20932557">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#148467" width="5.0"/>
+<att name="departments" type="string" value="Urology"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17882657">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#148467" width="2.5"/>
+<att name="departments" type="string" value="Urology"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17543721 - co-authorship: 20152966">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#148467" width="5.0"/>
+<att name="departments" type="string" value="Urology"/>
+</edge>
+<edge source="12" target="2" label="co-authorship: 21227046">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#148467" width="1.6666667"/>
+<att name="departments" type="string" value="Urology"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 19493260 - co-authorship: 20006854">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="148467" width="5.0"/>
+<att name="departments" type="string" value="Urology"/>
+</edge>
+<edge source="10" target="9" label="co-authorship: 20529522 - co-authorship: 21333205">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#148467" width="5.0"/>
+<att name="departments" type="string" value="Urology"/>
+</edge>
+<edge source="5" target="7" label="co-authorship: 20195782">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="148467" width="2.5"/>
+<att name="departments" type="string" value="Urology"/>
+</edge>
+<edge source="13" target="2" label="co-authorship: 21227046">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#148467" width="1.6666667"/>
+<att name="departments" type="string" value="Urology"/>
+</edge>
+<edge source="12" target="13" label="co-authorship: 21227046">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#884da5" width="1.6666667"/>
+<att name="departments" type="string" value="Oncological Sciences;Urology"/>
+</edge>
+<edge source="10" target="11" label="co-authorship: 20546878">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="148467" width="2.5"/>
+<att name="departments" type="string" value="Urology"/>
+</edge>
+</graph>

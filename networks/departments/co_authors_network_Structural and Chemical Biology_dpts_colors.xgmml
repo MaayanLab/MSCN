@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="MEZEI MIHALY M">
+<graphics fill="00dc5f"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</node>
+<node id="2" label="OSMAN ROMAN R">
+<graphics fill="f564db"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics;Structural and Chemical Biology"/>
+</node>
+<node id="3" label="JING JIAN J">
+<graphics fill="cdd515"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neuroscience;Structural and Chemical Biology"/>
+</node>
+<node id="4" label="WEISS KLAUDIUSZ KR">
+<graphics fill="cdd515"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Neuroscience;Structural and Chemical Biology"/>
+</node>
+<node id="5" label="MARGOLSKEE ROBERT RF">
+<graphics fill="cb3338"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Neuroscience;Pharmacology and Systems Therapeutics;Structural and Chemical Biology"/>
+</node>
+<node id="6" label="MOSINGER BEDRICH B">
+<graphics fill="cdd515"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR;ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neuroscience;Structural and Chemical Biology"/>
+</node>
+<node id="7" label="ZENG LEI L">
+<graphics fill="00dc5f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</node>
+<node id="8" label="GERONA-NAVARRO GUILLERMO G">
+<graphics fill="00dc5f"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</node>
+<node id="9" label="BUKU ANGELIKI A">
+<graphics fill="00dc5f"/>
+<att name="functions" type="string" value="HONORARY LECTURER"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</node>
+<node id="10" label="WALSH MARTIN MJ">
+<graphics fill="9fdbcf"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Hepatology;Structural and Chemical Biology"/>
+</node>
+<node id="11" label="BREZINA VLADIMIR V">
+<graphics fill="cdd515"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Neuroscience;Structural and Chemical Biology"/>
+</node>
+<node id="12" label="FILIZOLA MARTA M">
+<graphics fill="00dc5f"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</node>
+<node id="13" label="PROVASI DAVIDE D">
+<graphics fill="00dc5f"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</node>
+<node id="14" label="AGGARWAL ANEEL AK">
+<graphics fill="7ba495"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Anatomy and Functional Morphology;Oncological Sciences;Structural and Chemical Biology"/>
+</node>
+<node id="15" label="JAIN RINKU R">
+<graphics fill="00dc5f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</node>
+<node id="16" label="SANCHEZ ROBERTO R">
+<graphics fill="00dc5f"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</node>
+<node id="17" label="WANG RONG R">
+<graphics fill="11a3fe"/>
+<att name="functions" type="string" value="RESEARCH PROFESSOR;RESEARCH PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Structural and Chemical Biology"/>
+</node>
+<edge source="10" target="7" label="co-authorship: 18945682 - co-authorship: 20541999 - co-authorship: 20613843">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#00dc5f" width="7.5"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</edge>
+<edge source="8" target="7" label="co-authorship: 18400184 - co-authorship: 21271695 - co-authorship: 21513889">
+<att name="weight" type="real" value="1.3333334"/>
+<graphics fill="#00dc5f" width="6.666667"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</edge>
+<edge source="14" target="17" label="co-authorship: 20406818">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="00dc5f" width="2.5"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17314236 - co-authorship: 17392465 - co-authorship: 17913915 - co-authorship: 17913984 - co-authorship: 18287508 - co-authorship: 19020028 - co-authorship: 19776260 - co-authorship: 20053896 - co-authorship: 20181731 - co-authorship: 20397622 - co-authorship: 21147994">
+<att name="weight" type="real" value="5.1666665"/>
+<graphics fill="#cdd515" width="25.833332"/>
+<att name="departments" type="string" value="Neuroscience;Structural and Chemical Biology"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 17724332 - co-authorship: 18831764 - co-authorship: 19272386 - co-authorship: 19571229 - co-authorship: 19686115 - co-authorship: 19817384">
+<att name="weight" type="real" value="3.0"/>
+<graphics fill="#cdd515" width="15.0"/>
+<att name="departments" type="string" value="Neuroscience;Structural and Chemical Biology"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17277191 - co-authorship: 17505540 - co-authorship: 18338226 - co-authorship: 18957407 - co-authorship: 19053280 - co-authorship: 19086158 - co-authorship: 19731376 - co-authorship: 20338845">
+<att name="weight" type="real" value="4.0"/>
+<graphics fill="#00dc5f" width="20.0"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</edge>
+<edge source="11" target="3" label="co-authorship: 19776260 - co-authorship: 20053896">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#cdd515" width="3.3333335"/>
+<att name="departments" type="string" value="Neuroscience;Structural and Chemical Biology"/>
+</edge>
+<edge source="12" target="16" label="co-authorship: 19627087">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#00dc5f" width="2.5"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</edge>
+<edge source="12" target="13" label="co-authorship: 19455709 - co-authorship: 19785461 - co-authorship: 20028319 - co-authorship: 20483344 - co-authorship: 20617813 - co-authorship: 21261298">
+<att name="weight" type="real" value="3.0"/>
+<graphics fill="#00dc5f" width="15.0"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</edge>
+<edge source="16" target="7" label="co-authorship: 20126658">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#00dc5f" width="2.5"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</edge>
+<edge source="9" target="1" label="co-authorship: 18624811">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#00dc5f" width="2.5"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</edge>
+<edge source="1" target="7" label="co-authorship: 18004775">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#00dc5f" width="2.5"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</edge>
+<edge source="14" target="15" label="co-authorship: 19604477 - co-authorship: 19818796 - co-authorship: 20577207 - co-authorship: 21070945">
+<att name="weight" type="real" value="2.0"/>
+<graphics fill="#00dc5f" width="10.0"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</edge>
+<edge source="2" target="7" label="co-authorship: 21271695">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#00dc5f" width="1.6666667"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</edge>
+<edge source="11" target="4" label="co-authorship: 18989362 - co-authorship: 19776260 - co-authorship: 19830256 - co-authorship: 20053896">
+<att name="weight" type="real" value="1.6666667"/>
+<graphics fill="#cdd515" width="8.333334"/>
+<att name="departments" type="string" value="Neuroscience;Structural and Chemical Biology"/>
+</edge>
+<edge source="8" target="2" label="co-authorship: 21271695">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#00dc5f" width="1.6666667"/>
+<att name="departments" type="string" value="Structural and Chemical Biology"/>
+</edge>
+</graph>

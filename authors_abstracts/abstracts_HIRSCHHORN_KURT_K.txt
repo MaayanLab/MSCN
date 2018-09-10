@@ -1,0 +1,20 @@
+20309921
+Genes, race, ethnicity, and environment.
+
+
+19154522
+Clinical utility of array CGH for the detection of chromosomal imbalances associated with mental retardation and multiple congenital anomalies.
+Microarray-based comparative genomic hybridization (array CGH) has revolutionized clinical cytogenetics, as it provides a relatively quick method to scan the genome for gains and losses of chromosomal material with significantly higher resolution and greater clinical yield than was previously possible. A number of different array CGH platforms have emerged and are being used successfully in the diagnostic setting. In the past few years, these new methodologies have led to the identification of novel genomic disorders in patients with developmental delay/mental retardation and/or multiple congenital anomalies (DD/MR/MCA) as well as the discovery that each individual carries inherited copy number variations (CNV) whose contributions to genetic variation and complex disease are not yet well understood. Although array CGH is currently being used as an adjunct test to standard karyotype analysis, it is likely to become the genetic test of choice, especially in cases of idiopathic MR/MCA.
+
+18985866
+A short history of the American Society of Human Genetics.
+
+
+18932223
+A short history of the initial discovery of the Wolf-Hirschhorn syndrome.
+Deletion of the short arm of chromosome 4 (4p-) was first described in 1961 [Hirschhorn and Cooper, 1961], and the second case of 4p- was published in 1965 [Hirschhorn et al., 1965]. This short history describes the original case and the sequence of events leading to the publications.
+
+18076104
+Multiple hemangiomas in a patient with a t(3q;4p) translocation: an infrequent association with Wolf-Hirschhorn syndrome.
+We report on the clinical phenotype of an infant with a duplication of the terminal portion of the long arm of chromosome 3(q26.3-qter) and a deletion of the terminal portion of the short arm of chromosome 4(p16.3) with multiple hemangiomas and a hamartoma. Patients with deletions of distal 4p have the characteristic features of Wolf-Hirschhorn syndrome (WHS); whereas those with the distal duplication of 3q have a well recognized syndrome with some features resembling Cornelia-de Lange syndrome (CdLS). Neither of these recognized chromosomal anomalies has been reported previously to be associated with multiple hemangiomas or other vascular malformations.
+

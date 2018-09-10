@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="MUDGIL ADARSH AV">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="2" label="PEREIRA FREDERICK FA">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="3" label="STERN DANA DK">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR (PENDING)"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="4" label="SMITH ELIZABETH E">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="5" label="WEI HUACHEN H">
+<graphics fill="8b8ab1"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology;Oncological Sciences;Preventive Medicine"/>
+</node>
+<node id="6" label="PHELPS ROBERT RG">
+<graphics fill="d665d8"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology;Pathology"/>
+</node>
+<node id="7" label="SAPADIN ALLEN AN">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="8" label="RUDIKOFF DONALD D">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="9" label="BIRGE MIRIAM MB">
+<graphics fill="db88e0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;INSTRUCTOR"/>
+<att name="departments" type="string" value="Dermatology;Dermatopathology"/>
+</node>
+<node id="10" label="ROSENSTEIN BARRY BS">
+<graphics fill="55fbfe"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology;Preventive Medicine;Radiation Oncology"/>
+</node>
+<node id="11" label="AKHAVAN ARASH A">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="12" label="LEVITT JACOB J">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="13" label="ULIASZ ANNEMARIE A">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="14" label="ZEICHNER JOSHUA J">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="15" label="KRIEGEL DAVID DA">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="16" label="MARMUR ELLEN ES">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="17" label="BURKE KAREN KE">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="18" label="GORDON MARSHA ML">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="19" label="BERKOWITZ ERIC EZ">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="20" label="GOLDENBERG GARY G">
+<graphics fill="d665d8"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology;Pathology"/>
+</node>
+<node id="21" label="KLEINERMAN REBECCA R">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="22" label="HADI SUHAIL SM">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="23" label="MARKOWITZ ORIT O">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="24" label="LEBWOHL MARK MG">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="25" label="KRISHTUL ANNA A">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<node id="26" label="SHIM-CHANG HELEN H">
+<graphics fill="d665d8"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology;Pathology"/>
+</node>
+<node id="27" label="BERNSTEIN EMILY E">
+<graphics fill="c0fe85"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology;Oncological Sciences"/>
+</node>
+<node id="28" label="RENDL MICHAEL M">
+<graphics fill="160f3f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology;Developmental and Regenerative Biology"/>
+</node>
+<node id="29" label="BLUM ROBIN RR">
+<graphics fill="1102e2"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Dermatology"/>
+</node>
+<edge source="22" target="23" label="co-authorship: 21137633">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#1102e2" width="2.5"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="25" target="26" label="co-authorship: 21416773">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#1102e2" width="2.5"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="4" target="5" label="co-authorship: 17412454">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#1102e2" width="1.6666667"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="11" target="8" label="co-authorship: 18620137">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#1102e2" width="2.5"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="4" target="3" label="co-authorship: 17412454">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#1102e2" width="1.6666667"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="6" target="7" label="co-authorship: 17483659">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#1102e2" width="1.6666667"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="9" target="18" label="co-authorship: 19940753">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#1102e2" width="2.5"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="13" target="14" label="co-authorship: 18666395">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#1102e2" width="2.5"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="10" target="5" label="co-authorship: 18248503">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#FFB340" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Dermatology;Preventive Medicine;Radiation Oncology &amp; Dermatology;Oncological Sciences;Preventive Medicine"/>
+</edge>
+<edge source="9" target="21" label="co-authorship: 21062599">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#1102e2" width="2.5"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="27" target="28" label="co-authorship: 21477851">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="1102e2" width="2.5"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="11" target="12" label="co-authorship: 18405792">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#1102e2" width="2.5"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="17" target="5" label="co-authorship: 19651790">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#1102e2" width="2.5"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="29" target="6" label="co-authorship: 21496949">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#1102e2" width="1.25"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="9" target="6" label="co-authorship: 18095998">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="1102e2" width="2.5"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17224365">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#1102e2" width="2.5"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="29" target="24" label="co-authorship: 21496949">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#1102e2" width="1.25"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="19" target="16" label="co-authorship: 20618368">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#1102e2" width="2.5"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="6" target="8" label="co-authorship: 17483659">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#1102e2" width="1.6666667"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="8" target="7" label="co-authorship: 17483659">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#1102e2" width="1.6666667"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="3" target="5" label="co-authorship: 17412454">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#1102e2" width="1.6666667"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="24" target="3" label="co-authorship: 21173303 - co-authorship: 21496949">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#1102e2" width="3.75"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="6" target="3" label="co-authorship: 21496949">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#1102e2" width="1.25"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="15" target="16" label="co-authorship: 19389095 - co-authorship: 21315952">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#1102e2" width="5.0"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="24" target="6" label="co-authorship: 21496949">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#1102e2" width="1.25"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="20" target="21" label="co-authorship: 20865837">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#1102e2" width="2.5"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+<edge source="29" target="3" label="co-authorship: 21496949">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#1102e2" width="1.25"/>
+<att name="departments" type="string" value="Dermatology"/>
+</edge>
+</graph>

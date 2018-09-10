@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="LITSCHER EVELINE ES">
+<graphics fill="8874f5"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</node>
+<node id="2" label="WASSARMAN PAUL PM">
+<graphics fill="8874f5"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</node>
+<node id="3" label="BIEKER JAMES JJ">
+<graphics fill="8874f5"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</node>
+<node id="4" label="SIATECKA MIROSLAWA M">
+<graphics fill="8874f5"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</node>
+<node id="5" label="GHAFFARI SAGHI S">
+<graphics fill="fefb44"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology;Gene and Cell Medicine;Medicine"/>
+</node>
+<node id="6" label="TANEJA RESHMA R">
+<graphics fill="1174c1"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR;ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology;Oncological Sciences"/>
+</node>
+<node id="7" label="ITOH KEIJI K">
+<graphics fill="8874f5"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</node>
+<node id="8" label="MLODZIK MAREK M">
+<graphics fill="aab791"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology;Oncological Sciences;Ophthalmology"/>
+</node>
+<node id="9" label="SOKOL SERGEI SY">
+<graphics fill="8874f5"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</node>
+<node id="10" label="IOMINI CARLO C">
+<graphics fill="8874f5"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</node>
+<node id="11" label="LEMISCHKA IHOR IR">
+<graphics fill="1d6ed4"/>
+<att name="functions" type="string" value="DIRECTOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology;Gene and Cell Medicine;The Black Family Stem Cell Institute"/>
+</node>
+<node id="12" label="RENDL MICHAEL M">
+<graphics fill="160f3f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology;Developmental and Regenerative Biology"/>
+</node>
+<node id="13" label="WANG JIANLONG J">
+<graphics fill="8874f5"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</node>
+<edge source="7" target="9" label="co-authorship: 19789178 - co-authorship: 20951344">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#8874f5" width="4.166667"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</edge>
+<edge source="11" target="13" label="co-authorship: 21477851">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#8874f5" width="1.6666667"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 18424439 - co-authorship: 19679564">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="8874f5" width="5.0"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</edge>
+<edge source="12" target="13" label="co-authorship: 21477851">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#8874f5" width="1.6666667"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17559063 - co-authorship: 17566273 - co-authorship: 18649280 - co-authorship: 18979240 - co-authorship: 19504560 - co-authorship: 19875177 - co-authorship: 20691861 - co-authorship: 21029855">
+<att name="weight" type="real" value="4.0"/>
+<graphics fill="#8874f5" width="20.0"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17938210 - co-authorship: 20368355 - co-authorship: 20696915 - co-authorship: 21613252">
+<att name="weight" type="real" value="2.0"/>
+<graphics fill="#8874f5" width="10.0"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</edge>
+<edge source="7" target="8" label="co-authorship: 19789178">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#8874f5" width="1.6666667"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</edge>
+<edge source="11" target="12" label="co-authorship: 21477851">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="8874f5" width="1.6666667"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</edge>
+<edge source="10" target="8" label="co-authorship: 21285373">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#8874f5" width="2.5"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</edge>
+<edge source="8" target="9" label="co-authorship: 19789178">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#8874f5" width="1.6666667"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology"/>
+</edge>
+</graph>

@@ -1,0 +1,20 @@
+21447415
+Serotonin and the neurochemistry of intimacy.
+
+
+21115834
+Effects of oxytocin on recollections of maternal care and closeness.
+Although the infant-caregiver attachment bond is critical to survival, little is known about the biological mechanisms supporting attachment representations in humans. Oxytocin plays a key role in attachment bond formation and maintenance in animals and thus could be expected to affect attachment representations in humans. To investigate this possibility, we administered 24 IU intranasal oxytocin to healthy male adults in a double-blind, placebo-controlled, crossover designed study and then assessed memories of childhood maternal care and closeness--two features of the attachment bond. We found that the effects of oxytocin were moderated by the attachment representations people possess, with less anxiously attached individuals remembering their mother as more caring and close after oxytocin (vs. placebo) but more anxiously attached individuals remembering their mother as less caring and close after oxytocin (vs. placebo). These data contrast with the popular notion that oxytocin has broad positive effects on social perception and are more consistent with the animal literature, which emphasizes oxytocin's role in encoding social memories and linking those memories to the reward value of the social stimulus.
+
+20855907
+Oxytocin selectively improves empathic accuracy.
+
+
+18655901
+Oxytocin and experimental therapeutics in autism spectrum disorders.
+Autism is a developmental disorder characterized by three core symptom domains: speech and communication abnormalities, social functioning impairments and repetitive behaviours and restricted interests. Oxytocin (OXT) is a nine-amino-acid peptide that is synthesized in the paraventricular and supraoptic nucleus of the hypothalamus and released into the bloodstream by axon terminals in the posterior pituitary where it plays an important role in facilitating uterine contractions during parturition and in milk let-down. In addition, OXT and the structurally similar peptide arginine vasopressin (AVP) are released within the brain where they play a key role in regulating affiliative behaviours, including sexual behaviour, mother-infant and adult-adult pair-bond formation and social memory/recognition. Finally, OXT has been implicated in repetitive behaviours and stress reactivity. Given that OXT is involved in the regulation of repetitive and affiliative behaviours, and that these are key features of autism, it is believed that OXT may play a role in autism and that OXT may be an effective treatment for these two core symptom domains. In this chapter we review evidence to date supporting a relationship between OXT and autism; we then discuss research looking at the functional role of OXT in autism, as well as a pilot study investigating the therapeutic efficacy of OXT in treating core autism symptom domains. Finally, we conclude with a discussion of directions for future research.
+
+17688286
+CD38 regulates oxytocin secretion and complex social behavior.
+The peptide hormone oxytocin plays a critical role in regulating affiliative behaviors including mating, pair-bond formation, maternal/parenting behavior, social recognition, separation distress and other aspects of attachment. Jin and colleagues recently reported intriguing findings that CD38, a transmembrane receptor with ADP-ribosyl cyclase activity, plays a critical role in maternal nurturing behavior and social recognition by regulating oxytocin secretion. This research may have implications for understanding disorders marked by deficits in social cognition and social functioning, including autism, social anxiety disorder, borderline personality disorder and schizophrenia.
+

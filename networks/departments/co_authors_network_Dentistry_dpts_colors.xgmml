@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="ANASTASSOV GEORGE GE">
+<graphics fill="1720f3"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Dentistry"/>
+</node>
+<node id="2" label="LUMERMAN HARRY H">
+<graphics fill="78fd21"/>
+<att name="functions" type="string" value="PROFESSORIAL LECTURER;PROFESSORIAL LECTURER;PROFESSORIAL LECTURER"/>
+<att name="departments" type="string" value="Dentistry;Dermatology;Pathology"/>
+</node>
+<node id="3" label="SCHULHOF ZEV Z">
+<graphics fill="1720f3"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Dentistry"/>
+</node>
+<node id="4" label="ASGARI ALI A">
+<graphics fill="1720f3"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Dentistry"/>
+</node>
+<node id="5" label="YASNY JEFFREY JS">
+<graphics fill="42bfb7"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Dentistry"/>
+</node>
+<node id="6" label="MONTAZEM ANDRE AH">
+<graphics fill="1720f3"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Dentistry"/>
+</node>
+<edge source="2" target="3" label="co-authorship: 17719408">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#1720f3" width="1.6666667"/>
+<att name="departments" type="string" value="Dentistry"/>
+</edge>
+<edge source="4" target="5" label="co-authorship: 18389671">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#1720f3" width="2.5"/>
+<att name="departments" type="string" value="Dentistry"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17719408 - co-authorship: 18554867">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#1720f3" width="4.166667"/>
+<att name="departments" type="string" value="Dentistry"/>
+</edge>
+<edge source="1" target="6" label="co-authorship: 20171483">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#1720f3" width="2.5"/>
+<att name="departments" type="string" value="Dentistry"/>
+</edge>
+<edge source="1" target="3" label="co-authorship: 17719408">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#1720f3" width="1.6666667"/>
+<att name="departments" type="string" value="Dentistry"/>
+</edge>
+</graph>

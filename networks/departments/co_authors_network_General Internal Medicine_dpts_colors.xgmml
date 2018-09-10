@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="SMITH KRISTOFER KL">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="2" label="SORIANO THERESA TA">
+<graphics fill="09bb9f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR (PENDING)"/>
+<att name="departments" type="string" value="General Internal Medicine;Geriatrics and Palliative Medicine"/>
+</node>
+<node id="3" label="BIENENFELD LAURA LA">
+<graphics fill="df252b"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine;Preventive Medicine"/>
+</node>
+<node id="4" label="DE LA HOZ RAFAEL RE">
+<graphics fill="df252b"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine;Preventive Medicine"/>
+</node>
+<node id="5" label="THOMAS DAVID DC">
+<graphics fill="5e0ea5"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine;Medical Education;Rehabilitation Medicine"/>
+</node>
+<node id="6" label="GARDENIER DONALD D">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="7" label="WISNIVESKY JUAN J">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="8" label="MANN DEVIN DM">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="9" label="PONIEMAN DIEGO D">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="10" label="BICKELL NINA NA">
+<graphics fill="272888"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine;Health Evidence and Policy"/>
+</node>
+<node id="11" label="LIN JENNY JJ">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="12" label="FEDERMAN ALEX AD">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="13" label="KRAUSKOPF KATHERINE K">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="14" label="KRONISH IAN IM">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="15" label="MCGINN THOMAS TG">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<edge source="3" target="4" label="co-authorship: 17786467 - co-authorship: 18213642 - co-authorship: 19092486 - co-authorship: 19092489 - co-authorship: 19730399 - co-authorship: 20042888">
+<att name="weight" type="real" value="3.0"/>
+<graphics fill="#df252b" width="15.0"/>
+<att name="departments" type="string" value="General Internal Medicine;Preventive Medicine"/>
+</edge>
+<edge source="6" target="14" label="co-authorship: 20950406 - co-authorship: 21455042">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#d03926" width="2.25"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="6" target="13" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#d03926" width="1.0"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="10" target="11" label="co-authorship: 19770368">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d03926" width="2.5"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="12" target="13" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#d03926" width="1.0"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="14" target="15" label="co-authorship: 20950406 - co-authorship: 21455042">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#d03926" width="2.25"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="13" target="15" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#d03926" width="1.0"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="8" target="9" label="co-authorship: 19131457 - co-authorship: 19184390 - co-authorship: 19959322">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#d03926" width="7.5"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="12" target="14" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#d03926" width="1.0"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="15" target="7" label="co-authorship: 21455042">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#d03926" width="1.25"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="2" target="5" label="co-authorship: 18225454">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="d03926" width="2.5"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="12" target="6" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#d03926" width="1.0"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="14" target="7" label="co-authorship: 21455042">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#d03926" width="1.25"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="6" target="7" label="co-authorship: 18852403 - co-authorship: 21455042">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#d03926" width="3.75"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="6" target="15" label="co-authorship: 20950406 - co-authorship: 21455042">
+<att name="weight" type="real" value="0.45"/>
+<graphics fill="#d03926" width="2.25"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="13" target="14" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#d03926" width="1.0"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="12" target="15" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#d03926" width="1.0"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17283350">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d03926" width="2.5"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+</graph>

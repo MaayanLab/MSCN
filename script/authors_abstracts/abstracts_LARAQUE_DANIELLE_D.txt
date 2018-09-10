@@ -1,0 +1,36 @@
+20551413
+Health care reform and the opportunity to implement a family-centered medical home for children.
+
+
+19706864
+A moral imperative for children.
+
+
+19450776
+Reported physician skills in the management of children's mental health problems following an educational intervention.
+The tristate Reaching Children Initiative (RCI) was designed to engage primary care physicians (PCPs) and increase reported knowledge and skills in the diagnosis and management of the most common mental health (MH) problems among children and adolescents. PCPs responded to a baseline survey and agreed to participate in an educational intervention or serve in a comparison group. The program, delivered by an interdisciplinary faculty, engaged the audience in role play, motivational techniques, and didactics. To assess the overall effectiveness of the intervention, baseline, and 6-month follow-up, surveys asked PCPs to rate their knowledge, diagnostic skills regarding socioemotional problems, knowledge of treatment strategies for these problems, awareness of MH resources, and attitudes towards diagnosing and treating MH problems. Of the 215 baseline respondents, 137 chose to participate in the educational intervention and 78 served as a comparison group; of these, 64% and 59%, respectively, completed the 6-month survey. The overall sample was predominantly female (70.2%), white (64.7%), and had been in practice for over 10 years (57.5%). Repeated measures analysis, confirmed by propensity analyses, revealed significantly improved reported mean scores for diagnostic skills and knowledge of clinical strategies for the intervention relative to the comparison group. The intervention did not significantly impact awareness of resources or attitudes. Following the RCI, PCPs did report significant changes in self-efficacy specific to diagnostic skills and knowledge of clinical treatment strategies for targeted MH content. This educational approach merits further study.
+
+19329094
+Disparities in utilization of mental health services: explanations and possible solutions.
+
+
+18488979
+Health promotion: core concepts in building successful clinical encounters.
+
+
+18447108
+The prevalence and characteristics of childhood overweight in a multiethnic, school-based health setting.
+The prevalence and correlates of overweight and the risk of overweight in minority children attending urban school-based health centers remains poorly characterized. The purpose of our study was to examine the prevalence and characteristics of overweight and at risk for overweight in low socioeconomic status minority children enrolled in East Harlem school-based health centers in New York City. A retrospective cross-sectional study during the period of September 2002 to August 2003. Four Pediatric School-based Health Centers in East Harlem. Children and adolescents, aged 5 to 18 years. We examined presence of overweight or the risk of overweight based on body mass index (BMI) percentile and other clinical characteristics. Bivariate and multivariate analyses were performed to assess the relationship between demographics and clinical characteristics with overweight and the risk of overweight. Of the 491 children enrolled, 45.8% were either overweight or at risk for overweight, with the highest risk observed in Hispanic/Latino children. This latter relation remained significant after adjusting for age, sex, and birthweight status. In addition, high screening office blood pressure was related to overweight status and higher BMI percentile. A large proportion of minorities, especially Hispanic/Latino children, attending school-based health centers in an urban community sample, are overweight or at risk for overweight. Elevated screening blood pressure was also a common co-morbidity. Further research should determine the predictors and correlates of overweight, and effective targeted school-based interventions should be tested in this high-risk population.
+
+18191779
+Use of a psychosocial screen to detect children with symptoms of posttraumatic stress disorder: an exploratory study.
+The aim of this study was to evaluate the sensitivity and specificity of the parent and youth versions of the 17-item Pediatric Symptom Checklist (PSC-17) for identifying children with symptoms of posttraumatic stress disorder (PTSD). Cross-sectional convenience samples of children aged 8 to 10 years treated at a primary care pediatrics practice in New York City were recruited. The PSC-17 and its 5-item internalizing subscale were used in both parent- and youth-completed formats. Posttraumatic stress disorder symptoms were identified with the University of California, Los Angeles posttraumatic stress reaction index (UCLA RI), used as a structured interview with the child. One hundred fifty-six children enrolled in the study. Twenty-two percent of children met the UCLA RI cutoff for likely PTSD. The youth version of the PSC-17 and its 5-item internalizing subscale identified these children with sensitivities of 78% and 75% and specificities of 77% and 77%, respectively, relative to the UCLA RI. The parent version of the PSC-17 and the internalizing subscale had poorer sensitivities of 44% and 25% and similar specificities of 79% and 92%, respectively. Symptoms of PTSD can be identified using the youth self-report version of the PSC-17. A 5-item subscale of the PSC-17 also performed well and can readily be used in primary care settings.
+
+17285215
+Pediatric organ transplant patients and long-term care: a review.
+We review the role of the academic generalist in the care of the child or adolescent who has undergone an organ transplant. This care is seen within the context of the "medical home" and the special considerations for pediatric patients. These special considerations include growth and development, psychosocial adjustment, cardiac and renal complications, endocrine problems, medication management and regimen adherence, infectious complications, vaccination, post-transplant malignancies, post-transplant lymphoproliferative disorders, acute post-transplant complications, recurrence, contraception and pregnancy for adolescents, and transition to adulthood. Research needs in this complex area are highlighted.
+
+17285214
+Forensic child abuse evaluation: a review.
+This review discusses the forensic medical and psychological assessments of children and adolescents suspected of being victims of sexual or physical abuse/neglect. Evaluation of the whole child and the need to minimize trauma during the investigative and assessment processes are stressed. The forensic medical examination is reviewed, including the specifics of the pediatric anogenital examination. The key components of the forensic medical examination in sexual assault cases are also reviewed, with particular attention to maintaining the integrity of the process. Special emphasis is placed on the forensic interview in child sexual abuse cases, the best evidence available and areas in need of further research.
+

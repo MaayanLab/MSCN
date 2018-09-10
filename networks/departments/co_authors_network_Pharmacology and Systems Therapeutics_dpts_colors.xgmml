@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="DEVI LAKSHMI LA">
+<graphics fill="df0ee7"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Neuroscience;Pharmacology and Systems Therapeutics;Psychiatry"/>
+</node>
+<node id="2" label="ROZENFELD RAPHAEL R">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="3" label="CARO ANDRES AA">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="4" label="CEDERBAUM ARTHUR AI">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="5" label="GUPTA ACHLA A">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="6" label="CHU TE-HUA TT">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="7" label="SEALFON STUART SC">
+<graphics fill="1f3ad1"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Neurology;Neuroscience;Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="8" label="HICKS DAVID DB">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="9" label="KRULWICH TERRY TA">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="10" label="WANG XIAODONG X">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="11" label="BECHHOFER DAVID DH">
+<graphics fill="da78f4"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education;Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="12" label="DEIKUS GINTARAS G">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="13" label="GOLDFARB JOSEPH J">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="PROFESSOR (PART-TIME)"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="14" label="IYENGAR RAVI R">
+<graphics fill="905a42"/>
+<att name="functions" type="string" value="DIRECTOR;DIRECTOR;PROFESSOR;PROFESSOR;PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Experimental Therapeutics Institute;Oncological Sciences;Pharmacology and Systems Therapeutics;Psychiatry;Systems Biology Center New York"/>
+</node>
+<node id="15" label="MA'AYAN AVI A">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="16" label="BLITZER ROBERT RD">
+<graphics fill="8da8c6"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics;Psychiatry"/>
+</node>
+<node id="17" label="YAO SHIYI S">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="18" label="DAVIS KENNETH KL">
+<graphics fill="5dc73d"/>
+<att name="functions" type="string" value="PRESIDENT AND CHIEF EXECUTIVE OFFICER;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics;Psychiatry;The Mount Sinai Medical Center"/>
+</node>
+<node id="19" label="SAKURAI TAKESHI T">
+<graphics fill="d13776"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology;Pharmacology and Systems Therapeutics;Psychiatry"/>
+</node>
+<node id="20" label="LIU JUN J">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="21" label="WU DEFENG D">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="22" label="DIVERSE-PIERLUISSI MARIA MA">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="23" label="SOBIE ERIC EA">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="24" label="CHEN YIBANG Y">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="25" label="NEVES SUSANA S">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR (PENDING)"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="26" label="CARTA LUCA L">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="27" label="RAMIREZ FRANCESCO F">
+<graphics fill="7c87e6"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="28" label="SMALDONE SILVIA S">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="29" label="CHARNEY DENNIS DS">
+<graphics fill="893c03"/>
+<att name="functions" type="string" value="DEAN;PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Mount Sinai School of Medicine;Neuroscience;Pharmacology and Systems Therapeutics;Psychiatry"/>
+</node>
+<node id="30" label="NESTLER ERIC EJ">
+<graphics fill="782443"/>
+<att name="functions" type="string" value="DIRECTOR;PROFESSOR;PROFESSOR;PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Friedman Brain Institute;Neuroscience;Pharmacology and Systems Therapeutics;Psychiatry"/>
+</node>
+<node id="31" label="RACKOVSKY SHALOM S">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="PROFESSORIAL LECTURER"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="32" label="SCHERAGA HAROLD HA">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="33" label="GALLO JAMES JM">
+<graphics fill="98ee6a"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</node>
+<edge source="1" target="2" label="co-authorship: 17028301 - co-authorship: 17982578 - co-authorship: 18256033 - co-authorship: 18267983 - co-authorship: 18507370 - co-authorship: 18836069 - co-authorship: 19857996 - co-authorship: 20060175 - co-authorship: 20647592 - co-authorship: 21158738">
+<att name="weight" type="real" value="4.5"/>
+<graphics fill="#98ee6a" width="22.5"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="20" target="23" label="co-authorship: 21568349">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#98ee6a" width="1.25"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="31" target="32" label="co-authorship: 21142228">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#98ee6a" width="2.5"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="14" target="25" label="co-authorship: 18625721">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#98ee6a" width="1.6666667"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="9" target="20" label="co-authorship: 17600061 - co-authorship: 18359284 - co-authorship: 19176524 - co-authorship: 20193659 - co-authorship: 20716528 - co-authorship: 21568349">
+<att name="weight" type="real" value="2.0833335"/>
+<graphics fill="#98ee6a" width="10.416668"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="10" target="21" label="co-authorship: 20932821">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#98ee6a" width="2.5"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="9" target="23" label="co-authorship: 20562890 - co-authorship: 21568349">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#98ee6a" width="2.916667"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17118330 - co-authorship: 17446309">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#98ee6a" width="5.0"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="27" target="28" label="co-authorship: 19109253 - co-authorship: 20392244 - co-authorship: 20729550 - co-authorship: 20855508 - co-authorship: 21126338 - co-authorship: 21362163 - co-authorship: 21538048">
+<att name="weight" type="real" value="3.0"/>
+<graphics fill="#98ee6a" width="15.0"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="11" target="17" label="co-authorship: 17576666 - co-authorship: 18647167 - co-authorship: 19161848 - co-authorship: 19633085 - co-authorship: 19850915 - co-authorship: 20418391">
+<att name="weight" type="real" value="2.8333335"/>
+<graphics fill="#98ee6a" width="14.166668"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="24" target="14" label="co-authorship: 18625721 - co-authorship: 21107857">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#98ee6a" width="4.166667"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="13" target="15" label="co-authorship: 17516560">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#98ee6a" width="1.6666667"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="1" target="5" label="co-authorship: 17148456 - co-authorship: 18256033 - co-authorship: 18673273 - co-authorship: 18836069 - co-authorship: 19956087 - co-authorship: 20647592 - co-authorship: 20687183 - co-authorship: 20729750">
+<att name="weight" type="real" value="3.5"/>
+<graphics fill="#98ee6a" width="17.5"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="29" target="33" label="co-authorship: 21481334">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#98ee6a" width="2.5"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="18" target="19" label="co-authorship: 17579610 - co-authorship: 20950668">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="8da8c6" width="5.0"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics;Psychiatry"/>
+</edge>
+<edge source="4" target="21" label="co-authorship: 17920235 - co-authorship: 18369917 - co-authorship: 19387914 - co-authorship: 19448996 - co-authorship: 20692331 - co-authorship: 21051534">
+<att name="weight" type="real" value="2.8333333"/>
+<graphics fill="#98ee6a" width="14.166666"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="1" target="15" label="co-authorship: 19562802">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#98ee6a" width="1.6666667"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="24" target="25" label="co-authorship: 18625721">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#98ee6a" width="1.6666667"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="12" target="17" label="co-authorship: 19161848">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#98ee6a" width="1.6666667"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="26" target="28" label="co-authorship: 19109253 - co-authorship: 20855508 - co-authorship: 21538048">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#98ee6a" width="5.0"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="22" target="14" label="co-authorship: 18309063 - co-authorship: 18323015">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#98ee6a" width="2.5"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="14" target="9" label="co-authorship: 20562890">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#98ee6a" width="1.6666667"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="8" target="23" label="co-authorship: 21568349">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#98ee6a" width="1.25"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="1" target="14" label="co-authorship: 18309063 - co-authorship: 18323015 - co-authorship: 19562802">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="8da8c6" width="4.166667"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics;Psychiatry"/>
+</edge>
+<edge source="8" target="20" label="co-authorship: 18359284 - co-authorship: 19176524 - co-authorship: 20193659 - co-authorship: 20716528 - co-authorship: 21568349">
+<att name="weight" type="real" value="1.5833334"/>
+<graphics fill="#98ee6a" width="7.916667"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="14" target="15" label="co-authorship: 17516560 - co-authorship: 17855420 - co-authorship: 18178648 - co-authorship: 18487186 - co-authorship: 18537452 - co-authorship: 19033453 - co-authorship: 19154595 - co-authorship: 19155528 - co-authorship: 19562802 - co-authorship: 20407125">
+<att name="weight" type="real" value="4.666667"/>
+<graphics fill="#98ee6a" width="23.333336"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="22" target="23" label="co-authorship: 18309063 - co-authorship: 18323015">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#98ee6a" width="2.5"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="5" target="2" label="co-authorship: 18256033 - co-authorship: 18836069 - co-authorship: 20647592">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#98ee6a" width="5.0"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="16" target="14" label="co-authorship: 17537959 - co-authorship: 18485874">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#8da8c6" width="5.0"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics;Psychiatry"/>
+</edge>
+<edge source="1" target="23" label="co-authorship: 18309063 - co-authorship: 18323015">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#98ee6a" width="2.5"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="13" target="14" label="co-authorship: 17516560">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#98ee6a" width="1.6666667"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="11" target="12" label="co-authorship: 17507374 - co-authorship: 18315555 - co-authorship: 18445592 - co-authorship: 19161848 - co-authorship: 19638340">
+<att name="weight" type="real" value="2.3333335"/>
+<graphics fill="#98ee6a" width="11.666668"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="26" target="27" label="co-authorship: 19109253 - co-authorship: 19850904 - co-authorship: 20855508 - co-authorship: 21538048">
+<att name="weight" type="real" value="1.5000001"/>
+<graphics fill="#98ee6a" width="7.5000005"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="29" target="30" label="co-authorship: 19455174">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="df0ee7" width="2.5"/>
+<att name="departments" type="string" value="Neuroscience;Pharmacology and Systems Therapeutics;Psychiatry"/>
+</edge>
+<edge source="14" target="23" label="co-authorship: 18309063 - co-authorship: 18323015 - co-authorship: 20562890">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#98ee6a" width="4.166667"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="4" target="10" label="co-authorship: 17349925 - co-authorship: 18393316 - co-authorship: 18482574 - co-authorship: 19477265 - co-authorship: 20692331">
+<att name="weight" type="real" value="2.3333333"/>
+<graphics fill="#98ee6a" width="11.666666"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="8" target="9" label="co-authorship: 17293423 - co-authorship: 18359284 - co-authorship: 19176524 - co-authorship: 19682259 - co-authorship: 20193659 - co-authorship: 20716528 - co-authorship: 21568349">
+<att name="weight" type="real" value="2.5833333"/>
+<graphics fill="#98ee6a" width="12.916666"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="6" target="7" label="co-authorship: 17280588">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#98ee6a" width="2.5"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+<edge source="1" target="22" label="co-authorship: 18309063 - co-authorship: 18323015">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#98ee6a" width="2.5"/>
+<att name="departments" type="string" value="Pharmacology and Systems Therapeutics"/>
+</edge>
+</graph>

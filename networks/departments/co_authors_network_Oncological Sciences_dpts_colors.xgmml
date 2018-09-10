@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="BOVBJERG DANA DH">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="2" label="VALDIMARSDOTTIR HEIDDIS HB">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="3" label="MONTGOMERY GUY GH">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="4" label="ERBLICH JOEL J">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="5" label="DUHAMEL KATHERINE KN">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="6" label="REDD WILLIAM WH">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="7" label="WINKEL GARY G">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="SENIOR FACULTY"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="8" label="BURSTEIN DAVID DE">
+<graphics fill="85ad1a"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Pathology"/>
+</node>
+<node id="9" label="JAFFER SHABNAM S">
+<graphics fill="85ad1a"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Pathology"/>
+</node>
+<node id="10" label="SPRING BONNIE B">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="11" label="CHAN ANDREW AM">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="12" label="MARTIGNETTI JOHN JA">
+<graphics fill="e465c2"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Oncological Sciences;Pediatrics"/>
+</node>
+<node id="13" label="AARONSON STUART SA">
+<graphics fill="7589ef"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Medicine;Oncological Sciences"/>
+</node>
+<node id="14" label="KIRSCHENBAUM ALEXANDER A">
+<graphics fill="884da5"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR;ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Urology"/>
+</node>
+<node id="15" label="LEVINE ALICE AC">
+<graphics fill="199c88"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Endocrinology, Diabetes and Bone Disease;Oncological Sciences"/>
+</node>
+<node id="16" label="LIU GUIZHONG G">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="17" label="GABRILOVE JANICE JL">
+<graphics fill="e1ead0"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Hematology and Medical Oncology;Oncological Sciences"/>
+</node>
+<node id="18" label="BAFICO ANNA A">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="19" label="VIJAYAKUMAR SAPNA S">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="20" label="SCHNUR JULIE JB">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="21" label="LICHT JONATHAN JD">
+<graphics fill="f02738"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology;Hematology and Medical Oncology;Oncological Sciences"/>
+</node>
+<node id="22" label="WAXMAN SAMUEL S">
+<graphics fill="e1ead0"/>
+<att name="functions" type="string" value="DISTINGUISHED SERVICE PROFESSOR;DISTINGUISHED SERVICE PROFESSOR"/>
+<att name="departments" type="string" value="Hematology and Medical Oncology;Oncological Sciences"/>
+</node>
+<node id="23" label="SHAFIR MICHAIL MK">
+<graphics fill="56dee7"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR;CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Surgical Oncology"/>
+</node>
+<node id="24" label="IYENGAR RAVI R">
+<graphics fill="905a42"/>
+<att name="functions" type="string" value="DIRECTOR;DIRECTOR;PROFESSOR;PROFESSOR;PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Experimental Therapeutics Institute;Oncological Sciences;Pharmacology and Systems Therapeutics;Psychiatry;Systems Biology Center New York"/>
+</node>
+<node id="25" label="THOMPSON HAYLEY HS">
+<graphics fill="884da5"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR;ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Urology"/>
+</node>
+<node id="26" label="BLEIWEISS IRA IJ">
+<graphics fill="85ad1a"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Pathology"/>
+</node>
+<node id="27" label="MANFREDI JAMES JJ">
+<graphics fill="1174c1"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology;Oncological Sciences"/>
+</node>
+<node id="28" label="GRUMOLATO LUCA L">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="29" label="SASSOON DAVID DA">
+<graphics fill="1174c1"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology;Oncological Sciences"/>
+</node>
+<node id="30" label="PODGRABINSKA SIMONA S">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="31" label="SKOBE MIHAELA M">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="32" label="AGUIRRE-GHISO JULIO JA">
+<graphics fill="95e657"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Hematology and Medical Oncology;Oncological Sciences;Otolaryngology"/>
+</node>
+<node id="33" label="OSSOWSKI LILIANA L">
+<graphics fill="7589ef"/>
+<att name="functions" type="string" value="PROFESSOR EMERITUS;PROFESSOR EMERITUS"/>
+<att name="departments" type="string" value="Medicine;Oncological Sciences"/>
+</node>
+<node id="34" label="SMITH MEREDITH MY">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="35" label="RESNICK-SILVERMAN LOIS L">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="36" label="STAMENKOVIC IVAN I">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="37" label="YU QIN Q">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<node id="38" label="MLODZIK MAREK M">
+<graphics fill="aab791"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology;Oncological Sciences;Ophthalmology"/>
+</node>
+<node id="39" label="HOLLAND JAMES JF">
+<graphics fill="e1ead0"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Hematology and Medical Oncology;Oncological Sciences"/>
+</node>
+<node id="40" label="OHNUMA TAKAO T">
+<graphics fill="e1ead0"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Hematology and Medical Oncology;Oncological Sciences"/>
+</node>
+<node id="41" label="SILVERMAN LEWIS LR">
+<graphics fill="e1ead0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Hematology and Medical Oncology;Oncological Sciences"/>
+</node>
+<node id="42" label="DIEFENBACH MICHAEL MA">
+<graphics fill="884da5"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Urology"/>
+</node>
+<node id="43" label="DROLLER MICHAEL MJ">
+<graphics fill="884da5"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Urology"/>
+</node>
+<node id="44" label="ITZKOWITZ STEVEN SH">
+<graphics fill="6a4ae6"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR (PENDING)"/>
+<att name="departments" type="string" value="Gastroenterology;Oncological Sciences"/>
+</node>
+<node id="45" label="MANNE SHARON SL">
+<graphics fill="f74445"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</node>
+<edge source="1" target="3" label="co-authorship: 16896879 - co-authorship: 17728216 - co-authorship: 18227298 - co-authorship: 18444017 - co-authorship: 18723313 - co-authorship: 18977604 - co-authorship: 19011695 - co-authorship: 19226611 - co-authorship: 19380502 - co-authorship: 19450037 - co-authorship: 20099953 - co-authorship: 20538186 - co-authorship: 20801756 - co-authorship: 20856780">
+<att name="weight" type="real" value="5.033333"/>
+<graphics fill="#f74445" width="25.166664"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="30" target="31" label="co-authorship: 19587009 - co-authorship: 20179201">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#f74445" width="5.0"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="1" target="25" label="co-authorship: 18479882 - co-authorship: 19090507 - co-authorship: 21540561">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#f74445" width="5.0"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="34" target="7" label="co-authorship: 20036097">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#f74445" width="1.6666667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="10" target="7" label="co-authorship: 17372796">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#f74445" width="2.5"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 17219398 - co-authorship: 21261435">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#f74445" width="4.166667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="26" target="9" label="co-authorship: 18533395 - co-authorship: 18948766 - co-authorship: 19061295 - co-authorship: 19402174 - co-authorship: 19961252 - co-authorship: 21240257">
+<att name="weight" type="real" value="3.0"/>
+<graphics fill="#85ad1a" width="15.0"/>
+<att name="departments" type="string" value="Oncological Sciences;Pathology"/>
+</edge>
+<edge source="13" target="18" label="co-authorship: 19377513">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#f74445" width="1.6666667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="40" target="41" label="co-authorship: 20501913">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#e1ead0" width="1.6666667"/>
+<att name="departments" type="string" value="Hematology and Medical Oncology;Oncological Sciences"/>
+</edge>
+<edge source="17" target="15" label="co-authorship: 17669719">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="f74445" width="1.6666667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="11" target="24" label="co-authorship: 18309063 - co-authorship: 18323015">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#f74445" width="5.0"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="13" target="19" label="co-authorship: 19349579 - co-authorship: 19377513 - co-authorship: 21042278 - co-authorship: 21078818 - co-authorship: 21575861">
+<att name="weight" type="real" value="1.4166667"/>
+<graphics fill="#f74445" width="7.083334"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="42" target="20" label="co-authorship: 20538186">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#f74445" width="1.0"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="1" target="42" label="co-authorship: 20538186">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#f74445" width="1.0"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="43" target="39" label="co-authorship: 21227046">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="f74445" width="1.25"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="8" target="23" label="co-authorship: 18251743">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="f74445" width="2.5"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="6" target="2" label="co-authorship: 18686019">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#f74445" width="1.6666667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="14" target="15" label="co-authorship: 17575141 - co-authorship: 17646262 - co-authorship: 17669719 - co-authorship: 20227393">
+<att name="weight" type="real" value="1.5833334"/>
+<graphics fill="f74445" width="7.916667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="11" target="12" label="co-authorship: 17514651">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#f74445" width="2.5"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="6" target="25" label="co-authorship: 18686019">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#f74445" width="1.6666667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="25" target="7" label="co-authorship: 20195782">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#f74445" width="2.5"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="18" target="19" label="co-authorship: 17698587 - co-authorship: 19377513">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#f74445" width="4.166667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 16859893 - co-authorship: 17011693 - co-authorship: 17029702 - co-authorship: 17548668 - co-authorship: 18479882 - co-authorship: 19090507 - co-authorship: 21540561">
+<att name="weight" type="real" value="2.6666665"/>
+<graphics fill="#f74445" width="13.333332"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="39" target="40" label="co-authorship: 20501913">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#e1ead0" width="1.6666667"/>
+<att name="departments" type="string" value="Hematology and Medical Oncology;Oncological Sciences"/>
+</edge>
+<edge source="5" target="34" label="co-authorship: 20036097">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#f74445" width="1.6666667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="44" target="45" label="co-authorship: 21308408">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#f74445" width="2.5"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="1" target="20" label="co-authorship: 17728216 - co-authorship: 18227298 - co-authorship: 18444017 - co-authorship: 19011695 - co-authorship: 19226611 - co-authorship: 19380502 - co-authorship: 19450037 - co-authorship: 20099953 - co-authorship: 20538186 - co-authorship: 20801756">
+<att name="weight" type="real" value="3.1999998"/>
+<graphics fill="#f74445" width="15.999999"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="17" target="14" label="co-authorship: 17669719">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="f74445" width="1.6666667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="39" target="14" label="co-authorship: 21227046">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="f74445" width="1.25"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="13" target="27" label="co-authorship: 19079133">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="f74445" width="2.5"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="8" target="9" label="co-authorship: 17350670">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#85ad1a" width="2.5"/>
+<att name="departments" type="string" value="Oncological Sciences;Pathology"/>
+</edge>
+<edge source="21" target="22" label="co-authorship: 18156491">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e1ead0" width="2.5"/>
+<att name="departments" type="string" value="Hematology and Medical Oncology;Oncological Sciences"/>
+</edge>
+<edge source="13" target="38" label="co-authorship: 20453880 - co-authorship: 20837657">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="f74445" width="4.166667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="13" target="43" label="co-authorship: 21227046">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="f74445" width="1.25"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="32" target="33" label="co-authorship: 19843243">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="f74445" width="2.5"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="28" target="19" label="co-authorship: 19349579 - co-authorship: 21042278 - co-authorship: 21078818 - co-authorship: 21575861">
+<att name="weight" type="real" value="1.0833334"/>
+<graphics fill="#f74445" width="5.416667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="42" target="4" label="co-authorship: 20538186">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#f74445" width="1.0"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="13" target="29" label="co-authorship: 19535900">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="f74445" width="2.5"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="42" target="3" label="co-authorship: 20538186">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#f74445" width="1.0"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="43" target="14" label="co-authorship: 21227046">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#884da5" width="1.25"/>
+<att name="departments" type="string" value="Oncological Sciences;Urology"/>
+</edge>
+<edge source="3" target="20" label="co-authorship: 17728216 - co-authorship: 18227298 - co-authorship: 18444017 - co-authorship: 19011695 - co-authorship: 19226611 - co-authorship: 19380502 - co-authorship: 19450037 - co-authorship: 19746190 - co-authorship: 19775863 - co-authorship: 20006414 - co-authorship: 20011227 - co-authorship: 20099953 - co-authorship: 20238306 - co-authorship: 20538186 - co-authorship: 20801756 - co-authorship: 20838323">
+<att name="weight" type="real" value="6.2"/>
+<graphics fill="#f74445" width="31.0"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="1" target="4" label="co-authorship: 17011693 - co-authorship: 17029702 - co-authorship: 17725931 - co-authorship: 18977604 - co-authorship: 20538186 - co-authorship: 21419576">
+<att name="weight" type="real" value="2.2000003"/>
+<graphics fill="#f74445" width="11.000002"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="39" target="41" label="co-authorship: 20501913">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#e1ead0" width="1.6666667"/>
+<att name="departments" type="string" value="Hematology and Medical Oncology;Oncological Sciences"/>
+</edge>
+<edge source="4" target="20" label="co-authorship: 20538186">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#f74445" width="1.0"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="16" target="19" label="co-authorship: 19349579 - co-authorship: 21078818 - co-authorship: 21575861">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#f74445" width="3.75"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="13" target="14" label="co-authorship: 17575141 - co-authorship: 21227046">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="f74445" width="2.5"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="4" target="3" label="co-authorship: 18977604 - co-authorship: 20390044 - co-authorship: 20538186">
+<att name="weight" type="real" value="1.0333334"/>
+<graphics fill="#f74445" width="5.166667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="28" target="38" label="co-authorship: 20837657 - co-authorship: 21316583">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#f74445" width="4.166667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="25" target="2" label="co-authorship: 18479882 - co-authorship: 18686019 - co-authorship: 19090507 - co-authorship: 20151317 - co-authorship: 21540561">
+<att name="weight" type="real" value="1.8333334"/>
+<graphics fill="#f74445" width="9.166667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="27" target="35" label="co-authorship: 20134482">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#f74445" width="2.5"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="36" target="37" label="co-authorship: 20197461 - co-authorship: 20491622">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#f74445" width="5.0"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="13" target="16" label="co-authorship: 17575141 - co-authorship: 19349579 - co-authorship: 21078818 - co-authorship: 21575861">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#f74445" width="5.0"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="13" target="15" label="co-authorship: 17575141">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="f74445" width="1.25"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="12" target="22" label="co-authorship: 18929564">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="f74445" width="2.5"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="13" target="39" label="co-authorship: 21227046">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="f74445" width="1.25"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="4" target="2" label="co-authorship: 17011693 - co-authorship: 17029702">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#f74445" width="3.3333335"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="6" target="7" label="co-authorship: 17219398">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#f74445" width="1.6666667"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="13" target="28" label="co-authorship: 19349579 - co-authorship: 20837657 - co-authorship: 21042278 - co-authorship: 21078818 - co-authorship: 21575861">
+<att name="weight" type="real" value="1.4166667"/>
+<graphics fill="#f74445" width="7.083334"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="28" target="16" label="co-authorship: 19349579 - co-authorship: 21078818 - co-authorship: 21575861">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#f74445" width="3.75"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="15" target="16" label="co-authorship: 17575141">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#f74445" width="1.25"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="14" target="16" label="co-authorship: 17575141">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#f74445" width="1.25"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+<edge source="5" target="7" label="co-authorship: 17219398 - co-authorship: 17621377 - co-authorship: 20036097">
+<att name="weight" type="real" value="1.1666667"/>
+<graphics fill="#f74445" width="5.833334"/>
+<att name="departments" type="string" value="Oncological Sciences"/>
+</edge>
+</graph>

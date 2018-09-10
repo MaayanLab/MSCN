@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="COPPERMAN ALAN AB">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="2" label="GRUNFELD LAWRENCE L">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="3" label="MUKHERJEE TANMOY T">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="4" label="SANDLER BENJAMIN B">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="5" label="FERRARA LAUREN L">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="6" label="EDDLEMAN KEITH KA">
+<graphics fill="4b01de"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="7" label="NAGARSHETH NIMESH NP">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="8" label="RAHAMAN JAMAL J">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="9" label="ZAKASHANSKY KONSTANTIN K">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="10" label="REBARBER ANDREI A">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="11" label="SALTZMAN DANIEL DH">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="12" label="LITTON CHRISTIAN C">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="13" label="ALTCHEK ALBERT A">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="14" label="DELIGDISCH LIANE L">
+<graphics fill="e164a7"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science;Pathology"/>
+</node>
+<node id="15" label="BRODMAN MICHAEL M">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="16" label="FLISSER ADAM AJ">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="17" label="CHUANG LINUS LT">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="18" label="GRETZ HERBERT HF">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="19" label="STONE JOANNE J">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="20" label="DOTTINO PETER PR">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="21" label="DESNICK ROBERT RJ">
+<graphics fill="60c23d"/>
+<att name="functions" type="string" value="DEAN FOR GENETICS AND GENOMIC SCIENCES ;PROFESSOR & CHAIR;PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science;Oncological Sciences;Pediatrics"/>
+</node>
+<node id="22" label="KORNREICH RUTH R">
+<graphics fill="4b01de"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="23" label="BEILIN YAAKOV Y">
+<graphics fill="68e615"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="24" label="HOWELL ELIZABETH EA">
+<graphics fill="8b67ab"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Health Evidence and Policy;Obstetrics, Gynecology and Reproductive Science;Psychiatry"/>
+</node>
+<node id="25" label="BAR-CHAMA NATAN N">
+<graphics fill="fa4be7"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science;Urology"/>
+</node>
+<node id="26" label="PACIUC JOHN J">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="27" label="JACOBS ADAM AR">
+<graphics fill="2edc12"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science;Pediatrics"/>
+</node>
+<node id="28" label="LITTMAN LISA LL">
+<graphics fill="6c190d"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science;Preventive Medicine"/>
+</node>
+<node id="29" label="MCGOVERN MARGARET MM">
+<graphics fill="e8ab5a"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science;Pediatrics"/>
+</node>
+<node id="30" label="DEAN GILLIAN G">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="31" label="TRESZEZAMSKY ALEJANDRO A">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="32" label="SHIRAZIAN TARANEH T">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="33" label="FISHMAN DAVID D">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="34" label="CHEN KATHERINE KT">
+<graphics fill="31276a"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education;Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="35" label="MEHTA ISHA I">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="36" label="RASCOFF LAUREN L">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="37" label="SHAHRYARINEJAD AZIN A">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="38" label="EVANS MARK MI">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="39" label="ASCHER-WALSH CHARLES CJ">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="40" label="CAPES TRACY TL">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="41" label="KERENYI THOMAS T">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="42" label="POLGAR KATALIN K">
+<graphics fill="09f35c"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="43" label="GARELY ALAN A">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="SENIOR FACULTY"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="44" label="OLIVERA CEDRIC C">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="45" label="VARDY MICHAEL M">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="46" label="RAPTIS GEORGE G">
+<graphics fill="14a5de"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Hematology and Medical Oncology;Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="47" label="SANDLER RAYMOND R">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="48" label="PRASAD-HAYES MONICA M">
+<graphics fill="e60d29"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<edge source="21" target="42" label="co-authorship: 20677926">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="e60d29" width="1.25"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="1" target="3" label="co-authorship: 17207802 - co-authorship: 17880948 - co-authorship: 21071023">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#e60d29" width="3.75"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="24" target="19" label="co-authorship: 19495946">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="15" target="4" label="co-authorship: 17903078">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#e60d29" width="1.6666667"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="2" target="4" label="co-authorship: 17207802 - co-authorship: 17880948 - co-authorship: 19539905 - co-authorship: 21071023">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#e60d29" width="5.0"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="33" target="8" label="co-authorship: 20014427">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="13" target="14" label="co-authorship: 17601903 - co-authorship: 17920404 - co-authorship: 19616457 - co-authorship: 19733098">
+<att name="weight" type="real" value="2.0"/>
+<graphics fill="#e60d29" width="10.0"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="43" target="45" label="co-authorship: 20730542">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#e60d29" width="1.0"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17207802 - co-authorship: 17880948 - co-authorship: 21071023">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#e60d29" width="3.75"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="13" target="26" label="co-authorship: 19576808">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="30" target="31" label="co-authorship: 20004279">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="22" target="19" label="co-authorship: 18759865">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="5" target="19" label="co-authorship: 17972236 - co-authorship: 18639217 - co-authorship: 18928991">
+<att name="weight" type="real" value="1.3333334"/>
+<graphics fill="#e60d29" width="6.666667"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="25" target="2" label="co-authorship: 19539905">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#e60d29" width="1.25"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="15" target="43" label="co-authorship: 20730542">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#e60d29" width="1.0"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="5" target="10" label="co-authorship: 17592059 - co-authorship: 18850518">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#e60d29" width="4.166667"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="15" target="45" label="co-authorship: 20730542">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#e60d29" width="1.0"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="25" target="38" label="co-authorship: 20152966">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="1" target="4" label="co-authorship: 17207802 - co-authorship: 17531231 - co-authorship: 17880948 - co-authorship: 17903078 - co-authorship: 19539905 - co-authorship: 20014419 - co-authorship: 21071023">
+<att name="weight" type="real" value="2.3333335"/>
+<graphics fill="#e60d29" width="11.666668"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="10" target="47" label="co-authorship: 21271783">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="25" target="1" label="co-authorship: 19539905">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#e60d29" width="1.25"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="5" target="12" label="co-authorship: 17592059 - co-authorship: 18639217">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#e60d29" width="3.3333335"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="44" target="45" label="co-authorship: 20730542">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#e60d29" width="1.0"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="2" target="3" label="co-authorship: 17207802 - co-authorship: 17880948 - co-authorship: 21071023">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#e60d29" width="3.75"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="7" target="8" label="co-authorship: 17292454 - co-authorship: 17386041">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#e60d29" width="3.3333335"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="21" target="22" label="co-authorship: 18240905 - co-authorship: 18252229 - co-authorship: 19663669 - co-authorship: 20504253 - co-authorship: 20672374 - co-authorship: 20837833 - co-authorship: 21358751">
+<att name="weight" type="real" value="3.5"/>
+<graphics fill="#4b01de" width="17.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="15" target="21" label="co-authorship: 20677926">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#e60d29" width="1.25"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="39" target="40" label="co-authorship: 20303834 - co-authorship: 20556597">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#e60d29" width="5.0"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="43" target="37" label="co-authorship: 20730542">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#e60d29" width="1.0"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="15" target="1" label="co-authorship: 17903078">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#e60d29" width="1.6666667"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="7" target="9" label="co-authorship: 17292454 - co-authorship: 17386041">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#e60d29" width="3.3333335"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="5" target="27" label="co-authorship: 20350649">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="44" target="37" label="co-authorship: 20730542">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#e60d29" width="1.0"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="6" target="5" label="co-authorship: 17255180">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="12" target="10" label="co-authorship: 17592059">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#e60d29" width="1.6666667"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="21" target="46" label="co-authorship: 21086978">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="37" target="45" label="co-authorship: 20730542">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#e60d29" width="1.0"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="21" target="29" label="co-authorship: 19745751">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e8ab5a" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science;Pediatrics"/>
+</edge>
+<edge source="15" target="44" label="co-authorship: 20730542">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#e60d29" width="1.0"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="34" target="35" label="co-authorship: 20022579">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="36" target="37" label="co-authorship: 20052574">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="15" target="42" label="co-authorship: 20677926">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#e60d29" width="1.25"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="17" target="8" label="co-authorship: 17851821">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#e60d29" width="1.6666667"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="10" target="32" label="co-authorship: 20013602">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="21" target="41" label="co-authorship: 20677926">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#e60d29" width="1.25"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="15" target="41" label="co-authorship: 20677926">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#e60d29" width="1.25"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="8" target="9" label="co-authorship: 17292454 - co-authorship: 17386041 - co-authorship: 18667172 - co-authorship: 20014423 - co-authorship: 20833849">
+<att name="weight" type="real" value="2.1666667"/>
+<graphics fill="#e60d29" width="10.833334"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="23" target="7" label="co-authorship: 18713914">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17207802 - co-authorship: 17880948 - co-authorship: 19539905 - co-authorship: 21071023">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#e60d29" width="5.0"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="27" target="28" label="co-authorship: 19672677">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="15" target="37" label="co-authorship: 20730542">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#e60d29" width="1.0"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="10" target="11" label="co-authorship: 17346529 - co-authorship: 17563346 - co-authorship: 18401840 - co-authorship: 19155955 - co-authorship: 19300329 - co-authorship: 19488951 - co-authorship: 19846054 - co-authorship: 20567174 - co-authorship: 21098845">
+<att name="weight" type="real" value="4.5"/>
+<graphics fill="#e60d29" width="22.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="12" target="19" label="co-authorship: 18639217 - co-authorship: 20014413">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#e60d29" width="4.166667"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="25" target="4" label="co-authorship: 19539905">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#e60d29" width="1.25"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="43" target="44" label="co-authorship: 20730542">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#e60d29" width="1.0"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="15" target="16" label="co-authorship: 17618778">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="20" target="8" label="co-authorship: 18217973">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="18" target="8" label="co-authorship: 17851821">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#e60d29" width="1.6666667"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="41" target="42" label="co-authorship: 20677926">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#e60d29" width="1.25"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="48" target="8" label="co-authorship: 21415197">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e60d29" width="2.5"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="17" target="18" label="co-authorship: 17851821">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#e60d29" width="1.6666667"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+</graph>

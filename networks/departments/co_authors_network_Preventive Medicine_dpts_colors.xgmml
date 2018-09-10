@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="GALVEZ MAIDA MP">
+<graphics fill="10fd1c"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</node>
+<node id="2" label="FORMAN JOEL J">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="3" label="BERNSTEIN JONINE JL">
+<graphics fill="c04d6a"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR;ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Preventive Medicine"/>
+</node>
+<node id="4" label="ROSENSTEIN BARRY BS">
+<graphics fill="55fbfe"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology;Preventive Medicine;Radiation Oncology"/>
+</node>
+<node id="5" label="SZEINUK JAIME J">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="6" label="WILK-RIVARD ELIZABETH EJ">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="7" label="DE LA HOZ RAFAEL RE">
+<graphics fill="df252b"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine;Preventive Medicine"/>
+</node>
+<node id="8" label="HERBERT ROBIN R">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="9" label="LEVIN STEPHEN SM">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="10" label="BIENENFELD LAURA LA">
+<graphics fill="df252b"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine;Preventive Medicine"/>
+</node>
+<node id="11" label="LANDRIGAN PHILIP PJ">
+<graphics fill="10fd1c"/>
+<att name="functions" type="string" value="DEAN FOR GLOBAL HEALTH ;PROFESSOR & CHAIR;PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</node>
+<node id="12" label="BRENNER BARBARA BL">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="13" label="TRASANDE LEONARDO L">
+<graphics fill="10fd1c"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</node>
+<node id="14" label="WEI HUACHEN H">
+<graphics fill="8b8ab1"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Dermatology;Oncological Sciences;Preventive Medicine"/>
+</node>
+<node id="15" label="MOLINE JACQUELINE JM">
+<graphics fill="71561e"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR;ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Medicine;Preventive Medicine"/>
+</node>
+<node id="16" label="WALLENSTEIN SYLVAN S">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="RESEARCH PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="17" label="CHEN JIA J">
+<graphics fill="4664c8"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Hematology and Medical Oncology;Oncological Sciences;Pediatrics;Preventive Medicine"/>
+</node>
+<node id="18" label="LAMBERTINI LUCA L">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="19" label="MARKOWITZ STEVEN S">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="20" label="LUMA GREGORY GB">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="21" label="SPIOTTA ROSEANN RT">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ADJUNCT CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="22" label="CROWLEY LAURA LE">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="23" label="ENRIGHT PAUL PL">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="24" label="SCHECHTER CLYDE CB">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="25" label="CIFUENTES ENRIQUE E">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="26" label="MORLAND KIMBERLY KB">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="27" label="MIODOVNIK AMIR A">
+<graphics fill="10fd1c"/>
+<att name="functions" type="string" value="ASSOCIATE;ASSOCIATE"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</node>
+<node id="28" label="LITTMAN LISA LL">
+<graphics fill="6c190d"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science;Preventive Medicine"/>
+</node>
+<node id="29" label="ZARCADOOLAS CHRISTINA C">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="30" label="LANDSBERGIS PAUL P">
+<graphics fill="71561e"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR;ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Medicine;Preventive Medicine"/>
+</node>
+<node id="31" label="STROUSTRUP ANNEMARIE A">
+<graphics fill="5c97cb"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Newborn Medicine;Preventive Medicine"/>
+</node>
+<node id="32" label="SHEFFIELD PERRY PE">
+<graphics fill="10fd1c"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</node>
+<node id="33" label="TEITELBAUM SUSAN S">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<edge source="25" target="13" label="co-authorship: 20064246">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#2bc5e3" width="1.6666667"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="15" target="16" label="co-authorship: 18500709 - co-authorship: 19620891 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="1.0666667"/>
+<graphics fill="#2bc5e3" width="5.3333335"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="8" target="19" label="co-authorship: 18795171">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#2bc5e3" width="1.25"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="10" target="9" label="co-authorship: 17786467 - co-authorship: 18213642 - co-authorship: 19092489">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#2bc5e3" width="3.75"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="22" target="11" label="co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.4"/>
+<graphics fill="#2bc5e3" width="2.0"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="1" target="11" label="co-authorship: 20309928">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#10fd1c" width="2.5"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</edge>
+<edge source="8" target="24" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#2bc5e3" width="0.8333334"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="11" target="13" label="co-authorship: 18203190 - co-authorship: 19270782 - co-authorship: 19323818 - co-authorship: 20064246">
+<att name="weight" type="real" value="1.8333334"/>
+<graphics fill="#10fd1c" width="9.166667"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</edge>
+<edge source="22" target="23" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#2bc5e3" width="0.8333334"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="22" target="16" label="co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.4"/>
+<graphics fill="#2bc5e3" width="2.0"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="10" target="7" label="co-authorship: 17786467 - co-authorship: 18213642 - co-authorship: 19092486 - co-authorship: 19092489 - co-authorship: 19730399 - co-authorship: 20042888">
+<att name="weight" type="real" value="1.6666667"/>
+<graphics fill="#df252b" width="8.333334"/>
+<att name="departments" type="string" value="General Internal Medicine;Preventive Medicine"/>
+</edge>
+<edge source="23" target="24" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#2bc5e3" width="0.8333334"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17517479">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="2bc5e3" width="2.5"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="2" target="11" label="co-authorship: 17938724 - co-authorship: 18500713">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#2bc5e3" width="5.0"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="2" target="1" label="co-authorship: 17306682">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#2bc5e3" width="2.5"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="25" target="26" label="co-authorship: 19650578">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#2bc5e3" width="1.6666667"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="11" target="16" label="co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.4"/>
+<graphics fill="#2bc5e3" width="2.0"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="22" target="8" label="co-authorship: 19141527 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.56666666"/>
+<graphics fill="#2bc5e3" width="2.8333333"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="17" target="18" label="co-authorship: 18769151 - co-authorship: 19483473 - co-authorship: 19767614 - co-authorship: 20350649">
+<att name="weight" type="real" value="2.0"/>
+<graphics fill="#2bc5e3" width="10.0"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="8" target="11" label="co-authorship: 18500708 - co-authorship: 18795171 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.98333335"/>
+<graphics fill="#2bc5e3" width="4.916667"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="8" target="15" label="co-authorship: 18500708 - co-authorship: 18500709 - co-authorship: 19141527 - co-authorship: 19620891 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="1.5666668"/>
+<graphics fill="#2bc5e3" width="7.833334"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="7" target="9" label="co-authorship: 17693781 - co-authorship: 17786467 - co-authorship: 18213642 - co-authorship: 19092489">
+<att name="weight" type="real" value="1.0833334"/>
+<graphics fill="#2bc5e3" width="5.416667"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="25" target="11" label="co-authorship: 19650578 - co-authorship: 20064246">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#2bc5e3" width="3.3333335"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="11" target="27" label="co-authorship: 19654907 - co-authorship: 21259259">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#10fd1c" width="5.0"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</edge>
+<edge source="31" target="13" label="co-authorship: 20643728">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="2bc5e3" width="2.5"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="10" target="8" label="co-authorship: 17786467 - co-authorship: 18213642 - co-authorship: 19092486 - co-authorship: 19092489 - co-authorship: 19730399 - co-authorship: 20042888">
+<att name="weight" type="real" value="1.6666667"/>
+<graphics fill="#2bc5e3" width="8.333334"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="22" target="24" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#2bc5e3" width="0.8333334"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="23" target="15" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#2bc5e3" width="0.8333334"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="8" target="30" label="co-authorship: 20042888">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#2bc5e3" width="1.25"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="10" target="30" label="co-authorship: 20042888">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="2bc5e3" width="1.25"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="8" target="16" label="co-authorship: 18500709 - co-authorship: 19620891 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="1.0666667"/>
+<graphics fill="#2bc5e3" width="5.3333335"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="7" target="8" label="co-authorship: 17693781 - co-authorship: 17786467 - co-authorship: 18213642 - co-authorship: 19092486 - co-authorship: 19092489 - co-authorship: 19730399 - co-authorship: 20042888 - co-authorship: 20589388">
+<att name="weight" type="real" value="2.5"/>
+<graphics fill="#2bc5e3" width="12.5"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="7" target="5" label="co-authorship: 18500711">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#2bc5e3" width="2.5"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="11" target="9" label="co-authorship: 18795171">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#2bc5e3" width="1.25"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="12" target="1" label="co-authorship: 17976571">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#2bc5e3" width="2.5"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="11" target="26" label="co-authorship: 19650578">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#2bc5e3" width="1.6666667"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="4" target="14" label="co-authorship: 18248503">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#FFB340" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Dermatology;Preventive Medicine;Radiation Oncology &amp; Dermatology;Oncological Sciences;Preventive Medicine"/>
+</edge>
+<edge source="11" target="19" label="co-authorship: 18795171">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#2bc5e3" width="1.25"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="11" target="15" label="co-authorship: 18500708 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.73333335"/>
+<graphics fill="2bc5e3" width="3.6666667"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="22" target="15" label="co-authorship: 19141527 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.56666666"/>
+<graphics fill="#2bc5e3" width="2.8333333"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="9" target="19" label="co-authorship: 18795171">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#2bc5e3" width="1.25"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="11" target="32" label="co-authorship: 20947468">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#10fd1c" width="2.5"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</edge>
+<edge source="9" target="15" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#2bc5e3" width="0.8333334"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="7" target="30" label="co-authorship: 20042888">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="2bc5e3" width="1.25"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="8" target="9" label="co-authorship: 17693781 - co-authorship: 17786467 - co-authorship: 18213642 - co-authorship: 18795171 - co-authorship: 19092489 - co-authorship: 19141527">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#2bc5e3" width="7.5"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="28" target="29" label="co-authorship: 19672677">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#2bc5e3" width="2.5"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="15" target="24" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#2bc5e3" width="0.8333334"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="9" target="24" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#2bc5e3" width="0.8333334"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="23" target="9" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#2bc5e3" width="0.8333334"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="20" target="21" label="co-authorship: 19007051">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#2bc5e3" width="2.5"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="17" target="33" label="co-authorship: 21273692">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#2bc5e3" width="2.5"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="22" target="9" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#2bc5e3" width="0.8333334"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="23" target="8" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#2bc5e3" width="0.8333334"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="17" target="16" label="co-authorship: 18521744 - co-authorship: 19447375">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#2bc5e3" width="5.0"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 17589602">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#2bc5e3" width="2.5"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+</graph>

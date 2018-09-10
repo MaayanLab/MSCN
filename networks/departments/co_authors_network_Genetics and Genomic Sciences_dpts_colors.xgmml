@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="DIFEO ANALISA A">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="2" label="MARTIGNETTI JOHN JA">
+<graphics fill="e465c2"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Oncological Sciences;Pediatrics"/>
+</node>
+<node id="3" label="NARLA GOUTHAM G">
+<graphics fill="d475dc"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR;ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine;Genetics and Genomic Sciences;Hematology and Medical Oncology;Medical Education"/>
+</node>
+<node id="4" label="FORREST DOUGLAS D">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="5" label="NG LILY L">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="6" label="BALWANI MANISHA M">
+<graphics fill="8ee76b"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Medicine"/>
+</node>
+<node id="7" label="DESNICK ROBERT RJ">
+<graphics fill="60c23d"/>
+<att name="functions" type="string" value="DEAN FOR GENETICS AND GENOMIC SCIENCES ;PROFESSOR & CHAIR;PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science;Oncological Sciences;Pediatrics"/>
+</node>
+<node id="8" label="GRACE MARIE ME">
+<graphics fill="c09b02"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Pathology"/>
+</node>
+<node id="9" label="CAMACHO-VANEGAS OLGA O">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="10" label="GATT SHIMON S">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="VISITING PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="11" label="SCHUCHMAN EDWARD EH">
+<graphics fill="f41c89"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Genetics and Genomic Sciences"/>
+</node>
+<node id="12" label="BISHOP DAVID DF">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="13" label="YASUDA MAKIKO M">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="14" label="HU JIANZHONG J">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="15" label="WETMUR JAMES JG">
+<graphics fill="1e83f1"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Microbiology"/>
+</node>
+<node id="16" label="NARAYANAN KUMARAN K">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="17" label="WARBURTON PETER PE">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="18" label="HE XINGXUAN X">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="19" label="COHEN NINETTE N">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="20" label="HIRSCHHORN KURT K">
+<graphics fill="8ee76b"/>
+<att name="functions" type="string" value="PROFESSORIAL LECTURER;PROFESSORIAL LECTURER"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Medicine"/>
+</node>
+<node id="21" label="ELIYAHU EFRAT E">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="22" label="SIMONARO CALOGERA CM">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="23" label="KORNREICH RUTH R">
+<graphics fill="4b01de"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="24" label="GELB BRUCE BD">
+<graphics fill="d28906"/>
+<att name="functions" type="string" value="DIRECTOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Child Health and Development Institute;Genetics and Genomic Sciences"/>
+</node>
+<node id="25" label="WALSH MARTIN MJ">
+<graphics fill="9fdbcf"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Hepatology;Structural and Chemical Biology"/>
+</node>
+<node id="26" label="BUXBAUM JOSEPH JD">
+<graphics fill="cfd2cc"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Neuroscience;Psychiatry"/>
+</node>
+<node id="27" label="MCGOVERN MARGARET MM">
+<graphics fill="e8ab5a"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science;Pediatrics"/>
+</node>
+<node id="28" label="DIAZ GEORGE GA">
+<graphics fill="17c8ef"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Pediatrics"/>
+</node>
+<node id="29" label="WASSERSTEIN MELISSA MP">
+<graphics fill="17c8ef"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Pediatrics"/>
+</node>
+<node id="30" label="COHEN-PFEFFER JESSICA JL">
+<graphics fill="17c8ef"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Pediatrics"/>
+</node>
+<node id="31" label="YU CHUNLI C">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="32" label="PETER INGA I">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="33" label="WANG YINGLI Y">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="34" label="EHRLICH MICHELLE M">
+<graphics fill="649e53"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Neurology;Neurology"/>
+</node>
+<node id="35" label="EDELMANN LISA LJ">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="36" label="LIU LIU L">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="37" label="BACCARINI ALESSIA A">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="38" label="BROWN BRIAN BD">
+<graphics fill="f41c89"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Genetics and Genomic Sciences"/>
+</node>
+<node id="39" label="WILLNER JUDITH JP">
+<graphics fill="e8ab5a"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR;ASSOCIATE CLINICAL PROFESSOR;ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science;Pediatrics"/>
+</node>
+<node id="40" label="KASAI YUMI Y">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="41" label="SACHIDANANDAM RAVI R">
+<graphics fill="56edb6"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</node>
+<node id="42" label="SKLAR PAMELA P">
+<graphics fill="cfd2cc"/>
+<att name="functions" type="string" value="SENIOR FACULTY;SENIOR FACULTY;SENIOR FACULTY"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Neuroscience;Psychiatry"/>
+</node>
+<edge source="35" target="24" label="co-authorship: 20535210">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#56edb6" width="1.6666667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="9" target="1" label="co-authorship: 17514651 - co-authorship: 17621627">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="28" target="29" label="co-authorship: 19767224 - co-authorship: 19836982">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#17c8ef" width="3.75"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Pediatrics"/>
+</edge>
+<edge source="18" target="29" label="co-authorship: 20386867">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#56edb6" width="1.25"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="1" target="3" label="co-authorship: 17196295 - co-authorship: 17514651 - co-authorship: 17621627 - co-authorship: 18250346 - co-authorship: 18596922 - co-authorship: 19097929 - co-authorship: 19101139 - co-authorship: 19328586 - co-authorship: 19435908 - co-authorship: 20014424 - co-authorship: 20563750">
+<att name="weight" type="real" value="3.6666665"/>
+<graphics fill="#56edb6" width="18.333332"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="28" target="31" label="co-authorship: 19836982">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#56edb6" width="1.25"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="6" target="27" label="co-authorship: 19745751">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="56edb6" width="1.6666667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="22" target="29" label="co-authorship: 20386867">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#56edb6" width="1.25"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="30" target="31" label="co-authorship: 19836982">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#56edb6" width="1.25"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="21" target="22" label="co-authorship: 18079441 - co-authorship: 20018674">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="21" target="11" label="co-authorship: 18079441 - co-authorship: 18281275 - co-authorship: 20018674">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#56edb6" width="4.166667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="26" target="42" label="co-authorship: 21549318">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#cfd2cc" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Neuroscience;Psychiatry"/>
+</edge>
+<edge source="40" target="32" label="co-authorship: 21358751">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#56edb6" width="1.25"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="38" target="41" label="co-authorship: 21353554">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#56edb6" width="1.6666667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="19" target="7" label="co-authorship: 20084009">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="30" target="28" label="co-authorship: 19836982">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#17c8ef" width="1.25"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Pediatrics"/>
+</edge>
+<edge source="14" target="15" label="co-authorship: 17675303 - co-authorship: 19767614 - co-authorship: 20298589 - co-authorship: 20511549 - co-authorship: 21347441">
+<att name="weight" type="real" value="2.5"/>
+<graphics fill="#56edb6" width="12.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="7" target="40" label="co-authorship: 21086978 - co-authorship: 21358751">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#56edb6" width="2.916667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="4" target="5" label="co-authorship: 17341594">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="40" target="23" label="co-authorship: 21358751">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#56edb6" width="1.25"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="19" target="24" label="co-authorship: 20535210">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#56edb6" width="1.6666667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="7" target="23" label="co-authorship: 18240905 - co-authorship: 18252229 - co-authorship: 19663669 - co-authorship: 20504253 - co-authorship: 20672374 - co-authorship: 20837833 - co-authorship: 21358751">
+<att name="weight" type="real" value="2.75"/>
+<graphics fill="#4b01de" width="13.75"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science"/>
+</edge>
+<edge source="30" target="29" label="co-authorship: 19836982">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#17c8ef" width="1.25"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Pediatrics"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17196295 - co-authorship: 17400654 - co-authorship: 17514651 - co-authorship: 17621627 - co-authorship: 18250346 - co-authorship: 18596922 - co-authorship: 19097929 - co-authorship: 19101139 - co-authorship: 19435908 - co-authorship: 20014424 - co-authorship: 20563750 - co-authorship: 20844588">
+<att name="weight" type="real" value="4.166666"/>
+<graphics fill="#56edb6" width="20.83333"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="23" target="32" label="co-authorship: 20504253 - co-authorship: 21358751">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#56edb6" width="2.916667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="6" target="23" label="co-authorship: 20837833">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="56edb6" width="1.6666667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="26" target="34" label="co-authorship: 20205790">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="11" target="22" label="co-authorship: 18079441 - co-authorship: 20018674 - co-authorship: 20386867">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#56edb6" width="3.75"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="9" target="3" label="co-authorship: 17514651 - co-authorship: 17621627">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="19" target="17" label="co-authorship: 20570968">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="19" target="35" label="co-authorship: 20535210">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#56edb6" width="1.6666667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="10" target="11" label="co-authorship: 17525274">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="2" target="3" label="co-authorship: 17196295 - co-authorship: 17514651 - co-authorship: 17621627 - co-authorship: 18250346 - co-authorship: 18471523 - co-authorship: 18596922 - co-authorship: 19097929 - co-authorship: 19101139 - co-authorship: 19435908 - co-authorship: 20014424 - co-authorship: 20563750">
+<att name="weight" type="real" value="3.6666663"/>
+<graphics fill="56edb6" width="18.333332"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="7" target="27" label="co-authorship: 19745751">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#e8ab5a" width="1.6666667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science;Pediatrics"/>
+</edge>
+<edge source="29" target="31" label="co-authorship: 19836982">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#56edb6" width="1.25"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="24" target="23" label="co-authorship: 18759865">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="11" target="29" label="co-authorship: 20386867">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="56edb6" width="1.25"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="37" target="38" label="co-authorship: 20827537 - co-authorship: 21353554">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#56edb6" width="4.166667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="26" target="19" label="co-authorship: 18925931">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="19" target="20" label="co-authorship: 18076104">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="6" target="7" label="co-authorship: 17464953 - co-authorship: 19745751 - co-authorship: 20837833 - co-authorship: 21431620">
+<att name="weight" type="real" value="1.3333334"/>
+<graphics fill="56edb6" width="6.666667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="21" target="18" label="co-authorship: 18079441 - co-authorship: 18281275 - co-authorship: 20018674">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#56edb6" width="4.166667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="18" target="11" label="co-authorship: 18037890 - co-authorship: 18079441 - co-authorship: 18281275 - co-authorship: 18547682 - co-authorship: 18815062 - co-authorship: 19285924 - co-authorship: 20018674 - co-authorship: 20386867 - co-authorship: 21063112">
+<att name="weight" type="real" value="3.5833335"/>
+<graphics fill="#56edb6" width="17.916668"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="7" target="32" label="co-authorship: 20128861 - co-authorship: 20504253 - co-authorship: 21358751">
+<att name="weight" type="real" value="1.0833334"/>
+<graphics fill="#56edb6" width="5.416667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="37" target="41" label="co-authorship: 21353554">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#56edb6" width="1.6666667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="16" target="17" label="co-authorship: 17988739">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="32" target="33" label="co-authorship: 20175913">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="12" target="13" label="co-authorship: 17654633 - co-authorship: 19861948">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#56edb6" width="3.3333335"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="6" target="8" label="co-authorship: 17464953 - co-authorship: 21431620">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="56edb6" width="3.3333335"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="23" target="36" label="co-authorship: 20672374">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#56edb6" width="1.6666667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="7" target="36" label="co-authorship: 20672374">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#56edb6" width="1.6666667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="40" target="31" label="co-authorship: 21086978">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#56edb6" width="1.6666667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="7" target="8" label="co-authorship: 17464953 - co-authorship: 21431620">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="56edb6" width="3.3333335"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="26" target="39" label="co-authorship: 21062623">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="28" target="24" label="co-authorship: 20826270">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="18" target="22" label="co-authorship: 18079441 - co-authorship: 20018674 - co-authorship: 20386867">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#56edb6" width="3.75"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="12" target="7" label="co-authorship: 17654633 - co-authorship: 18004775 - co-authorship: 19861948 - co-authorship: 19934113 - co-authorship: 19965637 - co-authorship: 20485863 - co-authorship: 21365124">
+<att name="weight" type="real" value="3.1666667"/>
+<graphics fill="#56edb6" width="15.833334"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="27" target="29" label="co-authorship: 20028884">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#17c8ef" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Pediatrics"/>
+</edge>
+<edge source="7" target="31" label="co-authorship: 21086978">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#56edb6" width="1.6666667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="9" target="2" label="co-authorship: 17514651 - co-authorship: 17621627">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="24" target="25" label="co-authorship: 18495928">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="56edb6" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="7" target="13" label="co-authorship: 17654633 - co-authorship: 19861948">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#56edb6" width="3.3333335"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+</graph>

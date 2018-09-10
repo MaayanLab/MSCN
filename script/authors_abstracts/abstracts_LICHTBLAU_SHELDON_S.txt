@@ -1,0 +1,4 @@
+19093901
+A biomechanical comparison of two patterns of screw insertion.
+Inserting a screw into a long bone introduces a stress riser that can predispose the bone to fracture. Where multiple screws are inserted this vulnerability may be increased. It is thought that the pattern of screw insertion plays an important part in determining the susceptibility of the bone to stress fracture. In order to study the importance of pattern of screw insertion, third generation composite femora with cannulated screws inserted in two different patterns were tested to failure by a servohydraulic materials test system. The vertical pattern of screw insertion is less apt to predispose a long bone to subsequent fracture than a horizontal pattern.
+

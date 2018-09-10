@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="ATWEH GEORGE GF">
+<graphics fill="5edc5b"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Hematology and Medical Oncology"/>
+</node>
+<node id="2" label="FRENETTE PAUL PS">
+<graphics fill="5edc5b"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Hematology and Medical Oncology"/>
+</node>
+<node id="3" label="KLOTMAN MARY ME">
+<graphics fill="c28b02"/>
+<att name="functions" type="string" value="PROFESSORIAL LECTURER;PROFESSORIAL LECTURER;PROFESSORIAL LECTURER"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Infectious Diseases;Microbiology"/>
+</node>
+<node id="4" label="KLOTMAN PAUL PE">
+<graphics fill="0499dc"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Nephrology"/>
+</node>
+<node id="5" label="LAL GIRDHARI G">
+<graphics fill="18f997"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</node>
+<node id="6" label="MERAD MIRIAM M">
+<graphics fill="2c62e3"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Medicine"/>
+</node>
+<node id="7" label="SCHUCHMAN EDWARD EH">
+<graphics fill="f41c89"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Genetics and Genomic Sciences"/>
+</node>
+<node id="8" label="YANG YU Y">
+<graphics fill="18f997"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</node>
+<node id="9" label="RANDOLPH GWENDALYN GJ">
+<graphics fill="18f997"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</node>
+<node id="10" label="COLLIN MATTHEW M">
+<graphics fill="18f997"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</node>
+<node id="11" label="JESSBERGER ROLF R">
+<graphics fill="96ee88"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology;Gene and Cell Medicine"/>
+</node>
+<node id="12" label="D'SOUZA SUNITA SL">
+<graphics fill="18f997"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</node>
+<node id="13" label="LEMISCHKA IHOR IR">
+<graphics fill="1d6ed4"/>
+<att name="functions" type="string" value="DIRECTOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Developmental and Regenerative Biology;Gene and Cell Medicine;The Black Family Stem Cell Institute"/>
+</node>
+<node id="14" label="SCHANIEL CHRISTOPH C">
+<graphics fill="18f997"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</node>
+<node id="15" label="BANCHEREAU JACQUES J">
+<graphics fill="6d3021"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Immunology;Gene and Cell Medicine"/>
+</node>
+<node id="16" label="DESNICK ROBERT RJ">
+<graphics fill="60c23d"/>
+<att name="functions" type="string" value="DEAN FOR GENETICS AND GENOMIC SCIENCES ;PROFESSOR & CHAIR;PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science;Oncological Sciences;Pediatrics"/>
+</node>
+<node id="17" label="HAJJAR ROGER RJ">
+<graphics fill="e21c0a"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Gene and Cell Medicine"/>
+</node>
+<node id="18" label="WALSH CHRISTOPHER CE">
+<graphics fill="5edc5b"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Hematology and Medical Oncology"/>
+</node>
+<node id="19" label="GOUON-EVANS VALERIE V">
+<graphics fill="0b4ace"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Liver Diseases"/>
+</node>
+<node id="20" label="KELLER GORDON GM">
+<graphics fill="18f997"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</node>
+<edge source="2" target="6" label="co-authorship: 21282381 - co-authorship: 21536742">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="18f997" width="5.0"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="19" target="14" label="co-authorship: 21358635">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#18f997" width="1.25"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="12" target="13" label="co-authorship: 20535210 - co-authorship: 21358635">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#18f997" width="2.916667"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="6" target="8" label="co-authorship: 18037890">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#18f997" width="1.25"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="19" target="20" label="co-authorship: 21184507">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#18f997" width="2.5"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="15" target="6" label="co-authorship: 20593373">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="18f997" width="2.5"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17404610">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#5edc5b" width="2.5"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Hematology and Medical Oncology"/>
+</edge>
+<edge source="11" target="5" label="co-authorship: 19303390">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#18f997" width="2.5"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="17" target="18" label="co-authorship: 21164355">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="18f997" width="2.5"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 18037890">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#18f997" width="1.25"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="5" target="8" label="co-authorship: 18037890 - co-authorship: 19414776">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#18f997" width="3.75"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="6" target="9" label="co-authorship: 18292524 - co-authorship: 18981237 - co-authorship: 19265143 - co-authorship: 19733489">
+<att name="weight" type="real" value="2.0"/>
+<graphics fill="#18f997" width="10.0"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="6" target="7" label="co-authorship: 18037890">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="18f997" width="1.25"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="12" target="14" label="co-authorship: 20535210 - co-authorship: 21358635">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#18f997" width="2.916667"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="5" target="7" label="co-authorship: 18037890">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#18f997" width="1.25"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 21335514">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="18f997" width="2.5"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="19" target="13" label="co-authorship: 21358635">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="18f997" width="1.25"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="10" target="9" label="co-authorship: 19965649">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#18f997" width="2.5"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="13" target="14" label="co-authorship: 20535210 - co-authorship: 20699150 - co-authorship: 20890967 - co-authorship: 21358635 - co-authorship: 21477851">
+<att name="weight" type="real" value="2.0833335"/>
+<graphics fill="#18f997" width="10.416668"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="7" target="8" label="co-authorship: 18037890">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#18f997" width="1.25"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="12" target="19" label="co-authorship: 21358635">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#18f997" width="1.25"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="16" target="17" label="co-authorship: 20677926">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="18f997" width="2.5"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="10" target="6" label="co-authorship: 19029989">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#18f997" width="2.5"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+</graph>

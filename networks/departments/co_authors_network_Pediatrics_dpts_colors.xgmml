@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="DEMATTIA AMY A">
+<graphics fill="51f72b"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="General Pediatrics"/>
+</node>
+<node id="2" label="LARAQUE DANIELLE D">
+<graphics fill="10fd1c"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</node>
+<node id="3" label="GREIG FENELLA F">
+<graphics fill="583320"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</node>
+<node id="4" label="HYMAN SHARON SJ">
+<graphics fill="583320"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR (PENDING)"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</node>
+<node id="5" label="OISHI KIMIHIKO K">
+<graphics fill="583320"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</node>
+<node id="6" label="TARTAGLIA MARCO M">
+<graphics fill="583320"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</node>
+<node id="7" label="MAGID MARGRET MS">
+<graphics fill="e0862e"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education;Pathology;Pediatrics"/>
+</node>
+<node id="8" label="MOROTTI RAFFAELLA RA">
+<graphics fill="1afad7"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pathology;Pediatrics"/>
+</node>
+<node id="9" label="WILLIS ASHA A">
+<graphics fill="b2a9e9"/>
+<att name="functions" type="string" value="ASSOCIATE;ASSOCIATE"/>
+<att name="departments" type="string" value="Emergency Medicine;Pediatrics"/>
+</node>
+<node id="10" label="BOSCARINO JOSEPH JA">
+<graphics fill="53705f"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR;ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine;Pediatrics"/>
+</node>
+<node id="11" label="LANDRIGAN PHILIP PJ">
+<graphics fill="10fd1c"/>
+<att name="functions" type="string" value="DEAN FOR GLOBAL HEALTH ;PROFESSOR & CHAIR;PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</node>
+<node id="12" label="TRASANDE LEONARDO L">
+<graphics fill="10fd1c"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</node>
+<node id="13" label="ADAMS RICHARD RE">
+<graphics fill="583320"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</node>
+<node id="14" label="SHREFFLER WAYNE WG">
+<graphics fill="583320"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</node>
+<node id="15" label="CHEMTOB CLAUDE CM">
+<graphics fill="d60f3d"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Psychiatry"/>
+</node>
+<node id="16" label="NEWCORN JEFFREY J">
+<graphics fill="d60f3d"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Psychiatry"/>
+</node>
+<node id="17" label="MIODOVNIK AMIR A">
+<graphics fill="10fd1c"/>
+<att name="functions" type="string" value="ASSOCIATE;ASSOCIATE"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</node>
+<node id="18" label="DESNICK ROBERT RJ">
+<graphics fill="60c23d"/>
+<att name="functions" type="string" value="DEAN FOR GENETICS AND GENOMIC SCIENCES ;PROFESSOR & CHAIR;PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science;Oncological Sciences;Pediatrics"/>
+</node>
+<node id="19" label="MCGOVERN MARGARET MM">
+<graphics fill="e8ab5a"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science;Pediatrics"/>
+</node>
+<node id="20" label="DIAZ GEORGE GA">
+<graphics fill="17c8ef"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Pediatrics"/>
+</node>
+<node id="21" label="PROFITLICH LAURIE LE">
+<graphics fill="583320"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</node>
+<node id="22" label="WASSERSTEIN MELISSA MP">
+<graphics fill="17c8ef"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Pediatrics"/>
+</node>
+<node id="23" label="COHEN-PFEFFER JESSICA JL">
+<graphics fill="17c8ef"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Pediatrics"/>
+</node>
+<node id="24" label="CHIETERO MICHAEL M">
+<graphics fill="d3fbf4"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Pediatrics"/>
+</node>
+<node id="25" label="KOESTLER JENNIFER J">
+<graphics fill="583320"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</node>
+<node id="26" label="CUNNINGHAM-RUNDLES CHARLOTTE C">
+<graphics fill="dc7314"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Immunology;Pediatrics"/>
+</node>
+<node id="27" label="GALVEZ MAIDA MP">
+<graphics fill="10fd1c"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</node>
+<node id="28" label="CHEN JIA J">
+<graphics fill="4664c8"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Hematology and Medical Oncology;Oncological Sciences;Pediatrics;Preventive Medicine"/>
+</node>
+<node id="29" label="JACOBS ADAM AR">
+<graphics fill="2edc12"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science;Pediatrics"/>
+</node>
+<node id="30" label="SHEFFIELD PERRY PE">
+<graphics fill="10fd1c"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</node>
+<node id="31" label="HAND IVAN IL">
+<graphics fill="583320"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</node>
+<node id="32" label="NOBLE LAWRENCE L">
+<graphics fill="583320"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</node>
+<node id="33" label="KOLEVZON ALEXANDER A">
+<graphics fill="d60f3d"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Psychiatry"/>
+</node>
+<node id="34" label="WILLNER JUDITH JP">
+<graphics fill="e8ab5a"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR;ASSOCIATE CLINICAL PROFESSOR;ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science;Pediatrics"/>
+</node>
+<node id="35" label="IYER KISHORE KR">
+<graphics fill="351a86"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Surgery"/>
+</node>
+<node id="36" label="SUCHY FREDERICK FJ">
+<graphics fill="583320"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</node>
+<edge source="33" target="34" label="co-authorship: 21062623">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="583320" width="2.5"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="4" target="14" label="co-authorship: 18466206">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#583320" width="2.5"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="8" target="9" label="co-authorship: 17990940">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="583320" width="2.5"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="13" target="10" label="co-authorship: 18447108">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#583320" width="1.6666667"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 17603483 - co-authorship: 18849586">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#583320" width="5.0"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="13" target="15" label="co-authorship: 19178553">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#583320" width="2.5"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="31" target="32" label="co-authorship: 20976299">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#583320" width="2.5"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="24" target="25" label="co-authorship: 19967639">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#583320" width="2.5"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="18" target="19" label="co-authorship: 19745751">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#e8ab5a" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science;Pediatrics"/>
+</edge>
+<edge source="10" target="2" label="co-authorship: 18191779 - co-authorship: 18447108 - co-authorship: 19450776">
+<att name="weight" type="real" value="1.3333334"/>
+<graphics fill="583320" width="6.666667"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="20" target="22" label="co-authorship: 19767224 - co-authorship: 19836982">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#17c8ef" width="3.3333335"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Pediatrics"/>
+</edge>
+<edge source="27" target="11" label="co-authorship: 20309928">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#10fd1c" width="2.5"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17285214">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:General Pediatrics &amp; Pediatrics;Preventive Medicine"/>
+</edge>
+<edge source="13" target="2" label="co-authorship: 18447108">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#583320" width="1.6666667"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17550214">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#583320" width="2.5"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="26" target="20" label="co-authorship: 20226738">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="583320" width="2.5"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="11" target="12" label="co-authorship: 18203190 - co-authorship: 19270782 - co-authorship: 19323818 - co-authorship: 20064246">
+<att name="weight" type="real" value="2.0"/>
+<graphics fill="#10fd1c" width="10.0"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</edge>
+<edge source="11" target="30" label="co-authorship: 20947468">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#10fd1c" width="2.5"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</edge>
+<edge source="15" target="16" label="co-authorship: 18945918">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#d60f3d" width="2.5"/>
+<att name="departments" type="string" value="Pediatrics;Psychiatry"/>
+</edge>
+<edge source="35" target="36" label="co-authorship: 21175846">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#583320" width="2.5"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="21" target="22" label="co-authorship: 19767224">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#583320" width="1.6666667"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="8" target="36" label="co-authorship: 21344347">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#583320" width="1.6666667"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="23" target="20" label="co-authorship: 19836982">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#17c8ef" width="1.6666667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Pediatrics"/>
+</edge>
+<edge source="20" target="21" label="co-authorship: 19767224">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#583320" width="1.6666667"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="7" target="36" label="co-authorship: 21344347">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#583320" width="1.6666667"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+<edge source="7" target="8" label="co-authorship: 17873744 - co-authorship: 17873749 - co-authorship: 19235665 - co-authorship: 21344347">
+<att name="weight" type="real" value="1.8333334"/>
+<graphics fill="#1afad7" width="9.166667"/>
+<att name="departments" type="string" value="Pathology;Pediatrics"/>
+</edge>
+<edge source="11" target="17" label="co-authorship: 19654907 - co-authorship: 21259259">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#10fd1c" width="5.0"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</edge>
+<edge source="23" target="22" label="co-authorship: 19836982">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#17c8ef" width="1.6666667"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Pediatrics"/>
+</edge>
+<edge source="19" target="22" label="co-authorship: 20028884">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#17c8ef" width="2.5"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Pediatrics"/>
+</edge>
+<edge source="28" target="29" label="co-authorship: 20350649">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="583320" width="2.5"/>
+<att name="departments" type="string" value="Pediatrics"/>
+</edge>
+</graph>

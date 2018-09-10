@@ -1,0 +1,20 @@
+21092900
+Right coronary artery injury after tricuspid valve repair.
+
+
+21092889
+Blood conservation in cardiac surgery: let's get restrictive.
+Despite increasing evidence suggesting harmful effects of blood transfusions, physician practices are slow to change. A systematic approach is required to successfully minimize the need for red cell transfusions in the perioperative cardiac surgical patient. This involves preoperative, intraoperative, and postoperative strategies to minimize blood loss and maximize blood conservation. In addition it requires physician education regarding the potential deleterious effects of blood and the more recent evidence that restrictive transfusion strategies are safe and possibly beneficial to postoperative surgical outcomes. In this article, we review the data with respect to blood transfusions in cardiac surgery patients as well as management strategies to minimize the need for blood transfusions in the perioperative period.
+
+20841364
+The efficacy of post-cardiopulmonary bypass dosing of vancomycin in cardiac surgery.
+Objective. Vancomycin is administered widely to patients undergoing cardiac surgery as prophylaxis against resistant Gram-positive sternal wound and venous donor site infections. The purpose of this study was to determine the efficacy of a standardized prebypass and postbypass dosing regimen of vancomycin by assessing plasma concentrations in the immediate postoperative period and postoperative surgical site infections (SSIs). Design. Retrospective cohort study. Setting . Cardiothoracic surgical intensive care unit in a tertiary care academic medical center. Methods. A total of 34 consecutive adult patients who had undergone cardiac surgery with cardiopulmonary bypass (CPB) were analyzed retrospectively. Each patient received 1000 mg of vancomycin administered over 1 hour around the time of induction of anesthesia and 500 mg after discontinuation of CPB. Trough vancomycin levels were sampled in the intensive care unit 12 hours after the last dose given in the operating room. Along with patient characteristics, postoperative readmission rates and SSIs were recorded for 1 year after surgery. Results. The nadir serum vancomycin level before the next dose was 9.3 ± 4.5 µg/mL (mean ± standard deviation). One superficial SSI was noted. Readmission rate for SSIs was 2.94%. Conclusion . Vancomycin concentrations in the serum were greater than the minimum inhibitory concentration for most staphylococci ranging from 4 to 19.3 µg/mL producing acceptable therapeutic serum concentrations and low rate of infectious complications. Thus postbypass dosing is acceptable in vancomycin cardiac surgical prophylaxis.
+
+20346705
+Accessory attachment.
+
+
+20138551
+Assessment of surgical septal myectomy by real-time 3-dimensional transesophageal echocardiography.
+
+

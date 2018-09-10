@@ -1,0 +1,136 @@
+21092891
+Vasoplegia during cardiac surgery: current concepts and management.
+Vasoplegic syndrome (VS) is a recognized and relatively common complication of cardiopulmonary bypass (CPB), appearing with an incidence ranging between 5% and 25%. It is characterized by significant hypotension, high or normal cardiac outputs and low systemic vascular resistance (SVR), and increased requirements for fluids and vasopressors during or after CPB. Patients developing VS are at increased risk for death and other major complications following cardiac surgery. This review will focus on the pathophysiology and contemporary strategies of treating VS encountered after CPB.
+
+20934726
+Internet-based assessment of postoperative neurocognitive function in cardiac and thoracic aortic surgery patients.
+The primary purpose of this study was to determine the practicality of long-term, postoperative neurocognitive assessment via remote Internet-based testing in a cohort of patients who had undergone cardiac or thoracic aortic surgery within the previous 6 years. The secondary aim of this study was to examine the relationships among hypothermic circulatory arrest time, cardiopulmonary bypass time, and selective cerebral perfusion time with long-term postoperative neurocognitive function, as assessed by this novel testing method. Three hundred patients who had undergone cardiac and/or proximal aortic surgery with cardiopulmonary bypass (n = 207), thoracic aortic surgery with hypothermic circulatory arrest (n = 67), or thoracic aortic surgery with hypothermic circulatory arrest and selective cerebral perfusion (n = 26) within the previous 6 years underwent Internet-based neurocognitive assessment. The duration of hypothermic circulatory arrest was negatively associated with processing speed scores and memory scores; arrest duration greater than 21 to 24 minutes was negatively associated with response speed scores. These associations were independent of time since surgery, age at testing, and educational level. Neither cardiopulmonary bypass duration nor selective cerebral perfusion duration was associated with test score results. This study demonstrated the practicality of long-term neurocognitive assessment of patients who have undergone cardiac and thoracic aortic surgery by means of Internet-based computerized testing. Furthermore, there was a negative association between the duration of intraoperative hypothermic circulatory arrest and long-term postoperative neurocognitive function that needs further examination in prospective studies.
+
+20579669
+Noninvasive cerebral oxygenation may predict outcome in patients undergoing aortic arch surgery.
+Surgical repair of the aortic arch remains technically challenging and is associated with considerable morbidity and mortality. Cerebral oximetry is a noninvasive technology that can monitor the regional oxygen saturation of the frontal cortex. We hypothesized that magnitude and duration of decreased intraoperative regional oxygen saturation was associated with postoperative organ dysfunction. Additionally, we sought to identify regional oxygen saturation threshold values that are predictive of organ dysfunction. The intraoperative regional oxygen saturation values of 30 patients undergoing aortic arch surgery were recorded and analyzed. Postoperative complications were categorized as "major" and "minor." Severe adverse outcome, extubation time, intensive care unit length of stay, and hospital length of stay data were collected and compared with the integrals of regional oxygen saturation and time (area under the threshold) spent beneath predetermined absolute threshold limits. Twenty subjects underwent hemiarch replacement, and 10 subjects received total aortic arch replacements. There were 30 major and 29 minor complications identified. Sixteen (53.3%) patients had at least 1 major complication. Logistic regression showed statistically significant associations between area under the threshold and severe adverse outcome incidence for regional oxygen saturation thresholds of 60% (P = .038) and 65% (P = .025). Patients who spent more than 30 minutes under the absolute threshold of 60% had an extended hospital stay of 4 days leading to an additional cost of $8300.00. Our findings lend evidence to support the association of decreased perioperative cerebral oxygenation values with poor outcomes after aortic arch surgery.
+
+20494091
+Preemptive axillo-axillary placement of percutaneous transseptal ventricular assist device to facilitate high-risk reoperative cardiac surgery.
+We describe preemptive placement of a TandemHeart percutaneous left ventricular assist device (CardiacAssist Inc, Pittsburgh, PA) through the axillary artery and vein for temporary postoperative support in a patient with severe left ventricular dysfunction undergoing high-risk cardiac reoperation. We believe this approach is preferable to high-dose catecholamines because of preserved early tissue perfusion without excessive vasoconstriction. Axillo-axillary placement is advantageous because patients can sit up and partially mobilize, and there is no need to reopen the chest for explantation.
+
+20472633
+Transcatheter repair of perivalvular regurgitation.
+Hemodynamically significant perivalvular regurgitation affects about 1.5% of all prosthetic valve implants. Reoperation carries increased risk--especially in the setting of concomitant comorbidities of left ventricular dysfunction, prior coronary artery bypass grafts, renal dysfunction, and advanced age. Transcatheter closure of the perivalvular regurgitant channel using a variety of occluders has been available for several years; however, recent improvements in technology and technique have made this therapy more effective and available to a wider group of patients. This article describes the recent advances and the state of the art of this therapy.
+
+20434926
+Manifestation of aortic root abscess from acute bacterial endocarditis.
+
+
+20382033
+The left thoracotomy approach for reoperative cardiac surgery: considerations for the surgeon and anesthesiologist.
+
+
+20346705
+Accessory attachment.
+
+
+20138551
+Assessment of surgical septal myectomy by real-time 3-dimensional transesophageal echocardiography.
+
+
+20089230
+Absence of the tricuspid valve due to severe carcinoid heart disease.
+
+
+20078712
+Management of anomalous left circumflex artery encircling the aortic annulus in a patient undergoing multivalvular surgery.
+The abnormal origin of left circumflex artery from the right sinus of Valsalva with a retroaortic course is a well-known coronary anomaly usually without consequences. In patients undergoing aortic valve replacement, this finding becomes crucial because the left circumflex is at risk of injury during the procedure. The scenario is even more complex in patients undergoing multi-valve surgery. We report the diagnosis and successful operative strategy in a patient with anomalous left circumflex arising from the proximal right sinus of Valsalva undergoing double aortic and tricuspid valve surgery for active bacterial endocarditis.
+
+19951981
+Change in surgical management as a consequence of real-time 3D TEE: assessment of left ventricular function.
+Real-time 3-dimensional transesophageal echocardiography (RT 3D TEE) is a novel imaging technology that is becoming more frequently encountered in the operating room environment. The authors present a case in which the availability of 3D TEE altered the surgical management of a patient presenting for mitral valve repair. Additionally, the advantages of 3D, as opposed to 2D assessment of left ventricular function, are discussed.
+
+19907314
+An update on anesthesia for thoracoscopic surgery.
+The surgical management of patients partly determines the anesthetic management. A shift has taken place in thoracic surgery, with a large portion of procedures now being performed through a video-assisted thoracoscopic surgery (VATS) approach. This review is intended to provide the anesthesiologist with an update on the management of thoracic surgical patients presenting for VATS. Although there are cosmetic and economical advantages to the VATS approach, large randomized controlled trials are still lacking documenting the benefit of VATS versus conventional 'thoracotomy'. The classic division in absolute and relative indications for one-lung ventilation (OLV) should be viewed as antiquated. All VATS procedures represent an indication for OLV. A better classification is to divide the purpose of OLV: separation versus isolation. Treatment for hypoxemia during OLV also needs to be modified. Patient expectations are also different as a minimal invasive approach is often falsely associated with minimal risk. This leads to an additional stress factor imposed upon the anesthesiologist. Minimal invasive VATS is gaining widespread popularity among our surgical colleagues. The anesthesiologist must recognize the impact that this change in surgical philosophy will have upon the anesthetic management of these complex patients.
+
+19833254
+Inverted left atrial appendage.
+
+
+19825484
+Atrial fibrillation in the elderly.
+Atrial fibrillation (AF) remains the most common form of cardiac arrhythmia seen in man, and often requires acute intervention. This article provides an overview of the incidence, prevalence, etiology, and pathophysiology of AF in elderly patients, with special emphasis on the perioperative period. The pharmacologic and nonpharmacologic management strategies available to the anesthesiologist are described. The anesthesiologist must be aware of the causes, consequences, and treatment of elderly patients developing AF during the perioperative period, as well as patients presenting to the operating room with chronic AF.
+
+19822810
+Early on-cardiopulmonary bypass hypotension and other factors associated with vasoplegic syndrome.
+Vasoplegic syndrome is a form of vasodilatory shock that can occur after cardiopulmonary bypass (CPB). We hypothesized that the severity and duration of the decline in mean arterial pressure immediately after CPB is begun can be used as a predictor of patients will develop vasoplegia in the immediate post-CPB period and of poor clinical outcome. We quantified the decline in mean arterial pressure by calculating an area above the mean arterial blood pressure curve. We retrospectively analyzed 2823 adult cardiac surgery cases performed between July 2002 and December 2006. Of these 2823, 577 (20.4%) were vasoplegic after separation from CPB. We found that 1645 patients (58.3%) had a clinically significant decline in mean arterial pressure after starting CPB (area above the mean arterial blood pressure curve >0) and were significantly more likely to become vasoplegic (23.0% versus 16.9%; odds ratio, 1.26; 95% confidence interval, 1.12 to 1.43; P<0.001). These patients were also far more likely either to die in hospital or to have a length of stay >10 days (odds ratio, 3.30; 95% confidence interval, 1.44 to 7.57; P=0.005). Additional risk factors for developing vasoplegia that were identified included the additive euroSCORE, procedure type, prebypass mean arterial pressure, length of bypass, administration of pre-CPB vasopressors, core temperature on CPB, pre- and post-CPB hematocrit, the preoperative use of beta-blockers or angiotensin-converting enzyme inhibitors, and the intraoperative use of aprotinin. The results of this investigation suggest that it is possible to predict vasoplegia intraoperatively before separation from CPB and that the presence of a clinically significant area above the mean arterial blood pressure curve serves as a predictor of poor clinical outcome.
+
+19808554
+Sequential development of multiple mechanical complications of myocardial infarction.
+
+
+19789057
+Real-time 3-dimensional echocardiographic assessment of current continuous-flow rotary left ventricular assist devices.
+
+
+19628131
+Intraoperative classification of mitral valve dysfunction: the role of the anesthesiologist in mitral valve reconstruction.
+
+
+19560666
+Multimodal sonographic approach for assessing left ventricular outflow tract gradient.
+Real-time three-dimensional echocardiography has now become an additional tool in the armamentarium of the perioperative echocardiographer. The use of all sonographic tools currently at the disposal of modern ultrasound technology enabled the correct diagnosis to be made in our patient. As a consequence, additional unnecessary surgery was avoided.
+
+19490464
+The use of cerebral oximetry as a monitor of the adequacy of cerebral perfusion in a patient undergoing shoulder surgery in the beach chair position.
+Four cases of ischemic injury have been reported in patients undergoing orthopedic surgery in the upright position. We describe the use of cerebral oximetry as a monitor of the adequacy of cerebral perfusion in a 63-year-old woman who underwent arthroscopic rotator cuff surgery in a beach chair under general anesthesia. During positioning, a decrease in blood pressure was accompanied by a decrease in cerebral oxygen saturation (S(ct)O(2)) and was treated with phenylephrine. When spontaneous ventilation resumed, an increase in end-tidal carbon dioxide was accompanied by an increase in S(ct)O(2). Cerebral oximetry may prove useful as a guide monitor and manage nonsupine patients.
+
+19174527
+Cerebral air embolism recognized by cerebral oximetry.
+Absolute cerebral oximetry is useful in clinical settings to identify "catastrophic events" that may occur during the course of surgeries that would otherwise have gone unrecognized. This study reports a case in which cerebral desaturation occurred after commencing cardiopulmonary bypass. Consequently, the source of air entrainment was discovered and therapeutic measures implemented.
+
+19074783
+Recognition of a cleft mitral valve utilizing real-time three-dimensional transoesophageal echocardiography.
+We present a case in which real-time three-dimensional transoesophageal echocardiography was utilized to obtain better understanding of a cleft mitral valve. Additionally, the embryological development of a cleft mitral valve will be reiterated.
+
+18948030
+Real-time three-dimensional transesophageal echocardiography: the matrix revolution.
+
+
+18835528
+Methylene blue for vasopressor-resistant vasoplegia syndrome during liver transplantation.
+
+
+18834825
+Noncompaction cardiomyopathy: case report and echocardiographic findings.
+
+
+18653545
+Real-time three-dimensional TEE-guided repair of a paravalvular leak after mitral valve replacement.
+Paravalvular leaks are well-known complications seen following cardiac valve surgery. We report a case in which real-time three-dimensional TEE (3D-TEE) was utilized intraoperatively to identify the number, severity, and precise locations of a paravalvular leak at the time of surgery for mitral valve replacement.
+
+18426847
+Early detection of an acute cerebral event during cardiopulmonary bypass using a bispectral index monitor.
+A case in which the bispectral index monitor underwent an acute change that was most likely the earliest indicator of an intraoperative stroke during replacement of an aortic valve is discussed in this study. The timely response to this intraoperative event may have facilitated a better outcome by virtue of more rapid interventions to limit the severity of the injury.
+
+18397905
+Recent advances in application of cerebral oximetry in adult cardiovascular surgery.
+Cerebral oximetry is a noninvasive technology that continuously monitors cerebral tissue oxygen saturation, which is a sensitive index of global cerebral hypoperfusion. On the basis of near-infrared spectroscopy technology, information is provided on the availability of oxygen in brain tissue at risk during numerous pathological conditions. Complementary to the arterial oxygen saturation measured by pulse oximetry, cerebral tissue oxygen saturation reflects regional cerebral metabolism and the balance of local cerebral oxygen supply/demand. Recently, patient management with the guidance of cerebral oximetry has resulted in improved patient outcomes. This review will briefly describe the physics behind cerebral oximetry and will provide an overview of the literature focusing primarily on articles published within the past 5 years.
+
+18375339
+Real-time three-dimensional transesophageal echocardiographic imaging of endomyocardial fibrosis.
+
+
+17889020
+Off-pump implant of the Jarvik 2000 ventricular assist device through median sternotomy.
+Implantation of a left ventricular assist device through a median sternotomy usually requires cardiopulmonary bypass. However, the biological response to cardiopulmonary bypass is sometimes deleterious in end-stage heart failure patients, as it may compound pre-existing coagulopathy or multiorgan dysfunction. Therefore, there are potential advantages to avoiding cardiopulmonary bypass during left ventricular assist device placement. We describe a technique for off-pump implantation of the Jarvik 2000 left ventricular assist device (Jarvik Heart Inc, New York, NY) through a median sternotomy.
+
+17711973
+Perioperative interventions to modify risk of morbidity and mortality.
+Perioperative myocardial ischemia is the single most important, potentially reversible risk factor for mortality and cardiovascular complications during and after noncardiac surgery. The influence of anesthetic choices and techniques on cardiac risk in noncardiac surgery is difficult to ascertain because of the low incidence of morbid cardiac outcomes in the surgical population as a whole. This article summarizes several areas (eg, perioperative betablockade, glucose management, and perioperative hemodynamics) that have been addressed in well-designed clinical trials.
+
+19933513
+Mathematical model for describing cerebral oxygen desaturation in patients undergoing deep hypothermic circulatory arrest.
+Surgical treatment for aortic arch disease requiring periods of circulatory arrest is associated with a spectrum of neurological sequelae. Cerebral oximetry can non-invasively monitor patients for cerebral ischaemia even during periods of circulatory arrest. We hypothesized that cerebral desaturation during circulatory arrest could be described by a mathematical relationship that is time-dependent. Cerebral desaturation curves obtained from 36 patients undergoing aortic surgery with deep hypothermic circulatory arrest (DHCA) were used to create a non-linear mixed model. The model assumes that the rate of oxygen decline is greatest at the beginning before steadily transitioning to a constant. Leave-one-out cross-validation and jackknife methods were used to evaluate the validity of the predictive model. The average rate of cerebral desaturation during DHCA can be described as: Sct(o(2))[t]=81.4-(11.53+0.37 x t) (1-0.88 x exp (-0.17 x t)). Higher starting Sct(o(2)) values and taller patient height were also associated with a greater decline rate of Sct(o(2)). Additionally, a predictive model was derived after the functional form of a x log (b+c x delta), where delta is the degree of Sct(o(2)) decline after 15 min of DHCA. The model enables the estimation of a maximal acceptable arrest time before reaching an ischaemic threshold. Validation tests showed that, for the majority, the prediction error is no more than +/-3 min. We were able to create two mathematical models, which can accurately describe the rate of cerebral desaturation during circulatory arrest at 12-15 degrees C as a function of time and predict the length of arrest time until a threshold value is reached.
+
+18689806
+Management of patients undergoing multivalvular surgery for carcinoid heart disease: the role of the anaesthetist.
+The management of patients with carcinoid heart disease poses two major challenges for the anaesthetist: carcinoid crisis and low cardiac output secondary to right ventricular (RV) failure. Carcinoid crises may be precipitated by the administration of catecholamines and histamine-releasing drugs. We analysed a series of 11 patients [six males, median (range) age 60 (42-73) yr] with severe symptomatic carcinoid heart disease who underwent multivalve surgery (right-sided valves, n=8; right- and left-sided valves, n=3) between 2001 and 2007. All patients received octreotide intraoperatively [650 (300-1050) microg] to prevent carcinoid symptoms and vasoplegia. Those patients on a greater preoperative octreotide regime required additional intraoperative octreotide [median (range) dose 320 (300-850) vs 750 (650-1050) mug]. Similarly, the use of greater doses of aprotinin (> 5 KIU) was associated with greater requirements for octreotide [475 (300-700) vs 750 (320-1050) microg] and higher glucose levels (> or =8.5 mmol litre(-1)). Catecholamines were generally required in those patients who presented with a worse New York Heart Association functional class. Overall mortality was 18% (n=2) and only one episode of mild intraoperative carcinoid crisis was observed. Carcinoid crisis and RV failure still remain the primary challenges for the anaesthesiologist while managing patients with carcinoid heart disease. Our study supports the administration of catecholamines to wean patients off cardiopulmonary bypass, particularly in the presence of myocardial dysfunction. Those patients on higher octreotide dosages may require close intraoperative glucose monitoring. Despite high operative mortality, surgical outcome has been improved potentially due to earlier patient referral and better perioperative management.
+

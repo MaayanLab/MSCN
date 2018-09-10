@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="BECKER CHRISTIAN CD">
+<graphics fill="22738f"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Pulmonary, Critical Care and Sleep Medicine"/>
+</node>
+<node id="2" label="PADILLA MARIA ML">
+<graphics fill="22738f"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Pulmonary, Critical Care and Sleep Medicine"/>
+</node>
+<node id="3" label="AYYALA UMA US">
+<graphics fill="22738f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Pulmonary, Critical Care and Sleep Medicine"/>
+</node>
+<node id="4" label="FLEISCHMAN JEAN JK">
+<graphics fill="22738f"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pulmonary, Critical Care and Sleep Medicine"/>
+</node>
+<node id="5" label="TULCZYNSKA JOANNA JM">
+<graphics fill="22738f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Pulmonary, Critical Care and Sleep Medicine"/>
+</node>
+<edge source="4" target="5" label="co-authorship: 20196886">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#22738f" width="2.5"/>
+<att name="departments" type="string" value="Pulmonary, Critical Care and Sleep Medicine"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 18408658">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#22738f" width="2.5"/>
+<att name="departments" type="string" value="Pulmonary, Critical Care and Sleep Medicine"/>
+</edge>
+<edge source="3" target="2" label="co-authorship: 18539240">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#22738f" width="2.5"/>
+<att name="departments" type="string" value="Pulmonary, Critical Care and Sleep Medicine"/>
+</edge>
+</graph>

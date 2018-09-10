@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="DAI MINGJIA M">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="2" label="COHEN BERNARD B">
+<graphics fill="29721a"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Neurology;Structural and Chemical Biology"/>
+</node>
+<node id="3" label="RAPHAN THEODORE T">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="4" label="GE YONGCHAO Y">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="5" label="SEALFON STUART SC">
+<graphics fill="1f3ad1"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Neurology;Neuroscience;Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="6" label="HAYOT FERNAND F">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="RESEARCH PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="7" label="HOROWITZ DEBORAH DR">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="8" label="TUHRIM STANLEY S">
+<graphics fill="432bb5"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Neurology"/>
+</node>
+<node id="9" label="SHEINART KARA KF">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="10" label="WRIGHT PAUL P">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="11" label="OGORODNIKOV DMITRI D">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="VISITING RESEARCH ASSISTANT"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="12" label="YAKUSHIN SERGEI S">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="13" label="CHO CATHERINE C">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="14" label="KUNIN MIKHAIL M">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ADJUNCT RESEARCH ASSISTANT"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="15" label="HO LAP L">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="16" label="PASINETTI GIULIO GM">
+<graphics fill="55de4a"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Neurology;Neuroscience;Psychiatry"/>
+</node>
+<node id="17" label="WANG JUN J">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="18" label="ZHAO WEI W">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="19" label="COLMAN DAVID DR">
+<graphics fill="599db4"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology;Neuroscience"/>
+</node>
+<node id="20" label="SAKURAI TAKESHI T">
+<graphics fill="d13776"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology;Pharmacology and Systems Therapeutics;Psychiatry"/>
+</node>
+<node id="21" label="ELLIOTT KATHRYN KJ">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="22" label="ROBINSON-PAPP JESSICA J">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="23" label="XIANG YONGQING Y">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="24" label="LUBLIN FRED F">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="25" label="MILLER AARON A">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="26" label="PAN YONG Y">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="27" label="ZASLAVSKY ELENA E">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="28" label="FRONTERA JENNIFER JA">
+<graphics fill="98cad8"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology;Neurosurgery"/>
+</node>
+<node id="29" label="GORDON ERROL E">
+<graphics fill="98cad8"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology;Neurosurgery"/>
+</node>
+<node id="30" label="GONG BING B">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="31" label="KUKIELKA EWA E">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="32" label="MARTINELLI GIORGIO GP">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="33" label="WANG XIAOBIN X">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="34" label="BRONSTER DAVID DJ">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="35" label="GOLDSTEIN MARTIN MA">
+<graphics fill="004a7d"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology;Psychiatry"/>
+</node>
+<node id="36" label="LANGE DALE DJ">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<node id="37" label="CASACCIA PATRIZIA P">
+<graphics fill="acafc7"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Neurology;Neuroscience"/>
+</node>
+<node id="38" label="INGLESE MATILDE M">
+<graphics fill="7d8df3"/>
+<att name="functions" type="string" value="SENIOR FACULTY;SENIOR FACULTY"/>
+<att name="departments" type="string" value="Neurology;Radiology"/>
+</node>
+<node id="39" label="BOROD JOAN JC">
+<graphics fill="004a7d"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR;ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Neurology;Psychiatry"/>
+</node>
+<node id="40" label="TSE WINONA W">
+<graphics fill="6b2004"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Neurology"/>
+</node>
+<edge source="37" target="38" label="co-authorship: 21425267 - co-authorship: 21425269">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="6b2004" width="5.0"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="39" target="40" label="co-authorship: 21519950 - co-authorship: 21574890">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#6b2004" width="5.0"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="17" target="18" label="co-authorship: 17965777 - co-authorship: 18562609 - co-authorship: 19158421 - co-authorship: 19158422 - co-authorship: 20579773 - co-authorship: 21247479 - co-authorship: 21331299">
+<att name="weight" type="real" value="1.75"/>
+<graphics fill="#6b2004" width="8.75"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="11" target="3" label="co-authorship: 17946708 - co-authorship: 19645957 - co-authorship: 21374078">
+<att name="weight" type="real" value="0.7"/>
+<graphics fill="#6b2004" width="3.5"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="8" target="10" label="co-authorship: 17903795">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#6b2004" width="1.6666667"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="36" target="5" label="co-authorship: 21375368">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#6b2004" width="2.5"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="15" target="16" label="co-authorship: 17965777 - co-authorship: 18300014 - co-authorship: 18562609 - co-authorship: 19158421 - co-authorship: 19158422 - co-authorship: 19159013 - co-authorship: 19221432 - co-authorship: 19273754 - co-authorship: 19796674 - co-authorship: 19936102 - co-authorship: 19945548 - co-authorship: 20569300 - co-authorship: 20579773 - co-authorship: 20653511 - co-authorship: 20858961 - co-authorship: 20871666 - co-authorship: 21093685 - co-authorship: 21196065 - co-authorship: 21247479 - co-authorship: 21331299">
+<att name="weight" type="real" value="6.833334"/>
+<graphics fill="#6b2004" width="34.16667"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="2" target="12" label="co-authorship: 17946708">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#6b2004" width="1.25"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="13" target="14" label="co-authorship: 17946882 - co-authorship: 20042701">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#6b2004" width="2.5"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="3" target="12" label="co-authorship: 17946708">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#6b2004" width="1.25"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="4" target="5" label="co-authorship: 17270739 - co-authorship: 17280588 - co-authorship: 17720728 - co-authorship: 18729740 - co-authorship: 19018297 - co-authorship: 20048384 - co-authorship: 20298589">
+<att name="weight" type="real" value="3.1666667"/>
+<graphics fill="#6b2004" width="15.833334"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="16" target="17" label="co-authorship: 17965777 - co-authorship: 18562609 - co-authorship: 19158421 - co-authorship: 19158422 - co-authorship: 19159013 - co-authorship: 19221432 - co-authorship: 19796674 - co-authorship: 19945548 - co-authorship: 20569300 - co-authorship: 20571219 - co-authorship: 20579773 - co-authorship: 20858961 - co-authorship: 20871666 - co-authorship: 21196065 - co-authorship: 21247479 - co-authorship: 21331299">
+<att name="weight" type="real" value="4.833333"/>
+<graphics fill="#6b2004" width="24.166664"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="30" target="26" label="co-authorship: 20854419">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#6b2004" width="1.6666667"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="11" target="23" label="co-authorship: 21374078">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#6b2004" width="1.0"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="26" target="17" label="co-authorship: 19945548">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#6b2004" width="1.25"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="15" target="17" label="co-authorship: 17965777 - co-authorship: 18562609 - co-authorship: 19158421 - co-authorship: 19158422 - co-authorship: 19159013 - co-authorship: 19221432 - co-authorship: 19796674 - co-authorship: 19945548 - co-authorship: 20569300 - co-authorship: 20579773 - co-authorship: 20858961 - co-authorship: 20871666 - co-authorship: 21196065 - co-authorship: 21247479 - co-authorship: 21331299">
+<att name="weight" type="real" value="4.333333"/>
+<graphics fill="#6b2004" width="21.666664"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="7" target="8" label="co-authorship: 17895030 - co-authorship: 17903795">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#6b2004" width="4.166667"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="1" target="14" label="co-authorship: 20535456">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#6b2004" width="1.25"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="14" target="23" label="co-authorship: 19645885">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#6b2004" width="1.25"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="24" target="25" label="co-authorship: 19787715">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#6b2004" width="2.5"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="19" target="20" label="co-authorship: 19301425">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="6b2004" width="2.5"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="20" target="33" label="co-authorship: 21167025">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#6b2004" width="2.5"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="5" target="27" label="co-authorship: 20164420">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#6b2004" width="2.5"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="28" target="29" label="co-authorship: 20717752 - co-authorship: 21125456">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#98cad8" width="5.0"/>
+<att name="departments" type="string" value="Neurology;Neurosurgery"/>
+</edge>
+<edge source="16" target="18" label="co-authorship: 17965777 - co-authorship: 18562609 - co-authorship: 19158421 - co-authorship: 19158422 - co-authorship: 20579773 - co-authorship: 21247479 - co-authorship: 21331299">
+<att name="weight" type="real" value="1.75"/>
+<graphics fill="#6b2004" width="8.75"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="15" target="26" label="co-authorship: 19945548">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#6b2004" width="1.25"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="15" target="18" label="co-authorship: 17965777 - co-authorship: 18562609 - co-authorship: 19158421 - co-authorship: 19158422 - co-authorship: 20579773 - co-authorship: 21247479 - co-authorship: 21331299">
+<att name="weight" type="real" value="1.75"/>
+<graphics fill="#6b2004" width="8.75"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="30" target="16" label="co-authorship: 20854419">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#6b2004" width="1.6666667"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="2" target="3" label="co-authorship: 17256169 - co-authorship: 17926026 - co-authorship: 17946708 - co-authorship: 17946882 - co-authorship: 17952421 - co-authorship: 18372705 - co-authorship: 18497367 - co-authorship: 18718318 - co-authorship: 18718319 - co-authorship: 18718351 - co-authorship: 19458941 - co-authorship: 19645881 - co-authorship: 19645885 - co-authorship: 19645928 - co-authorship: 19645957 - co-authorship: 19692515 - co-authorship: 20042701 - co-authorship: 20535456 - co-authorship: 21286691 - co-authorship: 21340443 - co-authorship: 21374078">
+<att name="weight" type="real" value="7.7000003"/>
+<graphics fill="#6b2004" width="38.5"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="2" target="23" label="co-authorship: 19645885 - co-authorship: 19692515 - co-authorship: 21374078">
+<att name="weight" type="real" value="0.78333336"/>
+<graphics fill="#6b2004" width="3.9166667"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="14" target="3" label="co-authorship: 17946882 - co-authorship: 17952421 - co-authorship: 19645885 - co-authorship: 19645957 - co-authorship: 20042701 - co-authorship: 20535456">
+<att name="weight" type="real" value="1.5833334"/>
+<graphics fill="#6b2004" width="7.916667"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="34" target="35" label="co-authorship: 21256303">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#6b2004" width="2.5"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="13" target="2" label="co-authorship: 17946882 - co-authorship: 20042701">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#6b2004" width="2.5"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="2" target="32" label="co-authorship: 21374078">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#6b2004" width="1.0"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="7" target="10" label="co-authorship: 17903795">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#6b2004" width="1.6666667"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="2" target="11" label="co-authorship: 17946708 - co-authorship: 19645957 - co-authorship: 21374078">
+<att name="weight" type="real" value="0.7"/>
+<graphics fill="#6b2004" width="3.5"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="11" target="12" label="co-authorship: 17946708">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#6b2004" width="1.25"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="6" target="5" label="co-authorship: 17675303 - co-authorship: 17720728 - co-authorship: 18997274 - co-authorship: 19804729 - co-authorship: 20159146 - co-authorship: 20298589 - co-authorship: 20739535 - co-authorship: 21347441">
+<att name="weight" type="real" value="3.6666667"/>
+<graphics fill="#6b2004" width="18.333334"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="32" target="23" label="co-authorship: 21374078">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#6b2004" width="1.0"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="4" target="6" label="co-authorship: 17720728 - co-authorship: 20298589">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#6b2004" width="3.3333335"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="7" target="9" label="co-authorship: 17895147">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#6b2004" width="2.5"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="32" target="11" label="co-authorship: 21374078">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#6b2004" width="1.0"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="1" target="3" label="co-authorship: 17256169 - co-authorship: 18718351 - co-authorship: 19458941 - co-authorship: 20535456 - co-authorship: 21340443">
+<att name="weight" type="real" value="1.5833334"/>
+<graphics fill="#6b2004" width="7.916667"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="2" target="14" label="co-authorship: 17946882 - co-authorship: 17952421 - co-authorship: 19645885 - co-authorship: 19645957 - co-authorship: 20042701 - co-authorship: 20535456">
+<att name="weight" type="real" value="1.5833334"/>
+<graphics fill="#6b2004" width="7.916667"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="26" target="16" label="co-authorship: 19945548 - co-authorship: 20854419">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#6b2004" width="2.916667"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="2" target="1" label="co-authorship: 21340443">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#6b2004" width="1.6666667"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="32" target="3" label="co-authorship: 21374078">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#6b2004" width="1.0"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="13" target="3" label="co-authorship: 17946882 - co-authorship: 20042701">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#6b2004" width="2.5"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="3" target="23" label="co-authorship: 19645885 - co-authorship: 19692515 - co-authorship: 21374078">
+<att name="weight" type="real" value="0.78333336"/>
+<graphics fill="#6b2004" width="3.9166667"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="21" target="22" label="co-authorship: 19589300">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#6b2004" width="2.5"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="14" target="11" label="co-authorship: 19645957">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#6b2004" width="1.25"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+<edge source="31" target="32" label="co-authorship: 21163335">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#6b2004" width="2.5"/>
+<att name="departments" type="string" value="Neurology"/>
+</edge>
+</graph>

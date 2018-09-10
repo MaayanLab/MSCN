@@ -1,0 +1,37 @@
+Allergy and Immunology
+Anesthesiology
+Cardiology
+Cardiothoracic Surgery
+Clinical Geriatrics
+Clinical Immunology
+Dentistry
+Dermatology
+Emergency Medicine
+Endocrinology, Diabetes and Bone Disease
+Gastroenterology
+General Internal Medicine
+Geriatrics and Palliative Medicine
+Hematology and Medical Oncology
+Hepatology
+Infectious Diseases
+Liver Diseases
+Medicine
+Nephrology
+Neurology
+Neurosurgery
+Newborn Medicine
+Obstetrics, Gynecology and Reproductive Science
+Ophthalmology
+Orthopaedics
+Otolaryngology
+Pathology
+Pediatrics
+Preventive Medicine
+Psychiatry
+Pulmonary, Critical Care and Sleep Medicine
+Radiation Oncology
+Radiology
+Rehabilitation Medicine
+Surgery
+Surgical Oncology
+Urology

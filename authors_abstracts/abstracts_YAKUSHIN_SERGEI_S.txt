@@ -1,0 +1,4 @@
+17946708
+Head fixed field coil system for measuring eye movements in freely moving monkeys.
+Coil systems have been a standard for measuring eye movements since they were first introduced. These systems, which have been designed to work at low frequencies (20 KHz), generally require large field coils so that a uniform field can be established at the eye coil site. This configuration makes it virtually impossible to study eye movements in freely moving animals. In this paper, we describe the design of a coil system, which operates at radio frequencies (10 MHz). This system allows the use of compact coils with radii of 10 mm that are capable of accurately measuring eye movements in three dimensions during head free locomotion. This system opens the possibility for studying eye movements in freely moving monkeys under a wide range of conditions.
+

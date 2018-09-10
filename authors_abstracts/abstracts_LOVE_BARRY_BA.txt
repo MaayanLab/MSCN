@@ -1,0 +1,36 @@
+21270102
+Percutaneous transhepatic venous access for catheter ablation procedures in patients with interruption of the inferior vena cava.
+Background- Catheter ablation of left-sided atrial arrhythmias generally is performed using a transfemoral venous approach through the inferior vena cava (IVC). In this report, we assessed the feasibility of a percutaneous transhepatic approach to ablation of left-sided atrial arrhythmias in 2 patients with interruption of the IVC. Methods and Results- Patient 1 had atrial flutter in the setting of complex congenital heart disease and prior Fontan for univentricular physiology and a single atrium. Patient 2 had atrial fibrillation. Percutaneous hepatic vein access was obtained with ultrasound and fluoroscopic guidance. Transseptal catheterization was performed in patient 2. After the procedure, the hepatic tract in patient 1 was cauterized using a bipolar radiofrequency catheter, and an Amplatzer vascular plug was used in patient 2 to obtain hemostasis. Percutaneous hepatic vein access was achieved without complications. After electroanatomical mapping, a linear lesion was placed between the single atrioventricular valve and the confluence of the hepatic veins in patient 1; this terminated the flutter, and bidirectional block was achieved. In patient 2, the pulmonary veins were electrically isolated using an extraostial approach, isolating the ipsilateral veins in pairs. Additionally, ablation of right-side atrial flutter was achieved by obtaining bidirectional block across a linear lesion between the tricuspid valve and confluence of the hepatic veins. Hemostasis of the transhepatic tract was attained in both patients. Conclusions- In patients with interrupted IVCs, a percutaneous transhepatic approach is a feasible alternative for performing catheter ablation of complex left-sided arrhythmias.
+
+21247590
+Perventricular device closure of post-myocardial infarction ventricular septal defect on the beating heart.
+
+
+21167463
+Transcatheter closure of recurrent postmyocardial infarction ventricular septal defect facilitated by percutaneous left ventricle access.
+We report a case of a 68-year-old woman with a basal postmyocardial infarction ventricular septal defect that recurred 4 months after initial surgical repair. Successful transcatheter closure using an Amplatzer Muscular VSD Occluder was facilitated by direct percutaneous left ventricular access.
+
+20472633
+Transcatheter repair of perivalvular regurgitation.
+Hemodynamically significant perivalvular regurgitation affects about 1.5% of all prosthetic valve implants. Reoperation carries increased risk--especially in the setting of concomitant comorbidities of left ventricular dysfunction, prior coronary artery bypass grafts, renal dysfunction, and advanced age. Transcatheter closure of the perivalvular regurgitant channel using a variety of occluders has been available for several years; however, recent improvements in technology and technique have made this therapy more effective and available to a wider group of patients. This article describes the recent advances and the state of the art of this therapy.
+
+20014190
+Membranous septal aneurysm causing right ventricular outflow tract obstruction.
+
+
+19653009
+Postrenal biopsy AVM leading to severe hypertension and dilated cardiomyopathy.
+A 3-year-old girl with Alport syndrome presented with decompensated heart failure from hypertension-induced cardiomyopathy 6 months following renal biopsy. Selective renal angiography revealed a large left renal arteriovenous fistula (AVF) with poor perfusion to the left renal parenchyma. The AVF was treated by transcatheter embolization using an Amplatzer vascular plug. Her blood pressure normalized after embolization, and her cardiac function normalized over the following 4 months.
+
+18594551
+Evaluation and management of the adult patient with transposition of the great arteries following atrial-level (Senning or Mustard) repair.
+Atrial-level repair for transposition of the great arteries is one of the greatest achievements of modern cardiovascular medicine, transforming a once fatal congenital heart condition into one with excellent long-term survival. Although atrial-level repair has been supplanted by the arterial switch, there remains a population of patients who underwent atrial-level repair as children and now require ongoing care as adults. Survival slowly continues to decline in this population mainly owing to systemic right ventricular dysfunction and sudden death. Other problems include sinus node dysfunction, atrial arrhythmias, systemic atrioventricular valve regurgitation, baffle problems, and pulmonary hypertension. Evaluation and management of these late complications is addressed.
+
+18412268
+Transcatheter occlusion of pulmonary arteriovenous malformations using the Amplatzer Vascular Plug II.
+Pulmonary arteriovenous malformations (PAVMs) are a relatively uncommon but potentially life-threatening condition manifested by cyanosis, paradoxical embolization, brain abscess, and rupture. A variety of transcatheter closure devices have been used to occlude PAVMs however risks of device embolization, incomplete closure, or large delivery systems have made each of these methods sub-optimal. The Amplatzer Vascular Plug II (AVP II) is a new multisegmented, woven nitinol cylinder that can be deployed through a small delivery catheter. The AVP II differs from the original AVP in having a finer, more tightly woven nitinol frame and three, rather than one occlusive segment. The authors report the first use of the AVP II for occlusion of bilateral large arteriovenous malformations in a patient with hereditary hemorrhagic telangiectasia.
+
+17653118
+Percutaneous closure of a patent foramen ovale in left-sided carcinoid heart disease.
+A 51-year-old woman with a 5-year history of metastatic small bowel carcinoid disease developed fatigue and gradually worsening dyspnea on exertion, over 6 months. Physical examination, transthoracic and transesophageal echocardiography, and aortography. Left-sided carcinoid disease associated with a patent foramen ovale. Percutaneous transcatheter closure of the patent foramen ovale.
+

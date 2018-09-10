@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="CLOVER GEOFFREY G">
+<graphics fill="c1b7d0"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</node>
+<node id="2" label="FIERER DANIEL DS">
+<graphics fill="c1b7d0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</node>
+<node id="3" label="GARCIA-SASTRE ADOLFO A">
+<graphics fill="d32f9d"/>
+<att name="functions" type="string" value="DIRECTOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Global Health and Emerging Pathogens Institute;Infectious Diseases;Microbiology"/>
+</node>
+<node id="4" label="KLOTMAN MARY ME">
+<graphics fill="c28b02"/>
+<att name="functions" type="string" value="PROFESSORIAL LECTURER;PROFESSORIAL LECTURER;PROFESSORIAL LECTURER"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Infectious Diseases;Microbiology"/>
+</node>
+<node id="5" label="SALVATORE MIRELLA M">
+<graphics fill="c1b7d0"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</node>
+<node id="6" label="CHEN PING P">
+<graphics fill="c1b7d0"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</node>
+<node id="7" label="CHEN BENJAMIN BK">
+<graphics fill="ec456b"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Infectious Diseases;Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="8" label="CHANG THERESA TL">
+<graphics fill="c1b7d0"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</node>
+<node id="9" label="COHEN ALAN AJ">
+<graphics fill="c1b7d0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</node>
+<node id="10" label="MULLEN MICHAEL MP">
+<graphics fill="c1b7d0"/>
+<att name="functions" type="string" value="SENIOR FACULTY"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</node>
+<node id="11" label="FACTOR STEPHANIE SH">
+<graphics fill="c1b7d0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</node>
+<node id="12" label="MACKAY RICHARD R">
+<graphics fill="c1b7d0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</node>
+<node id="13" label="CALFEE DAVID DP">
+<graphics fill="c1b7d0"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</node>
+<node id="14" label="PATEL GOPI G">
+<graphics fill="c1b7d0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</node>
+<node id="15" label="DAEFLER SIMON S">
+<graphics fill="c1b7d0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</node>
+<node id="16" label="JAO JENNIFER J">
+<graphics fill="c1b7d0"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</node>
+<node id="17" label="PATEL RUPA R">
+<graphics fill="c1b7d0"/>
+<att name="functions" type="string" value="ADJUNCT INSTRUCTOR"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</node>
+<node id="18" label="MOSOIAN AREVIK A">
+<graphics fill="c1b7d0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</node>
+<node id="19" label="PALESE PETER P">
+<graphics fill="4da455"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Infectious Diseases;Microbiology"/>
+</node>
+<node id="20" label="SIMON VIVIANA VA">
+<graphics fill="4da455"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Infectious Diseases;Microbiology"/>
+</node>
+<edge source="13" target="14" label="co-authorship: 18973455">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#c1b7d0" width="1.6666667"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="11" target="12" label="co-authorship: 18721054">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#c1b7d0" width="2.5"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="7" target="18" label="co-authorship: 20683959 - co-authorship: 21335514">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#c1b7d0" width="2.5"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="16" target="17" label="co-authorship: 19716765">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#c1b7d0" width="1.25"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17703413">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="4da455" width="1.6666667"/>
+<att name="departments" type="string" value="Infectious Diseases;Microbiology"/>
+</edge>
+<edge source="15" target="17" label="co-authorship: 19716765">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#c1b7d0" width="1.25"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="14" target="17" label="co-authorship: 19716765">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#c1b7d0" width="1.25"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17624845">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#c1b7d0" width="2.5"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="2" target="4" label="co-authorship: 19372794">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#c1b7d0" width="2.5"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="4" target="18" label="co-authorship: 20479248 - co-authorship: 20683959 - co-authorship: 21335514">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#c1b7d0" width="5.0"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="6" target="4" label="co-authorship: 20683959 - co-authorship: 21335514">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#c1b7d0" width="2.5"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="16" target="14" label="co-authorship: 19716765">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#c1b7d0" width="1.25"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="15" target="14" label="co-authorship: 19716765">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#c1b7d0" width="1.25"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="12" target="14" label="co-authorship: 19170222">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#c1b7d0" width="2.5"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="11" target="4" label="co-authorship: 19787651">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#c1b7d0" width="2.5"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="4" target="5" label="co-authorship: 17703413">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#c1b7d0" width="1.6666667"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="13" target="11" label="co-authorship: 18973455">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#c1b7d0" width="1.6666667"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="8" target="18" label="co-authorship: 20065862">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#c1b7d0" width="2.5"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="19" target="20" label="co-authorship: 21436031">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#4da455" width="2.5"/>
+<att name="departments" type="string" value="Infectious Diseases;Microbiology"/>
+</edge>
+<edge source="6" target="18" label="co-authorship: 20683959 - co-authorship: 21335514">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#c1b7d0" width="2.5"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="11" target="14" label="co-authorship: 18973455">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#c1b7d0" width="1.6666667"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="7" target="6" label="co-authorship: 21335514">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#c1b7d0" width="1.25"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="3" target="5" label="co-authorship: 17703413">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#c1b7d0" width="1.6666667"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="7" target="4" label="co-authorship: 20683959 - co-authorship: 21335514">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="c1b7d0" width="2.5"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="9" target="4" label="co-authorship: 17885301">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#c1b7d0" width="2.5"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="15" target="16" label="co-authorship: 19716765">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#c1b7d0" width="1.25"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="8" target="4" label="co-authorship: 17825297 - co-authorship: 18424739 - co-authorship: 20147631">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#c1b7d0" width="7.5"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+<edge source="2" target="10" label="co-authorship: 18627270">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#c1b7d0" width="2.5"/>
+<att name="departments" type="string" value="Infectious Diseases"/>
+</edge>
+</graph>

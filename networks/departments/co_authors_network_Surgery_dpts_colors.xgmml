@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="ARVELAKIS ANTONIOS A">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="2" label="GONDOLESI GABRIEL G">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="3" label="RODRIGUEZ-LAIZ GONZALO G">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="4" label="UVA PABLO P">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="5" label="SILVERBERG DANIEL D">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="6" label="STEINHAGEN RANDOLPH RM">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="7" label="AMES SCOTT SA">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="8" label="EDYE MICHAEL M">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="SENIOR FACULTY"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="9" label="HERRON DANIEL DM">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="10" label="DIVINO CELIA CM">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="11" label="REINER MARK M">
+<graphics fill="ea20cc"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR;CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science;Surgery"/>
+</node>
+<node id="12" label="SHLASKO EDWARD E">
+<graphics fill="351a86"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR (PENDING);ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Surgery"/>
+</node>
+<node id="13" label="BENJAMIN ERNEST E">
+<graphics fill="d06b7c"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Surgery"/>
+</node>
+<node id="14" label="KOHLI-SETH ROOPA R">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="15" label="OROPELLO JOHN JM">
+<graphics fill="3828b5"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Medicine;Surgery"/>
+</node>
+<node id="16" label="NGUYEN SCOTT SQ">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="17" label="CHUN JIN JK">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="18" label="TING JESS J">
+<graphics fill="ab7c8a"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Plastic Surgery"/>
+</node>
+<node id="19" label="ROAYAIE SASAN S">
+<graphics fill="539bd5"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Liver Diseases;Surgery"/>
+</node>
+<node id="20" label="ARORA SHALINI S">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="21" label="SILVER LESTER L">
+<graphics fill="f3c4f6"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Plastic Surgery"/>
+</node>
+<node id="22" label="BOROS PETER P">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="23" label="LIU JIANHUA J">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="24" label="LEIBOWITZ ANDREW AB">
+<graphics fill="d06b7c"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Surgery"/>
+</node>
+<node id="25" label="LEVINE ELIE E">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="26" label="GOLDFARB ALISAN A">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="27" label="SILVERSTEIN JEFFREY JH">
+<graphics fill="42a6f9"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Geriatrics and Palliative Medicine;Surgery"/>
+</node>
+<node id="28" label="ELLOZY SHARIF SH">
+<graphics fill="6556ba"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education;Radiology;Surgery"/>
+</node>
+<node id="29" label="KAHN RONALD RA">
+<graphics fill="d06b7c"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Anesthesiology;Surgery"/>
+</node>
+<node id="30" label="MARIN MICHAEL ML">
+<graphics fill="a2f1b9"/>
+<att name="functions" type="string" value="PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Vascular Surgery"/>
+</node>
+<node id="31" label="WEBER KAARE KJ">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="32" label="FARIES PETER P">
+<graphics fill="400651"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</node>
+<node id="33" label="TEODORESCU VICTORIA VJ">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="34" label="TING WINDSOR W">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="35" label="KINI SUBHASH S">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="36" label="ADAMS DAVID DH">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="37" label="BROUMAND STAFFORD SR">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="38" label="FILSOUFI FARZAN F">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="39" label="DI LUOZZO GABRIELE G">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="40" label="GRIEPP RANDALL RB">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="41" label="BAUER JOEL JJ">
+<graphics fill="ea20cc"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR;CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Obstetrics, Gynecology and Reproductive Science;Surgery"/>
+</node>
+<node id="42" label="GORFINE STEPHEN SR">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="43" label="HEIMANN TOMAS TM">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="44" label="SCHANZER HARRY HR">
+<graphics fill="a2f1b9"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Vascular Surgery"/>
+</node>
+<node id="45" label="TORINA PHILIP PJ">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="46" label="MANASIA ANTHONY A">
+<graphics fill="3828b5"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Medicine;Surgery"/>
+</node>
+<node id="47" label="ALDOROTY ROBERT RA">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="48" label="HARRIS MICHAEL MT">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="49" label="CHESSIN DAVID DB">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="50" label="KIM UNSUP U">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="51" label="DARDIK HERBERT H">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="52" label="IMPEDUGLIA THERESA T">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="53" label="CARPENTIER ALAIN A">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="54" label="KOLKER ADAM AR">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="55" label="GAGLIARDI ROSEMARIE R">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="56" label="GREENSTEIN ALEXANDER A">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="57" label="HIOTIS SPIROS SP">
+<graphics fill="dd35dc"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Oncological Sciences;Surgery"/>
+</node>
+<node id="58" label="KHAITOV SERGEY S">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="59" label="WEINTRAUB JOSHUA JL">
+<graphics fill="400651"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</node>
+<node id="60" label="NOWAKOWSKI FRANCIS FS">
+<graphics fill="400651"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</node>
+<node id="61" label="ARNON RONEN R">
+<graphics fill="22fc72"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Hepatology;Surgery"/>
+</node>
+<node id="62" label="SOGAWA HIROSHI H">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="63" label="VINE ANTHONY AJ">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="64" label="VOUYOUKA AGELIKI AG">
+<graphics fill="400651"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</node>
+<node id="65" label="IYER KISHORE KR">
+<graphics fill="351a86"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Surgery"/>
+</node>
+<node id="66" label="CHIN EDWARD E">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="67" label="FISHMAN ERIC E">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<node id="68" label="KIM EDWARD E">
+<graphics fill="400651"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</node>
+<node id="69" label="ANYANWU ANELECHI A">
+<graphics fill="57d441"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</node>
+<node id="70" label="BASSILY-MARCUS ADEL AM">
+<graphics fill="dca8f9"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Surgery"/>
+</node>
+<edge source="47" target="10" label="co-authorship: 18435881">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#dca8f9" width="1.0"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="2" target="4" label="co-authorship: 17077945">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#dca8f9" width="1.25"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="55" target="2" label="co-authorship: 19590656">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="10" target="9" label="co-authorship: 18435881">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#dca8f9" width="1.0"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="61" target="3" label="co-authorship: 20609173">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="68" target="60" label="co-authorship: 21553162">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#400651" width="1.6666667"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</edge>
+<edge source="24" target="15" label="co-authorship: 17711969">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="1" target="3" label="co-authorship: 17077945">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#dca8f9" width="1.25"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="53" target="38" label="co-authorship: 19376733">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#57d441" width="1.25"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="42" target="6" label="co-authorship: 20010350">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#dca8f9" width="1.25"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="28" target="18" label="co-authorship: 18621890">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Medical Education;Radiology;Surgery &amp; Plastic Surgery"/>
+</edge>
+<edge source="51" target="52" label="co-authorship: 19128245">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="9" target="31" label="co-authorship: 18435881">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#dca8f9" width="1.0"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="9" target="35" label="co-authorship: 17964919">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="47" target="9" label="co-authorship: 18435881">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#dca8f9" width="1.0"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="70" target="21" label="co-authorship: 21598258">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Surgery &amp; Pediatrics;Plastic Surgery"/>
+</edge>
+<edge source="66" target="31" label="co-authorship: 21304363">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="61" target="65" label="co-authorship: 21175846">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="28" target="67" label="co-authorship: 21367562">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="30" target="33" label="co-authorship: 17942851 - co-authorship: 18083340 - co-authorship: 19223385">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#DDCCFF" width="3.75"/>
+<att name="departments" type="string" value="inter-departmental:Vascular Surgery &amp; Surgery"/>
+</edge>
+<edge source="35" target="16" label="co-authorship: 20339873">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="28" target="32" label="co-authorship: 17942851">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#400651" width="0.8333334"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</edge>
+<edge source="56" target="16" label="co-authorship: 19841363 - co-authorship: 19879609">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#dca8f9" width="3.3333335"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="49" target="6" label="co-authorship: 19279411 - co-authorship: 20010350">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#dca8f9" width="3.75"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="36" target="40" label="co-authorship: 18036948">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#57d441" width="1.25"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="28" target="5" label="co-authorship: 18083340">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#dca8f9" width="1.25"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="41" target="49" label="co-authorship: 18584247 - co-authorship: 19207702 - co-authorship: 19333037 - co-authorship: 20002692">
+<att name="weight" type="real" value="1.3333334"/>
+<graphics fill="#dca8f9" width="6.666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="69" target="29" label="co-authorship: 21570620">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Cardiothoracic Surgery &amp; Anesthesiology;Surgery"/>
+</edge>
+<edge source="39" target="28" label="co-authorship: 18036948">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#DDCCFF" width="1.25"/>
+<att name="departments" type="string" value="inter-departmental:Cardiothoracic Surgery &amp; Medical Education;Radiology;Surgery"/>
+</edge>
+<edge source="28" target="34" label="co-authorship: 17942851">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#dca8f9" width="0.8333334"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="42" target="48" label="co-authorship: 18435885">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="10" target="56" label="co-authorship: 19841363 - co-authorship: 19879609">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#dca8f9" width="3.3333335"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="36" target="53" label="co-authorship: 19376733">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#57d441" width="1.25"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="25" target="21" label="co-authorship: 17721222 - co-authorship: 18724128">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#DDCCFF" width="5.0"/>
+<att name="departments" type="string" value="inter-departmental:Surgery &amp; Pediatrics;Plastic Surgery"/>
+</edge>
+<edge source="30" target="64" label="co-authorship: 20932714">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Vascular Surgery &amp; Radiology;Surgery"/>
+</edge>
+<edge source="10" target="63" label="co-authorship: 20204417">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="7" target="8" label="co-authorship: 17180288 - co-authorship: 19651070">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#dca8f9" width="3.3333335"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="32" target="30" label="co-authorship: 17942851 - co-authorship: 17942851">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Radiology;Surgery &amp; Vascular Surgery"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17077945">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#dca8f9" width="1.25"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="68" target="59" label="co-authorship: 21553162">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#400651" width="1.6666667"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</edge>
+<edge source="60" target="59" label="co-authorship: 20063098 - co-authorship: 21553162">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#400651" width="4.166667"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</edge>
+<edge source="10" target="12" label="co-authorship: 17368303">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="28" target="33" label="co-authorship: 17942851 - co-authorship: 18083340 - co-authorship: 19223385">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#dca8f9" width="3.75"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="14" target="46" label="co-authorship: 18405250">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="49" target="58" label="co-authorship: 20010350">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#dca8f9" width="1.25"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="28" target="29" label="co-authorship: 17905287">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="39" target="40" label="co-authorship: 18036948">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#57d441" width="1.25"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="55" target="3" label="co-authorship: 19590656">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="61" target="62" label="co-authorship: 20070561 - co-authorship: 21219560 - co-authorship: 21504522">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#dca8f9" width="7.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="36" target="28" label="co-authorship: 18036948">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#DDCCFF" width="1.25"/>
+<att name="departments" type="string" value="inter-departmental:Cardiothoracic Surgery &amp; Medical Education;Radiology;Surgery"/>
+</edge>
+<edge source="10" target="48" label="co-authorship: 18589359">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="32" target="34" label="co-authorship: 17942851 - co-authorship: 17942851">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="43" target="6" label="co-authorship: 18330577">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="9" target="16" label="co-authorship: 18435881 - co-authorship: 19250877">
+<att name="weight" type="real" value="0.7"/>
+<graphics fill="#dca8f9" width="3.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="26" target="27" label="co-authorship: 17728216 - co-authorship: 18723313">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#dca8f9" width="5.0"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="13" target="21" label="co-authorship: 21598258">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Anesthesiology;Surgery &amp; Pediatrics;Plastic Surgery"/>
+</edge>
+<edge source="10" target="58" label="co-authorship: 21339428">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="41" target="42" label="co-authorship: 18224373 - co-authorship: 18435885 - co-authorship: 18584247 - co-authorship: 19207702 - co-authorship: 19333037 - co-authorship: 20002692">
+<att name="weight" type="real" value="2.1666667"/>
+<graphics fill="#dca8f9" width="10.833334"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="1" target="4" label="co-authorship: 17077945">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#dca8f9" width="1.25"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="38" target="29" label="co-authorship: 18249332">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Cardiothoracic Surgery &amp; Anesthesiology;Surgery"/>
+</edge>
+<edge source="70" target="13" label="co-authorship: 21598258">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="36" target="37" label="co-authorship: 18022072 - co-authorship: 19376733">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#DDCCFF" width="2.916667"/>
+<att name="departments" type="string" value="inter-departmental:Cardiothoracic Surgery &amp; Surgery"/>
+</edge>
+<edge source="36" target="29" label="co-authorship: 18249332">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Cardiothoracic Surgery &amp; Anesthesiology;Surgery"/>
+</edge>
+<edge source="16" target="31" label="co-authorship: 18376688 - co-authorship: 18435881 - co-authorship: 19325923">
+<att name="weight" type="real" value="0.8666667"/>
+<graphics fill="#dca8f9" width="4.3333335"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="10" target="31" label="co-authorship: 17939416 - co-authorship: 18347864 - co-authorship: 18376688 - co-authorship: 18435881 - co-authorship: 19325923 - co-authorship: 19996287 - co-authorship: 21304363">
+<att name="weight" type="real" value="2.7"/>
+<graphics fill="#dca8f9" width="13.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="54" target="45" label="co-authorship: 19387159">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="57" target="19" label="co-authorship: 19936599 - co-authorship: 20616595">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="dca8f9" width="5.0"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="42" target="58" label="co-authorship: 20010350">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#dca8f9" width="1.25"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="58" target="6" label="co-authorship: 20010350 - co-authorship: 20658162">
+<att name="weight" type="real" value="0.75"/>
+<graphics fill="#dca8f9" width="3.75"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="5" target="33" label="co-authorship: 18083340">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#dca8f9" width="1.25"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="10" target="16" label="co-authorship: 17458600 - co-authorship: 17469119 - co-authorship: 17687617 - co-authorship: 18049397 - co-authorship: 18308281 - co-authorship: 18376688 - co-authorship: 18435881 - co-authorship: 19078885 - co-authorship: 19228508 - co-authorship: 19325923 - co-authorship: 19779946 - co-authorship: 19841363 - co-authorship: 19879609 - co-authorship: 19888635 - co-authorship: 20404288">
+<att name="weight" type="real" value="6.533334"/>
+<graphics fill="#dca8f9" width="32.666668"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="49" target="42" label="co-authorship: 18584247 - co-authorship: 19207702 - co-authorship: 19333037 - co-authorship: 20002692 - co-authorship: 20010350">
+<att name="weight" type="real" value="1.5833334"/>
+<graphics fill="#dca8f9" width="7.916667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="28" target="40" label="co-authorship: 18036948">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#DDCCFF" width="1.25"/>
+<att name="departments" type="string" value="inter-departmental:Medical Education;Radiology;Surgery &amp; Cardiothoracic Surgery"/>
+</edge>
+<edge source="32" target="33" label="co-authorship: 17942851 - co-authorship: 17942851">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="47" target="16" label="co-authorship: 18435881">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#dca8f9" width="1.0"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="37" target="38" label="co-authorship: 18022072 - co-authorship: 19376733">
+<att name="weight" type="real" value="0.5833334"/>
+<graphics fill="#DDCCFF" width="2.916667"/>
+<att name="departments" type="string" value="inter-departmental:Surgery &amp; Cardiothoracic Surgery"/>
+</edge>
+<edge source="32" target="5" label="co-authorship: 20034942">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="7" target="9" label="co-authorship: 17180288 - co-authorship: 19651070">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#dca8f9" width="3.3333335"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="17" target="18" label="co-authorship: 17479449">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Surgery &amp; Plastic Surgery"/>
+</edge>
+<edge source="29" target="30" label="co-authorship: 17905287">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Anesthesiology;Surgery &amp; Vascular Surgery"/>
+</edge>
+<edge source="8" target="9" label="co-authorship: 17180288 - co-authorship: 19651070">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#dca8f9" width="3.3333335"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="2" target="3" label="co-authorship: 17077945 - co-authorship: 18674734 - co-authorship: 19590656">
+<att name="weight" type="real" value="1.0833334"/>
+<graphics fill="#dca8f9" width="5.416667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="10" target="50" label="co-authorship: 19075169">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="10" target="11" label="co-authorship: 17332970">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17077945">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#dca8f9" width="1.25"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="22" target="23" label="co-authorship: 17584602">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="28" target="64" label="co-authorship: 20932714">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#400651" width="1.6666667"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</edge>
+<edge source="19" target="4" label="co-authorship: 17532747">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="20" target="21" label="co-authorship: 17574175">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Surgery &amp; Pediatrics;Plastic Surgery"/>
+</edge>
+<edge source="30" target="34" label="co-authorship: 17942851">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#DDCCFF" width="0.8333334"/>
+<att name="departments" type="string" value="inter-departmental:Vascular Surgery &amp; Surgery"/>
+</edge>
+<edge source="37" target="53" label="co-authorship: 19376733">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#DDCCFF" width="1.25"/>
+<att name="departments" type="string" value="inter-departmental:Surgery &amp; Cardiothoracic Surgery"/>
+</edge>
+<edge source="13" target="46" label="co-authorship: 18405250">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="41" target="48" label="co-authorship: 18435885">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="36" target="39" label="co-authorship: 18036948">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#57d441" width="1.25"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="36" target="38" label="co-authorship: 18022072 - co-authorship: 18249332 - co-authorship: 19376733">
+<att name="weight" type="real" value="0.9166667"/>
+<graphics fill="#57d441" width="4.5833335"/>
+<att name="departments" type="string" value="Cardiothoracic Surgery"/>
+</edge>
+<edge source="14" target="15" label="co-authorship: 17414727">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="28" target="30" label="co-authorship: 17905287 - co-authorship: 17942851 - co-authorship: 18083340 - co-authorship: 19223385 - co-authorship: 19631504 - co-authorship: 20206803 - co-authorship: 20347545 - co-authorship: 20932714 - co-authorship: 21367562 - co-authorship: 21514110">
+<att name="weight" type="real" value="3.75"/>
+<graphics fill="#DDCCFF" width="18.75"/>
+<att name="departments" type="string" value="inter-departmental:Medical Education;Radiology;Surgery &amp; Vascular Surgery"/>
+</edge>
+<edge source="20" target="5" label="co-authorship: 17574175">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="13" target="15" label="co-authorship: 17414727">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="47" target="31" label="co-authorship: 18435881">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#dca8f9" width="1.0"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="66" target="10" label="co-authorship: 21304363">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#dca8f9" width="1.6666667"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="32" target="32" label="co-authorship: 17942851">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#400651" width="0.8333334"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</edge>
+<edge source="5" target="6" label="co-authorship: 17160570">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#dca8f9" width="2.5"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="44" target="45" label="co-authorship: 18379979">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Vascular Surgery &amp; Surgery"/>
+</edge>
+<edge source="67" target="30" label="co-authorship: 21367562">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Surgery &amp; Vascular Surgery"/>
+</edge>
+<edge source="30" target="5" label="co-authorship: 18083340">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#DDCCFF" width="1.25"/>
+<att name="departments" type="string" value="inter-departmental:Vascular Surgery &amp; Surgery"/>
+</edge>
+<edge source="33" target="34" label="co-authorship: 17942851">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#dca8f9" width="0.8333334"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+<edge source="21" target="5" label="co-authorship: 17574175">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Pediatrics;Plastic Surgery &amp; Surgery"/>
+</edge>
+<edge source="13" target="14" label="co-authorship: 17414727 - co-authorship: 18405250 - co-authorship: 19955551">
+<att name="weight" type="real" value="1.1666667"/>
+<graphics fill="#dca8f9" width="5.833334"/>
+<att name="departments" type="string" value="Surgery"/>
+</edge>
+</graph>

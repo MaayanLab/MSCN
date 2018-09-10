@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="BASLER CHRISTOPHER CF">
+<graphics fill="b4f3a3"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Microbiology"/>
+</node>
+<node id="2" label="MARTINEZ OSVALDO O">
+<graphics fill="b4f3a3"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Microbiology"/>
+</node>
+<node id="3" label="FERNANDEZ-SESMA ANA A">
+<graphics fill="4da455"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Infectious Diseases;Microbiology"/>
+</node>
+<node id="4" label="MORAN THOMAS TM">
+<graphics fill="b4f3a3"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Microbiology"/>
+</node>
+<node id="5" label="WETMUR JAMES JG">
+<graphics fill="1e83f1"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Microbiology"/>
+</node>
+<node id="6" label="GARCIA-SASTRE ADOLFO A">
+<graphics fill="d32f9d"/>
+<att name="functions" type="string" value="DIRECTOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Global Health and Emerging Pathogens Institute;Infectious Diseases;Microbiology"/>
+</node>
+<node id="7" label="KLOTMAN MARY ME">
+<graphics fill="c28b02"/>
+<att name="functions" type="string" value="PROFESSORIAL LECTURER;PROFESSORIAL LECTURER;PROFESSORIAL LECTURER"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Infectious Diseases;Microbiology"/>
+</node>
+<node id="8" label="GAO QINSHAN Q">
+<graphics fill="b4f3a3"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Microbiology"/>
+</node>
+<node id="9" label="PALESE PETER P">
+<graphics fill="4da455"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR & CHAIR"/>
+<att name="departments" type="string" value="Infectious Diseases;Microbiology"/>
+</node>
+<node id="10" label="SHAW MEGAN ML">
+<graphics fill="b4f3a3"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Microbiology"/>
+</node>
+<node id="11" label="BOUVIER NICOLE NM">
+<graphics fill="3656c7"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Medicine;Microbiology"/>
+</node>
+<node id="12" label="KRAUS THOMAS T">
+<graphics fill="e3f1dc"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Microbiology;Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="13" label="BRANCH ANDREA AD">
+<graphics fill="2984f0"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Liver Diseases;Microbiology;Surgery"/>
+</node>
+<node id="14" label="EVANS MATTHEW MJ">
+<graphics fill="b4f3a3"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Microbiology"/>
+</node>
+<node id="15" label="TENOEVER BENJAMIN BR">
+<graphics fill="b4f3a3"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Microbiology"/>
+</node>
+<node id="16" label="BLAHO JOHN JA">
+<graphics fill="b4f3a3"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Microbiology"/>
+</node>
+<node id="17" label="ALBRECHT RANDY RA">
+<graphics fill="b4f3a3"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Microbiology"/>
+</node>
+<node id="18" label="MAYER LLOYD L">
+<graphics fill="c3efc4"/>
+<att name="functions" type="string" value="CO-DIRECTOR;PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Immunology;Gastroenterology;Immunology Institute;Microbiology"/>
+</node>
+<node id="19" label="TORTORELLA DOMENICO D">
+<graphics fill="b4f3a3"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Microbiology"/>
+</node>
+<node id="20" label="SIMON VIVIANA VA">
+<graphics fill="4da455"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Infectious Diseases;Microbiology"/>
+</node>
+<edge source="16" target="4" label="co-authorship: 20174621">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b4f3a3" width="2.5"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="11" target="9" label="co-authorship: 18684820 - co-authorship: 19230160">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="b4f3a3" width="5.0"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="8" target="9" label="co-authorship: 18199643 - co-authorship: 18448539 - co-authorship: 19805230 - co-authorship: 20519387 - co-authorship: 20689752 - co-authorship: 21159873 - co-authorship: 21209114">
+<att name="weight" type="real" value="3.5"/>
+<graphics fill="#b4f3a3" width="17.5"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="18" target="19" label="co-authorship: 20978345">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b4f3a3" width="2.5"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="9" target="20" label="co-authorship: 21436031">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#4da455" width="1.6666667"/>
+<att name="departments" type="string" value="Infectious Diseases;Microbiology"/>
+</edge>
+<edge source="4" target="5" label="co-authorship: 17675303">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#b4f3a3" width="1.6666667"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="6" target="7" label="co-authorship: 17703413">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="4da455" width="2.5"/>
+<att name="departments" type="string" value="Infectious Diseases;Microbiology"/>
+</edge>
+<edge source="10" target="20" label="co-authorship: 21436031">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#b4f3a3" width="1.6666667"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17434557 - co-authorship: 17928350 - co-authorship: 19241254 - co-authorship: 19775255 - co-authorship: 20084112 - co-authorship: 21263462">
+<att name="weight" type="real" value="3.0"/>
+<graphics fill="#b4f3a3" width="15.0"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="9" target="10" label="co-authorship: 18535660 - co-authorship: 18585796 - co-authorship: 19211754 - co-authorship: 21436031">
+<att name="weight" type="real" value="1.6666667"/>
+<graphics fill="#b4f3a3" width="8.333334"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="12" target="4" label="co-authorship: 18802009">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#b4f3a3" width="1.6666667"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="4" target="9" label="co-authorship: 19464560 - co-authorship: 19939917 - co-authorship: 20956293">
+<att name="weight" type="real" value="1.3333334"/>
+<graphics fill="#b4f3a3" width="6.666667"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="13" target="14" label="co-authorship: 19129450">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b4f3a3" width="2.5"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="1" target="9" label="co-authorship: 19211754 - co-authorship: 19939917 - co-authorship: 20126449 - co-authorship: 20975689">
+<att name="weight" type="real" value="1.6666667"/>
+<graphics fill="#b4f3a3" width="8.333334"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="15" target="5" label="co-authorship: 20164420">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b4f3a3" width="2.5"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17675303 - co-authorship: 18230041 - co-authorship: 18802009 - co-authorship: 18974865 - co-authorship: 18981106">
+<att name="weight" type="real" value="2.1666667"/>
+<graphics fill="#b4f3a3" width="10.833334"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="3" target="5" label="co-authorship: 17675303">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="b4f3a3" width="1.6666667"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="1" target="4" label="co-authorship: 18636086 - co-authorship: 19939917">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#b4f3a3" width="4.166667"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="3" target="12" label="co-authorship: 18802009">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="b4f3a3" width="1.6666667"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="17" target="9" label="co-authorship: 20739532">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b4f3a3" width="2.5"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+<edge source="1" target="10" label="co-authorship: 19211754 - co-authorship: 19515782">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#b4f3a3" width="4.166667"/>
+<att name="departments" type="string" value="Microbiology"/>
+</edge>
+</graph>

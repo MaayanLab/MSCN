@@ -1,0 +1,8 @@
+20104494
+Complement component C3 allotypes and outcomes in liver transplantation.
+The complement system has been implicated in the pathogenesis of liver diseases. Human complement component C3 (C3) exists as 2 allotypes, fast (F) and slow (S). We conducted a study to address the influence of these alleles on ischemia-reperfusion (IR) injury and graft survival in liver transplant recipients. Four hundred thirty patients receiving liver transplants from 2000 to 2004 were included. C3 allotypes of 296 donor-recipient pairs were determined and correlated with clinical outcomes. Four groups were analyzed according to the C3 genotype: C3 SS donor and recipient, C3 FS or C3 FF donor and C3 SS recipient, C3 SS donor and C3 FS or C3 FF recipient, and C3 FS or C3 FF donor and recipient. Baseline characteristics of the 4 groups were similar. The mean follow-up time was 4.3 +/- 2.2 years. The 4 groups had similar rates of IR injury (P = 0.16). The hazard ratios for liver allograft survival in the C3 SS donor and recipient group in comparison with the other 3 groups (C3 FS or C3 FF donor and C3 SS recipient, C3 SS donor and C3 FS or C3 FF recipient, and C3 FS or C3 FF donor and recipient) were not significantly different: 1.13 (P = 0.60), 0.99 (P = 0.97), and 1.02 (P = 0.95), respectively. In conclusion, donor and recipient C3 genotypes are not associated with liver transplantation outcomes.
+
+19494802
+Human immunodeficiency virus and renal transplantation.
+
+

@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="FISHER EDWARD EA">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="2" label="FAYAD ZAHI ZA">
+<graphics fill="650d86"/>
+<att name="functions" type="string" value="DIRECTOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Radiology;Translational and Molecular Imaging Institute"/>
+</node>
+<node id="3" label="HAJJAR ROGER RJ">
+<graphics fill="e21c0a"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Gene and Cell Medicine"/>
+</node>
+<node id="4" label="KAWASE YOSHIAKI Y">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="5" label="LEBECHE DJAMEL D">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="6" label="BADIMON JUAN JJ">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="7" label="FUSTER VALENTIN V">
+<graphics fill="9df207"/>
+<att name="functions" type="string" value="DIRECTOR;PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Zena and Michael A. Wiener Cardiovascular Institute"/>
+</node>
+<node id="8" label="MORENO PEDRO PR">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="9" label="ABASCAL VIVIAN VM">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="10" label="NASH IRA IS">
+<graphics fill="024244"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Health Evidence and Policy"/>
+</node>
+<node id="11" label="FARKOUH MICHAEL ME">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="12" label="DELLEGROTTAGLIE SANTO S">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ADJUNCT INSTRUCTOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="13" label="POON MICHAEL M">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="14" label="SULICA ROXANA R">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="15" label="MEHTA DAVENDRA D">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="16" label="UNDAVIA MANISH M">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="17" label="GOMES JOSEPH JA">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="18" label="JOASHI UMESH U">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="19" label="SRIVASTAVA SHUBHIKA S">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="20" label="NIELSEN JAMES JC">
+<graphics fill="9aface"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Radiology"/>
+</node>
+<node id="21" label="HALPERIN JONATHAN JL">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="22" label="LOVE BARRY BA">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="23" label="KIM MICHAEL MC">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="24" label="KAMRAN MAZULLAH M">
+<graphics fill="9aface"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Radiology"/>
+</node>
+<node id="25" label="KINI ANNAPOORNA AS">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="26" label="SHARMA SAMIN SK">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="27" label="HENZLOVA MILENA MJ">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="28" label="MACHAC JOSEF J">
+<graphics fill="9aface"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Radiology"/>
+</node>
+<node id="29" label="ELMARIAH SAMMY S">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="30" label="FISCHER AVI A">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="31" label="DANGAS GEORGE G">
+<graphics fill="2642fa"/>
+<att name="functions" type="string" value="SENIOR FACULTY;SENIOR FACULTY (PENDING)"/>
+<att name="departments" type="string" value="Cardiology;Surgery"/>
+</node>
+<node id="32" label="DOMANSKI MICHAEL M">
+<graphics fill="024244"/>
+<att name="functions" type="string" value="SENIOR FACULTY;SENIOR FACULTY"/>
+<att name="departments" type="string" value="Cardiology;Health Evidence and Policy"/>
+</node>
+<node id="33" label="GELB BRUCE BD">
+<graphics fill="d28906"/>
+<att name="functions" type="string" value="DIRECTOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Child Health and Development Institute;Genetics and Genomic Sciences"/>
+</node>
+<node id="34" label="FALLON JOHN JT">
+<graphics fill="902bf8"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Pathology"/>
+</node>
+<node id="35" label="MAW MYO M">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR (PENDING)"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="36" label="SAINT-JACQUES HENOCK H">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="37" label="WATKOWSKA JUSTYNA J">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="CLINICAL INSTRUCTOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="38" label="HADRI LAHOUARIA L">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="39" label="CHAKRAVARTI SUJATA S">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="40" label="CROFT LORI LB">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="41" label="GOLDMAN MARTIN ME">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="42" label="SEALOVE BRETT BA">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="43" label="VEDANTHAN RAJESH R">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="44" label="TIYYAGURA SATISH S">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="45" label="KRISHNAN PRAKASH P">
+<graphics fill="9aface"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;INSTRUCTOR"/>
+<att name="departments" type="string" value="Cardiology;Radiology"/>
+</node>
+<node id="46" label="SULEMAN JAVED J">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="SENIOR FACULTY"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="47" label="SWEENY JOSEPH JM">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="48" label="ROBBINS MICHAEL MJ">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="SENIOR FACULTY"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="49" label="HANSALIA RIPLE RJ">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="50" label="REYNOLDS DEBORAH DA">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="51" label="LIPSKAIA LARISSA L">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR (PENDING)"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="52" label="DAVIDSON KARINA KW">
+<graphics fill="6b76f2"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR;ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Psychiatry"/>
+</node>
+<node id="53" label="CHEN JIQIU J">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="54" label="SCHECTER ALISON AD">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="55" label="OLIN JEFFREY JW">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="56" label="KALMAN JILL J">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="57" label="PINNEY SEAN SP">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="58" label="D'AVILA ANDRE A">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="SENIOR FACULTY"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="59" label="DUKKIPATI SRINIVAS S">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="60" label="POLGAR KATALIN K">
+<graphics fill="09f35c"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="61" label="VAN DER ZEE SARINA SA">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="62" label="RAMIREZ FRANCESCO F">
+<graphics fill="7c87e6"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Pharmacology and Systems Therapeutics"/>
+</node>
+<node id="63" label="WALSH ROWAN R">
+<graphics fill="9aface"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Radiology"/>
+</node>
+<node id="64" label="PARNESS IRA I">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="65" label="KOVACIC JASON JC">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="66" label="PURUSHOTHAMAN MEERARANI M">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<node id="67" label="MEHRAN ROXANA R">
+<graphics fill="024244"/>
+<att name="functions" type="string" value="SENIOR FACULTY;SENIOR FACULTY"/>
+<att name="departments" type="string" value="Cardiology;Health Evidence and Policy"/>
+</node>
+<node id="68" label="STEVENS GERIN G">
+<graphics fill="65cf84"/>
+<att name="functions" type="string" value="ADJUNCT INSTRUCTOR"/>
+<att name="departments" type="string" value="Cardiology"/>
+</node>
+<edge source="18" target="19" label="co-authorship: 17564653 - co-authorship: 18603059 - co-authorship: 19447648">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#65cf84" width="7.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="17" target="15" label="co-authorship: 18181924 - co-authorship: 18950298">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="22" label="co-authorship: 20014190">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="68" label="co-authorship: 21596452">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="6" target="3" label="co-authorship: 21164355">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="8" label="co-authorship: 17245402 - co-authorship: 17448377 - co-authorship: 17938815 - co-authorship: 18308164 - co-authorship: 18848136 - co-authorship: 19358949 - co-authorship: 19539140 - co-authorship: 20359599 - co-authorship: 21481422 - co-authorship: 21511672">
+<att name="weight" type="real" value="4.166667"/>
+<graphics fill="#65cf84" width="20.833336"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="17" label="co-authorship: 18033231">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="21" target="50" label="co-authorship: 19803976">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="29" target="26" label="co-authorship: 21413131 - co-authorship: 21481422">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="3" target="60" label="co-authorship: 20677926">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="53" target="54" label="co-authorship: 20133817">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="29" target="8" label="co-authorship: 21413131 - co-authorship: 21481422">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="28" label="co-authorship: 17719477 - co-authorship: 18467641 - co-authorship: 18483100 - co-authorship: 18979182 - co-authorship: 19808576">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="65cf84" width="7.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="12" target="15" label="co-authorship: 17697838">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#65cf84" width="1.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="6" target="25" label="co-authorship: 17659921">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#65cf84" width="1.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="21" target="61" label="co-authorship: 20865027">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="25" target="45" label="co-authorship: 18760134">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#65cf84" width="0.8333334"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="24" target="26" label="co-authorship: 17659921">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#65cf84" width="1.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="15" target="16" label="co-authorship: 17437574 - co-authorship: 18181924 - co-authorship: 18950298 - co-authorship: 19335869">
+<att name="weight" type="real" value="1.1666667"/>
+<graphics fill="#65cf84" width="5.833334"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="55" target="54" label="co-authorship: 20307322">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="27" target="23" label="co-authorship: 17679071">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="6" target="23" label="co-authorship: 17659921">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#65cf84" width="1.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="1" target="7" label="co-authorship: 17417649 - co-authorship: 17417649 - co-authorship: 20668118 - co-authorship: 20668118 - co-authorship: 21028895 - co-authorship: 21028895">
+<att name="weight" type="real" value="1.4000001"/>
+<graphics fill="#65cf84" width="7.0000005"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="33" target="18" label="co-authorship: 18242288">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="20" target="19" label="co-authorship: 17610970">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="3" target="56" label="co-authorship: 21092890">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="22" target="15" label="co-authorship: 18594551">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="8" target="46" label="co-authorship: 18760134">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#65cf84" width="0.8333334"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="21" target="22" label="co-authorship: 17653118">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="14" label="co-authorship: 17329691 - co-authorship: 17392248 - co-authorship: 17697838">
+<att name="weight" type="real" value="0.7"/>
+<graphics fill="#65cf84" width="3.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="13" target="14" label="co-authorship: 17329691 - co-authorship: 17392248 - co-authorship: 17697838">
+<att name="weight" type="real" value="0.7"/>
+<graphics fill="#65cf84" width="3.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="38" target="51" label="co-authorship: 20078230 - co-authorship: 20461063">
+<att name="weight" type="real" value="0.53333336"/>
+<graphics fill="#65cf84" width="2.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="38" target="4" label="co-authorship: 18342232 - co-authorship: 20461063 - co-authorship: 21512506">
+<att name="weight" type="real" value="0.7833333"/>
+<graphics fill="#65cf84" width="3.9166665"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="6" target="24" label="co-authorship: 17659921">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#65cf84" width="1.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="15" target="13" label="co-authorship: 17697838">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#65cf84" width="1.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="3" target="5" label="co-authorship: 17220178 - co-authorship: 18342232 - co-authorship: 18597775 - co-authorship: 18813212 - co-authorship: 19649297 - co-authorship: 20461063 - co-authorship: 21440552 - co-authorship: 21478152">
+<att name="weight" type="real" value="2.95"/>
+<graphics fill="#65cf84" width="14.75"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="42" target="44" label="co-authorship: 18688681">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="12" target="13" label="co-authorship: 17329691 - co-authorship: 17392248 - co-authorship: 17697838">
+<att name="weight" type="real" value="0.7"/>
+<graphics fill="#65cf84" width="3.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="62" label="co-authorship: 21304473">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="32" target="11" label="co-authorship: 18215589">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="6" target="52" label="co-authorship: 20097703">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="12" target="7" label="co-authorship: 17329691 - co-authorship: 17392248 - co-authorship: 17443112 - co-authorship: 17697838 - co-authorship: 18545083 - co-authorship: 19356573">
+<att name="weight" type="real" value="2.2"/>
+<graphics fill="#65cf84" width="11.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="26" label="co-authorship: 21481422 - co-authorship: 21511672">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="45" target="46" label="co-authorship: 18760134">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#65cf84" width="0.8333334"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="11" target="7" label="co-authorship: 17307054 - co-authorship: 17412741 - co-authorship: 17519913 - co-authorship: 18215589 - co-authorship: 18611361 - co-authorship: 19496900 - co-authorship: 19808576 - co-authorship: 20530023">
+<att name="weight" type="real" value="3.5"/>
+<graphics fill="#65cf84" width="17.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="11" target="23" label="co-authorship: 19672119">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="23" target="26" label="co-authorship: 17659921 - co-authorship: 18760134">
+<att name="weight" type="real" value="0.36666667"/>
+<graphics fill="#65cf84" width="1.8333334"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="21" label="co-authorship: 21070928">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="4" target="51" label="co-authorship: 20461063">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#65cf84" width="1.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="25" target="46" label="co-authorship: 18760134">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#65cf84" width="0.8333334"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="11" target="48" label="co-authorship: 19672119">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17220178 - co-authorship: 18342232 - co-authorship: 18514926 - co-authorship: 18665137 - co-authorship: 19687154 - co-authorship: 20461063 - co-authorship: 20559907 - co-authorship: 20981290 - co-authorship: 21194040 - co-authorship: 21371634 - co-authorship: 21512506">
+<att name="weight" type="real" value="4.6166673"/>
+<graphics fill="#65cf84" width="23.083336"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="6" target="7" label="co-authorship: 17239165 - co-authorship: 17365244 - co-authorship: 17515460 - co-authorship: 17938815 - co-authorship: 18279396 - co-authorship: 18332609 - co-authorship: 18342230 - co-authorship: 18367192 - co-authorship: 18466906 - co-authorship: 18979182 - co-authorship: 19120689 - co-authorship: 19701094 - co-authorship: 19913314 - co-authorship: 20097703 - co-authorship: 20304838 - co-authorship: 20864196 - co-authorship: 21163454 - co-authorship: 21164355">
+<att name="weight" type="real" value="7.7500005"/>
+<graphics fill="#65cf84" width="38.750004"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="25" target="8" label="co-authorship: 18760134 - co-authorship: 21413131">
+<att name="weight" type="real" value="0.4166667"/>
+<graphics fill="#65cf84" width="2.0833335"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="33" target="3" label="co-authorship: 21440552">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="47" label="co-authorship: 19352331 - co-authorship: 21343593">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#65cf84" width="5.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="6" target="28" label="co-authorship: 18979182">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="39" target="19" label="co-authorship: 18387980">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="64" target="19" label="co-authorship: 21442400">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="2" target="1" label="co-authorship: 20926130 - co-authorship: 21028895 - co-authorship: 21028895">
+<att name="weight" type="real" value="0.73333335"/>
+<graphics fill="#65cf84" width="3.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="53" target="3" label="co-authorship: 20133817 - co-authorship: 21533060">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#65cf84" width="4.166667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="9" target="10" label="co-authorship: 17285207">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="21" target="42" label="co-authorship: 18589346">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="44" label="co-authorship: 18688681">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="36" target="37" label="co-authorship: 18340201">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="29" target="7" label="co-authorship: 17888836 - co-authorship: 18094672 - co-authorship: 19204318 - co-authorship: 19621012 - co-authorship: 20304838 - co-authorship: 21070928 - co-authorship: 21481422">
+<att name="weight" type="real" value="2.8333333"/>
+<graphics fill="#65cf84" width="14.166666"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="38" target="3" label="co-authorship: 18342232 - co-authorship: 19649297 - co-authorship: 19825979 - co-authorship: 20078230 - co-authorship: 20461063 - co-authorship: 21512506">
+<att name="weight" type="real" value="1.9500002"/>
+<graphics fill="#65cf84" width="9.750001"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="15" label="co-authorship: 17697838">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#65cf84" width="1.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="2" target="7" label="co-authorship: 17417649 - co-authorship: 17719477 - co-authorship: 18332609 - co-authorship: 18467641 - co-authorship: 18483100 - co-authorship: 18541740 - co-authorship: 18581415 - co-authorship: 18641598 - co-authorship: 18979182 - co-authorship: 19174763 - co-authorship: 19393089 - co-authorship: 19442953 - co-authorship: 19467659 - co-authorship: 19808576 - co-authorship: 20668118 - co-authorship: 21028895 - co-authorship: 21118852 - co-authorship: 21304473">
+<att name="weight" type="real" value="6.7833333"/>
+<graphics fill="65cf84" width="33.916668"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="8" target="66" label="co-authorship: 21511672">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="60" label="co-authorship: 20677926">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="42" label="co-authorship: 18688681">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="15" target="14" label="co-authorship: 17697838">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#65cf84" width="1.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="12" target="14" label="co-authorship: 17329691 - co-authorship: 17392248 - co-authorship: 17697838">
+<att name="weight" type="real" value="0.7"/>
+<graphics fill="#65cf84" width="3.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="34" target="2" label="co-authorship: 21028895">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="65cf84" width="1.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="11" target="2" label="co-authorship: 19808576">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="11" target="28" label="co-authorship: 19808576">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="33" target="5" label="co-authorship: 21440552">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="6" target="26" label="co-authorship: 17659921">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#65cf84" width="1.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="34" target="7" label="co-authorship: 18332609 - co-authorship: 18848136 - co-authorship: 21028895">
+<att name="weight" type="real" value="0.78333336"/>
+<graphics fill="65cf84" width="3.9166667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="3" target="54" label="co-authorship: 20133817 - co-authorship: 20729750">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#65cf84" width="4.166667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="38" target="5" label="co-authorship: 18342232 - co-authorship: 19649297 - co-authorship: 20051248 - co-authorship: 20461063">
+<att name="weight" type="real" value="1.2833334"/>
+<graphics fill="#65cf84" width="6.416667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="43" label="co-authorship: 18607395 - co-authorship: 21045785 - co-authorship: 21502585">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#65cf84" width="7.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="3" target="51" label="co-authorship: 20078230 - co-authorship: 20461063">
+<att name="weight" type="real" value="0.53333336"/>
+<graphics fill="#65cf84" width="2.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="30" target="17" label="co-authorship: 18181924 - co-authorship: 18950298">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="40" target="41" label="co-authorship: 18435958 - co-authorship: 18638599">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#65cf84" width="5.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="5" target="51" label="co-authorship: 20461063">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#65cf84" width="1.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="34" target="8" label="co-authorship: 18848136">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="1" target="1" label="co-authorship: 21028895">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#65cf84" width="1.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="24" target="25" label="co-authorship: 17659921">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#65cf84" width="1.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="2" target="62" label="co-authorship: 21304473">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="52" target="7" label="co-authorship: 20097703">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="26" target="46" label="co-authorship: 18760134">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#65cf84" width="0.8333334"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="29" target="25" label="co-authorship: 21413131">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="56" target="22" label="co-authorship: 20472633">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="29" target="41" label="co-authorship: 20304838">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="31" target="11" label="co-authorship: 18215589">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="31" target="7" label="co-authorship: 18215589">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="28" target="15" label="co-authorship: 18339784">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="6" target="8" label="co-authorship: 17249334 - co-authorship: 17938815">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#65cf84" width="4.166667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="45" target="26" label="co-authorship: 18760134">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#65cf84" width="0.8333334"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="34" target="1" label="co-authorship: 21028895 - co-authorship: 21028895">
+<att name="weight" type="real" value="0.4"/>
+<graphics fill="#65cf84" width="2.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="23" target="48" label="co-authorship: 19672119">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="3" label="co-authorship: 20677926 - co-authorship: 21164355">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="65cf84" width="3.3333335"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="6" target="29" label="co-authorship: 20304838">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="49" label="co-authorship: 19755254">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="30" target="15" label="co-authorship: 18181924 - co-authorship: 18950298 - co-authorship: 19148728 - co-authorship: 19272063 - co-authorship: 19335869">
+<att name="weight" type="real" value="1.8333334"/>
+<graphics fill="#65cf84" width="9.166667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="4" target="5" label="co-authorship: 17220178 - co-authorship: 18342232 - co-authorship: 20461063">
+<att name="weight" type="real" value="0.78333336"/>
+<graphics fill="#65cf84" width="3.9166667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="30" target="7" label="co-authorship: 18403546">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="23" target="46" label="co-authorship: 18760134">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#65cf84" width="0.8333334"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="32" target="7" label="co-authorship: 18215589">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="29" target="30" label="co-authorship: 20009070">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="13" label="co-authorship: 17329691 - co-authorship: 17392248 - co-authorship: 17697838">
+<att name="weight" type="real" value="0.7"/>
+<graphics fill="#65cf84" width="3.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="35" target="37" label="co-authorship: 18340201">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="23" target="8" label="co-authorship: 18760134">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#65cf84" width="0.8333334"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="65" label="co-authorship: 21502583 - co-authorship: 21537006">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#65cf84" width="5.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="58" target="59" label="co-authorship: 20637313">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="2" target="28" label="co-authorship: 17719477 - co-authorship: 18467641 - co-authorship: 18483100 - co-authorship: 18979182 - co-authorship: 19443582 - co-authorship: 19808576">
+<att name="weight" type="real" value="2.0"/>
+<graphics fill="#9aface" width="10.0"/>
+<att name="departments" type="string" value="Cardiology;Radiology"/>
+</edge>
+<edge source="29" target="57" label="co-authorship: 20620559">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="29" target="21" label="co-authorship: 21070928">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="40" target="27" label="co-authorship: 20390394 - co-authorship: 21069489 - co-authorship: 21528422">
+<att name="weight" type="real" value="1.5"/>
+<graphics fill="#65cf84" width="7.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="17" target="16" label="co-authorship: 18181924 - co-authorship: 18950298">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="30" target="16" label="co-authorship: 18181924 - co-authorship: 18950298 - co-authorship: 19335869 - co-authorship: 19808406">
+<att name="weight" type="real" value="1.3333334"/>
+<graphics fill="#65cf84" width="6.666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="31" target="32" label="co-authorship: 18215589">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="23" target="45" label="co-authorship: 18760134">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#65cf84" width="0.8333334"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="66" label="co-authorship: 21511672">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="24" target="23" label="co-authorship: 17659921">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#65cf84" width="1.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="66" target="26" label="co-authorship: 21511672">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="55" target="42" label="co-authorship: 20592174 - co-authorship: 21236620">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="#65cf84" width="5.0"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="7" target="41" label="co-authorship: 20304838">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="8" target="26" label="co-authorship: 18760134 - co-authorship: 21413131 - co-authorship: 21481422 - co-authorship: 21511672">
+<att name="weight" type="real" value="0.9166667"/>
+<graphics fill="#65cf84" width="4.5833335"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="25" target="26" label="co-authorship: 17659921 - co-authorship: 18760134 - co-authorship: 19838156 - co-authorship: 21413131">
+<att name="weight" type="real" value="1.1166667"/>
+<graphics fill="#65cf84" width="5.5833335"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="6" target="2" label="co-authorship: 18332609 - co-authorship: 18979182">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="20" target="63" label="co-authorship: 21437608">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#9aface" width="2.5"/>
+<att name="departments" type="string" value="Cardiology;Radiology"/>
+</edge>
+<edge source="23" target="25" label="co-authorship: 18760134">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#65cf84" width="0.8333334"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="6" target="34" label="co-authorship: 18332609">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="35" target="36" label="co-authorship: 18340201">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#65cf84" width="1.6666667"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="6" target="41" label="co-authorship: 20304838">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#65cf84" width="1.25"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="45" target="8" label="co-authorship: 18760134">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#65cf84" width="0.8333334"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+<edge source="67" target="47" label="co-authorship: 21518671">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#65cf84" width="2.5"/>
+<att name="departments" type="string" value="Cardiology"/>
+</edge>
+</graph>

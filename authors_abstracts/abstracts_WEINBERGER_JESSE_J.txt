@@ -1,0 +1,36 @@
+21036627
+Multiple Ischemic Strokes after Transcatheter Arterial Chemoembolization for Hepatocellular Carcinoma with a Radiographic and Pathological Correlate.
+INTRODUCTION: Transcatheter arterial chemoembolization (TACE) is a widely used form of therapy in advanced hepatocellular carcinoma. We report the first pathological data from an autopsy case of multiple cerebral emboli occurring during TACE. METHODS: A Medline search for previous cases of cerebral embolism and TACE revealed 11 other cases. FINDINGS: Multiple microscopic subacute infarcts were found in the cerebrum, midbrain, and cerebellum of our patient on autopsy, but no embolic material was seen. Embolic material was noted in dilated vessels throughout the fibrotic right diaphragm and in the upper lobe of the right lung. Combining the literature search with our patient, the mortality of cerebral embolism after TACE is 25% (n = 12). Intracardiac shunts were seen in 20% of the cases (n = 10). Hyperdense lesions were seen on head CT in 80% of the patients evaluated (n = 10). Chest imaging revealed infiltrate or consolidation in 60% of the cases (n = 5). Pulmonary emboli were reported in 100% of the cases (n = 8). CONCLUSIONS: Cerebral embolism after TACE is devastating. Brain pathology supports embolization of ethiodized oil rather than DC beads as the mechanism of cerebral injury. Further pathological studies are needed to better understand the pathophysiology of this condition. Lung pathology confirmed the presence of embolic material in the distal lung, suggestive of a hepatopulmonary shunt undetectable by current modalities. Evaluation for such shunts with emerging modalities such as TCD with emboli detection may be an area of future research.
+
+20882370
+Is endovascular stent therapy or endarterectomy more effective for the treatment of symptomatic and asymptomatic carotid stenosis?
+
+
+20425176
+The combination of clopidogrel plus aspirin to treat atrial fibrillation.
+
+
+18582414
+Stroke and migraine.
+Young patients with migraine are at increased risk for stroke, particularly patients with an aura of focal neurologic deficits. Other causes of ischemia are often identified in patients with migraine, including patent foramen ovale, lupus anticoagulant, cervical carotid dissection, arteriovenous malformation, and hyperactivity of the clotting system. Migrainous stroke is only diagnosed when all other possible causes of stroke have been eliminated and the patient has irreversibility of the usual aura, associated with an ischemic infarct in the appropriate brain territory. Prophylactic therapy of migraine with aura may be beneficial in preventing migrainous stroke.
+
+18176296
+Antiplatelet agents for stroke prevention following transient ischemic attack.
+Regardless of extent or duration of acute effects, transient ischemic attack (TIA) is a marker for cerebrovascular ischemia and carries risk for secondary stroke comparable to that associated with ischemic stroke. Pharmacologic and nonpharmacologic interventions aimed at reducing risk of secondary stroke should be implemented as soon as possible after characterization of the initial event. Medical strategies for secondary prevention include modifying general cardiovascular risk factors but are centered on the specific reduction of stroke risk by antiplatelet agents. Aspirin and clopidogrel have each demonstrated efficacy in reducing secondary event risk; however, clopidogrel has not been shown specifically to prevent secondary events in patients who have had a TIA or stroke. Combination therapy using aspirin plus dipyridamole is the only combination approach to demonstrate additive benefit that is significantly greater than that conferred by aspirin. In contrast, the combination of clopidogrel plus aspirin has not demonstrated significant benefit over monotherapy with either agent and has been associated with increased risk of bleeding episodes.
+
+18078021
+Management of intracerebral hemorrhage.
+Currently, intracerebral hemorrhage (ICH) has the highest mortality rate of all stroke subtypes (Counsell et al 1995; Qureshi et al 2005). Hematoma growth is a principal cause of early neurological deterioration. Prospective and retrospective studies indicate that up to 38% hematoma expansion is noted within three hours of ICH onset and that hematoma volume is an important predictor of 30-day mortality (Brott et al 1997; Qureshi et al 2005). This article will review current standard of care measures for ICH patients and new research directed at early hemostatic therapy and minimally invasive surgery.
+
+17362683
+Aspirin plus dipyridamole versus aspirin alone after cerebral ischaemia of arterial origin (ESPRIT): randomised controlled trial.
+
+
+17362679
+Stroke and migraine.
+Young patients with migraine are at increased risk for stroke, particularly patients with an aura of focal neurologic deficits. Other causes of ischemia are often identified in patients with migraine, including patent foramen ovale, lupus anticoagulant, cervical carotid dissection, arteriovenous malformation, and hyperactivity of the clotting system. Migrainous stroke is only diagnosed when all other possible causes of stroke have been eliminated and the patient has irreversibility of the usual aura, associated with an ischemic infarct in the appropriate brain territory. Prophylactic therapy of migraine with aura may be beneficial in preventing migrainous stroke.
+
+17362677
+Morbidity and mortality after stroke--eposartan compared with nitrendipine for secondary prevention: principal results of a prospective randomized controlled study (MOSES).
+
+

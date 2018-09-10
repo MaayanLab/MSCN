@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="CANTOR JOSHUA JB">
+<graphics fill="b394aa"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Rehabilitation Medicine"/>
+</node>
+<node id="2" label="GORDON WAYNE WA">
+<graphics fill="4f7ff5"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Psychiatry;Rehabilitation Medicine"/>
+</node>
+<node id="3" label="BRYCE THOMAS TN">
+<graphics fill="b394aa"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Rehabilitation Medicine"/>
+</node>
+<node id="4" label="DIJKERS MARCEL M">
+<graphics fill="b394aa"/>
+<att name="functions" type="string" value="RESEARCH PROFESSOR"/>
+<att name="departments" type="string" value="Rehabilitation Medicine"/>
+</node>
+<node id="5" label="BREED SABRINA S">
+<graphics fill="b394aa"/>
+<att name="functions" type="string" value="TEACHING ASSISTANT"/>
+<att name="departments" type="string" value="Rehabilitation Medicine"/>
+</node>
+<node id="6" label="TSAOUSIDES THEODORE T">
+<graphics fill="b394aa"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Rehabilitation Medicine"/>
+</node>
+<node id="7" label="DAMS-O'CONNOR KRISTEN K">
+<graphics fill="b394aa"/>
+<att name="functions" type="string" value="INSTRUCTOR"/>
+<att name="departments" type="string" value="Rehabilitation Medicine"/>
+</node>
+<edge source="5" target="2" label="co-authorship: 18520427">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b394aa" width="2.5"/>
+<att name="departments" type="string" value="Rehabilitation Medicine"/>
+</edge>
+<edge source="1" target="4" label="co-authorship: 18219233 - co-authorship: 18219234">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#b394aa" width="4.166667"/>
+<att name="departments" type="string" value="Rehabilitation Medicine"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 18092558">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b394aa" width="2.5"/>
+<att name="departments" type="string" value="Rehabilitation Medicine"/>
+</edge>
+<edge source="2" target="6" label="co-authorship: 19306374 - co-authorship: 19702428">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#b394aa" width="4.166667"/>
+<att name="departments" type="string" value="Rehabilitation Medicine"/>
+</edge>
+<edge source="7" target="2" label="co-authorship: 21093684">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#b394aa" width="2.5"/>
+<att name="departments" type="string" value="Rehabilitation Medicine"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17362145 - co-authorship: 18219233 - co-authorship: 18520426 - co-authorship: 19406291 - co-authorship: 19702428">
+<att name="weight" type="real" value="2.1666667"/>
+<graphics fill="#b394aa" width="10.833334"/>
+<att name="departments" type="string" value="Rehabilitation Medicine"/>
+</edge>
+<edge source="1" target="6" label="co-authorship: 19702428">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#b394aa" width="1.6666667"/>
+<att name="departments" type="string" value="Rehabilitation Medicine"/>
+</edge>
+<edge source="4" target="2" label="co-authorship: 18219233">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#b394aa" width="1.6666667"/>
+<att name="departments" type="string" value="Rehabilitation Medicine"/>
+</edge>
+</graph>

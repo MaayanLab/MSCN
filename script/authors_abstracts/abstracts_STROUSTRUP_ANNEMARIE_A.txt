@@ -1,0 +1,8 @@
+20643728
+Epidemiological characteristics and resource use in neonates with bronchopulmonary dysplasia: 1993-2006.
+To determine the trends in incidence of diagnosis of bronchopulmonary dysplasia (BPD) and associated health services use for the neonatal hospitalization of patients with BPD in an era of changing definitions and management. All neonatal hospitalization records available through the Nationwide Inpatient Sample, 1993-2006, were analyzed. Multivariable regression analyses were performed for incidence of BPD diagnosis and associated hospital length of stay and charges. Multiple models were constructed to assess the roles of changes in diagnosis of very low birth weight (VLBW) neonates and different modalities of respiratory support used for treatment. The absolute incidence of diagnosis of BPD fell 3.3% annually (P = .0009) between 1993 and 2006 coincident with a 3.5-fold increase in the use of noninvasive respiratory support in patients with BPD. When data were controlled for demographic factors, this significant decrease in incidence persisted at a rate of 4.3% annually (P = .0002). All models demonstrated a rise in hospital length of stay and financial charges for the neonatal hospitalization of patients with BPD. The incidence of BPD adjusted for frequency of prolonged mechanical ventilation also decreased but only by 2.8% annually (P = .0075). The incidence of diagnosis of BPD decreased significantly between 1993 and 2006. In well-controlled models, birth hospitalization charges for these patients rose during the same period. Less invasive ventilatory support may improve respiratory outcomes of VLBW neonates.
+
+18953770
+Knowledge of regulations governing pediatric research: a pilot study.
+
+

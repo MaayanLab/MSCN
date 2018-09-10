@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="BALWANI MANISHA M">
+<graphics fill="8ee76b"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Medicine"/>
+</node>
+<node id="2" label="DESNICK ROBERT RJ">
+<graphics fill="60c23d"/>
+<att name="functions" type="string" value="DEAN FOR GENETICS AND GENOMIC SCIENCES ;PROFESSOR & CHAIR;PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science;Oncological Sciences;Pediatrics"/>
+</node>
+<node id="3" label="STRIKER GARY GE">
+<graphics fill="3291cc"/>
+<att name="functions" type="string" value="RESEARCH PROFESSOR;RESEARCH PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Nephrology"/>
+</node>
+<node id="4" label="VLASSARA HELEN H">
+<graphics fill="8304ec"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Experimental Diabetes and Aging;Gene and Cell Medicine;Medicine"/>
+</node>
+<node id="5" label="WALLENSTEIN SYLVAN S">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="RESEARCH PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="6" label="ATWEH GEORGE GF">
+<graphics fill="5edc5b"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Hematology and Medical Oncology"/>
+</node>
+<node id="7" label="WEINBERG RONA RS">
+<graphics fill="9b88ad"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Medicine"/>
+</node>
+<node id="8" label="LAL GIRDHARI G">
+<graphics fill="18f997"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</node>
+<node id="9" label="MERAD MIRIAM M">
+<graphics fill="2c62e3"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Medicine"/>
+</node>
+<node id="10" label="SCHUCHMAN EDWARD EH">
+<graphics fill="f41c89"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Genetics and Genomic Sciences"/>
+</node>
+<node id="11" label="YANG YU Y">
+<graphics fill="18f997"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</node>
+<node id="12" label="DECHERRIE LINDA LV">
+<graphics fill="2c3220"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Medicine"/>
+</node>
+<node id="13" label="SORIANO THERESA TA">
+<graphics fill="09bb9f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR (PENDING)"/>
+<att name="departments" type="string" value="General Internal Medicine;Geriatrics and Palliative Medicine"/>
+</node>
+<node id="14" label="THOMAS DAVID DC">
+<graphics fill="5e0ea5"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine;Medical Education;Rehabilitation Medicine"/>
+</node>
+<node id="15" label="RANDOLPH GWENDALYN GJ">
+<graphics fill="18f997"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</node>
+<node id="16" label="HERBERT ROBIN R">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="17" label="LANDRIGAN PHILIP PJ">
+<graphics fill="10fd1c"/>
+<att name="functions" type="string" value="DEAN FOR GLOBAL HEALTH ;PROFESSOR & CHAIR;PROFESSOR"/>
+<att name="departments" type="string" value="Pediatrics;Preventive Medicine"/>
+</node>
+<node id="18" label="MOLINE JACQUELINE JM">
+<graphics fill="71561e"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR;ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Medicine;Preventive Medicine"/>
+</node>
+<node id="19" label="MEIER DIANE DE">
+<graphics fill="2c3220"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Medicine"/>
+</node>
+<node id="20" label="PENROD JOAN JD">
+<graphics fill="8bbb23"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine"/>
+</node>
+<node id="21" label="COLLIN MATTHEW M">
+<graphics fill="18f997"/>
+<att name="functions" type="string" value="ADJUNCT ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</node>
+<node id="22" label="LESSER GERSON GT">
+<graphics fill="2c3220"/>
+<att name="functions" type="string" value="ADJUNCT CLINICAL PROFESSOR;ADJUNCT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Medicine"/>
+</node>
+<node id="23" label="LIBOW LESLIE LS">
+<graphics fill="eb0213"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</node>
+<node id="24" label="CROWLEY LAURA LE">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="25" label="ENRIGHT PAUL PL">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="26" label="LEVIN STEPHEN SM">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="27" label="SCHECHTER CLYDE CB">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="28" label="SKLOOT GWEN GS">
+<graphics fill="22738f"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pulmonary, Critical Care and Sleep Medicine"/>
+</node>
+<node id="29" label="ZHENG FENG F">
+<graphics fill="eb0213"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</node>
+<node id="30" label="NELSON BRET BP">
+<graphics fill="8c3951"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Emergency Medicine"/>
+</node>
+<node id="31" label="PATEL VAISHALI VR">
+<graphics fill="8c3951"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Emergency Medicine"/>
+</node>
+<node id="32" label="NORRIS MARLAINA MM">
+<graphics fill="8c3951"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Emergency Medicine"/>
+</node>
+<node id="33" label="RICHARDSON BARBARA BK">
+<graphics fill="c3ed95"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Emergency Medicine;Medicine"/>
+</node>
+<node id="34" label="FEDERMAN ALEX AD">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="35" label="KEYHANI SALOMEH S">
+<graphics fill="70929f"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Health Evidence and Policy;Medicine"/>
+</node>
+<node id="36" label="UNKELESS JAY JC">
+<graphics fill="9b88ad"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Medicine"/>
+</node>
+<node id="37" label="ABREU MARIA M">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="38" label="TROY KEVIN K">
+<graphics fill="9b88ad"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Medicine"/>
+</node>
+<node id="39" label="MEAH YASMIN YS">
+<graphics fill="6b39a8"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education;Medicine"/>
+</node>
+<node id="40" label="TANSMAN LAURIE L">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="TEACHING ASSISTANT"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="41" label="BRENNER BARBARA BL">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="42" label="HOROWITZ CAROL CR">
+<graphics fill="40751f"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Health Evidence and Policy;Medicine"/>
+</node>
+<node id="43" label="AURORA RASHMI RN">
+<graphics fill="22738f"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Pulmonary, Critical Care and Sleep Medicine"/>
+</node>
+<node id="44" label="BIENENFELD LAURA LA">
+<graphics fill="df252b"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine;Preventive Medicine"/>
+</node>
+<node id="45" label="DE LA HOZ RAFAEL RE">
+<graphics fill="df252b"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine;Preventive Medicine"/>
+</node>
+<node id="46" label="LANDSBERGIS PAUL P">
+<graphics fill="71561e"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR;ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Medicine;Preventive Medicine"/>
+</node>
+<node id="47" label="YOO CHANG C">
+<graphics fill="9b88ad"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Medicine"/>
+</node>
+<node id="48" label="BUTTS GARY GC">
+<graphics fill="13a908"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education;Pediatrics;Preventive Medicine"/>
+</node>
+<node id="49" label="HIRSCHHORN KURT K">
+<graphics fill="8ee76b"/>
+<att name="functions" type="string" value="PROFESSORIAL LECTURER;PROFESSORIAL LECTURER"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences;Medicine"/>
+</node>
+<node id="50" label="KALB THOMAS TH">
+<graphics fill="22738f"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Pulmonary, Critical Care and Sleep Medicine"/>
+</node>
+<node id="51" label="LENTO PATRICK PA">
+<graphics fill="2fb6da"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education;Medicine;Pathology"/>
+</node>
+<node id="52" label="BANCHEREAU JACQUES J">
+<graphics fill="6d3021"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Immunology;Gene and Cell Medicine"/>
+</node>
+<node id="53" label="CALLAHAN MARK MA">
+<graphics fill="40751f"/>
+<att name="functions" type="string" value="SENIOR FACULTY;SENIOR FACULTY"/>
+<att name="departments" type="string" value="Health Evidence and Policy;Medicine"/>
+</node>
+<node id="54" label="KLOTMAN PAUL PE">
+<graphics fill="0499dc"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Nephrology"/>
+</node>
+<node id="55" label="KASE NATHAN N">
+<graphics fill="3fe859"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Medicine;Obstetrics, Gynecology and Reproductive Science"/>
+</node>
+<node id="56" label="MULLER DAVID D">
+<graphics fill="458ce5"/>
+<att name="functions" type="string" value="EAN FOR MEDICAL EDUCATION ;ASSOCIATE PROFESSOR & CHAIR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine;Medical Education"/>
+</node>
+<node id="57" label="JERVIS RAMIRO R">
+<graphics fill="115d23"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Hospital Medicine"/>
+</node>
+<node id="58" label="KATHURIA NAVNEET N">
+<graphics fill="9b88ad"/>
+<att name="functions" type="string" value="PROFESSORIAL LECTURER"/>
+<att name="departments" type="string" value="Medicine"/>
+</node>
+<node id="59" label="GARDENIER DONALD D">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="60" label="KRAUSKOPF KATHERINE K">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ASSOCIATE"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="61" label="KRONISH IAN IM">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="62" label="MCGINN THOMAS TG">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="63" label="MCGINN LATA LK">
+<graphics fill="9b88ad"/>
+<att name="functions" type="string" value="ADJUNCT ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Medicine"/>
+</node>
+<node id="64" label="KELLEY AMY AS">
+<graphics fill="eb0213"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</node>
+<node id="65" label="FRENETTE PAUL PS">
+<graphics fill="5edc5b"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR;ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Hematology and Medical Oncology"/>
+</node>
+<node id="66" label="ROLON OMAYRA O">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="TEACHING ASSISTANT"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="67" label="WISNIVESKY JUAN J">
+<graphics fill="d03926"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</node>
+<node id="68" label="CHAI EMILY E">
+<graphics fill="8bbb23"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Clinical Geriatrics;Geriatrics and Palliative Medicine"/>
+</node>
+<node id="69" label="TAOULI BACHIR B">
+<graphics fill="5a0b0f"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Medicine;Radiology"/>
+</node>
+<node id="70" label="THUNG SWAN SN">
+<graphics fill="fb2736"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Pathology"/>
+</node>
+<node id="71" label="BLOOM HARRISON HG">
+<graphics fill="2c3220"/>
+<att name="functions" type="string" value="ASSOCIATE CLINICAL PROFESSOR;ASSOCIATE CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine;Medicine"/>
+</node>
+<node id="72" label="CLAUDIO LUZ L">
+<graphics fill="2bc5e3"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</node>
+<node id="73" label="HEXOM BRADEN B">
+<graphics fill="8c3951"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Emergency Medicine"/>
+</node>
+<edge source="4" target="29" label="co-authorship: 19246537 - co-authorship: 19776174 - co-authorship: 19779136 - co-authorship: 19946325 - co-authorship: 20006791 - co-authorship: 20363923">
+<att name="weight" type="real" value="2.3333333"/>
+<graphics fill="#DDCCFF" width="11.666666"/>
+<att name="departments" type="string" value="inter-departmental:Experimental Diabetes and Aging;Gene and Cell Medicine;Medicine &amp; Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="27" target="28" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#DDCCFF" width="0.71428573"/>
+<att name="departments" type="string" value="inter-departmental:Preventive Medicine &amp; Pulmonary, Critical Care and Sleep Medicine"/>
+</edge>
+<edge source="16" target="38" label="co-authorship: 19620891">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#DDCCFF" width="1.25"/>
+<att name="departments" type="string" value="inter-departmental:Preventive Medicine &amp; Medicine"/>
+</edge>
+<edge source="8" target="9" label="co-authorship: 18037890">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#18f997" width="1.25"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="22" target="23" label="co-authorship: 19129700">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#eb0213" width="2.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="43" target="46" label="co-authorship: 20042888">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#DDCCFF" width="1.0"/>
+<att name="departments" type="string" value="inter-departmental:Pulmonary, Critical Care and Sleep Medicine &amp; Medicine;Preventive Medicine"/>
+</edge>
+<edge source="30" target="33" label="co-authorship: 19384520">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#8c3951" width="1.25"/>
+<att name="departments" type="string" value="Emergency Medicine"/>
+</edge>
+<edge source="13" target="14" label="co-authorship: 18225454">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="d03926" width="1.6666667"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="16" target="27" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#2bc5e3" width="0.71428573"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="59" target="67" label="co-authorship: 21455042">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#d03926" width="1.0"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="66" target="14" label="co-authorship: 21298472">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Preventive Medicine &amp; General Internal Medicine;Medical Education;Rehabilitation Medicine"/>
+</edge>
+<edge source="30" target="31" label="co-authorship: 19384520">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#8c3951" width="1.25"/>
+<att name="departments" type="string" value="Emergency Medicine"/>
+</edge>
+<edge source="9" target="36" label="co-authorship: 19501588">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#9b88ad" width="2.5"/>
+<att name="departments" type="string" value="Medicine"/>
+</edge>
+<edge source="44" target="45" label="co-authorship: 20042888">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#df252b" width="1.0"/>
+<att name="departments" type="string" value="General Internal Medicine;Preventive Medicine"/>
+</edge>
+<edge source="4" target="5" label="co-authorship: 17525257">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Experimental Diabetes and Aging;Gene and Cell Medicine;Medicine &amp; Preventive Medicine"/>
+</edge>
+<edge source="9" target="11" label="co-authorship: 18037890">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#18f997" width="1.25"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="37" target="36" label="co-authorship: 19592489">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:General Internal Medicine &amp; Medicine"/>
+</edge>
+<edge source="43" target="45" label="co-authorship: 20042888">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#DDCCFF" width="1.0"/>
+<att name="departments" type="string" value="inter-departmental:Pulmonary, Critical Care and Sleep Medicine &amp; General Internal Medicine;Preventive Medicine"/>
+</edge>
+<edge source="59" target="63" label="co-authorship: 20950406 - co-authorship: 21455042">
+<att name="weight" type="real" value="0.36666667"/>
+<graphics fill="#DDCCFF" width="1.8333334"/>
+<att name="departments" type="string" value="inter-departmental:General Internal Medicine &amp; Medicine"/>
+</edge>
+<edge source="17" target="5" label="co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#2bc5e3" width="1.6666667"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="24" target="16" label="co-authorship: 19141527 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.4761905"/>
+<graphics fill="#2bc5e3" width="2.3809526"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="72" target="17" label="co-authorship: 21598272">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#2bc5e3" width="1.25"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="16" target="18" label="co-authorship: 18500708 - co-authorship: 18500709 - co-authorship: 19141527 - co-authorship: 19620891 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="1.3928571"/>
+<graphics fill="#2bc5e3" width="6.9642854"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="62" target="67" label="co-authorship: 21455042">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#d03926" width="1.0"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="25" target="18" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#2bc5e3" width="0.71428573"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="24" target="27" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#2bc5e3" width="0.71428573"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="30" target="32" label="co-authorship: 19384520">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#8c3951" width="1.25"/>
+<att name="departments" type="string" value="Emergency Medicine"/>
+</edge>
+<edge source="44" target="46" label="co-authorship: 20042888">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="2bc5e3" width="1.0"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="32" target="31" label="co-authorship: 19384520">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#8c3951" width="1.25"/>
+<att name="departments" type="string" value="Emergency Medicine"/>
+</edge>
+<edge source="3" target="29" label="co-authorship: 19776174 - co-authorship: 19946325 - co-authorship: 20006791 - co-authorship: 20363923">
+<att name="weight" type="real" value="1.3333334"/>
+<graphics fill="#eb0213" width="6.666667"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="16" target="5" label="co-authorship: 18500709 - co-authorship: 19620891 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.91666675"/>
+<graphics fill="#2bc5e3" width="4.583334"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="45" target="16" label="co-authorship: 20042888">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#2bc5e3" width="1.0"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="17" target="28" label="co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Pediatrics;Preventive Medicine &amp; Pulmonary, Critical Care and Sleep Medicine"/>
+</edge>
+<edge source="34" target="35" label="co-authorship: 19447364 - co-authorship: 20660637 - co-authorship: 20975020">
+<att name="weight" type="real" value="1.3333334"/>
+<graphics fill="#DDCCFF" width="6.666667"/>
+<att name="departments" type="string" value="inter-departmental:General Internal Medicine &amp; Geriatrics and Palliative Medicine;Health Evidence and Policy;Medicine"/>
+</edge>
+<edge source="60" target="62" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#d03926" width="0.8333334"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="24" target="28" label="co-authorship: 19141527 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.4761905"/>
+<graphics fill="#DDCCFF" width="2.3809526"/>
+<att name="departments" type="string" value="inter-departmental:Preventive Medicine &amp; Pulmonary, Critical Care and Sleep Medicine"/>
+</edge>
+<edge source="8" target="10" label="co-authorship: 18037890">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#18f997" width="1.25"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="28" target="5" label="co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Pulmonary, Critical Care and Sleep Medicine &amp; Preventive Medicine"/>
+</edge>
+<edge source="10" target="11" label="co-authorship: 18037890">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#18f997" width="1.25"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17464953 - co-authorship: 19745751 - co-authorship: 20837833 - co-authorship: 21431620">
+<att name="weight" type="real" value="2.0"/>
+<graphics fill="56edb6" width="10.0"/>
+<att name="departments" type="string" value="Genetics and Genomic Sciences"/>
+</edge>
+<edge source="21" target="9" label="co-authorship: 19029989">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#18f997" width="2.5"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="45" target="46" label="co-authorship: 20042888">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="2bc5e3" width="1.0"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="63" target="62" label="co-authorship: 20950406 - co-authorship: 21455042">
+<att name="weight" type="real" value="0.36666667"/>
+<graphics fill="#DDCCFF" width="1.8333334"/>
+<att name="departments" type="string" value="inter-departmental:Medicine &amp; General Internal Medicine"/>
+</edge>
+<edge source="18" target="27" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#2bc5e3" width="0.71428573"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="71" target="73" label="co-authorship: 21598272">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#DDCCFF" width="1.25"/>
+<att name="departments" type="string" value="inter-departmental:Geriatrics and Palliative Medicine;Medicine &amp; Emergency Medicine"/>
+</edge>
+<edge source="3" target="5" label="co-authorship: 17525257">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Geriatrics and Palliative Medicine;Nephrology &amp; Preventive Medicine"/>
+</edge>
+<edge source="57" target="58" label="co-authorship: 20803676">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Hospital Medicine &amp; Medicine"/>
+</edge>
+<edge source="12" target="14" label="co-authorship: 18225454">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Geriatrics and Palliative Medicine;Medicine &amp; General Internal Medicine;Medical Education;Rehabilitation Medicine"/>
+</edge>
+<edge source="50" target="51" label="co-authorship: 20526285">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Pulmonary, Critical Care and Sleep Medicine &amp; Medical Education;Medicine;Pathology"/>
+</edge>
+<edge source="9" target="15" label="co-authorship: 18292524 - co-authorship: 18981237 - co-authorship: 19265143 - co-authorship: 19733489">
+<att name="weight" type="real" value="2.0"/>
+<graphics fill="#18f997" width="10.0"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="53" target="54" label="co-authorship: 20670716">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Health Evidence and Policy;Medicine &amp; Gene and Cell Medicine;Nephrology"/>
+</edge>
+<edge source="19" target="20" label="co-authorship: 18779466">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="eb0213" width="2.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="34" target="61" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#d03926" width="0.8333334"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="63" target="67" label="co-authorship: 21455042">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#DDCCFF" width="1.0"/>
+<att name="departments" type="string" value="inter-departmental:Medicine &amp; General Internal Medicine"/>
+</edge>
+<edge source="72" target="73" label="co-authorship: 21598272">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#DDCCFF" width="1.25"/>
+<att name="departments" type="string" value="inter-departmental:Preventive Medicine &amp; Emergency Medicine"/>
+</edge>
+<edge source="2" target="47" label="co-authorship: 20128861">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Gene and Cell Medicine;Genetics and Genomic Sciences;Obstetrics, Gynecology and Reproductive Science;Oncological Sciences;Pediatrics &amp; Medicine"/>
+</edge>
+<edge source="34" target="59" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#d03926" width="0.8333334"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="64" target="19" label="co-authorship: 21167451">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#eb0213" width="2.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="32" target="33" label="co-authorship: 19384520">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#8c3951" width="1.25"/>
+<att name="departments" type="string" value="Emergency Medicine"/>
+</edge>
+<edge source="38" target="5" label="co-authorship: 19620891">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#DDCCFF" width="1.25"/>
+<att name="departments" type="string" value="inter-departmental:Medicine &amp; Preventive Medicine"/>
+</edge>
+<edge source="18" target="38" label="co-authorship: 19620891">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#9b88ad" width="1.25"/>
+<att name="departments" type="string" value="Medicine"/>
+</edge>
+<edge source="59" target="61" label="co-authorship: 20950406 - co-authorship: 21455042">
+<att name="weight" type="real" value="0.36666667"/>
+<graphics fill="#d03926" width="1.8333334"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="18" target="5" label="co-authorship: 18500709 - co-authorship: 19620891 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.91666675"/>
+<graphics fill="#2bc5e3" width="4.583334"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="61" target="62" label="co-authorship: 20950406 - co-authorship: 21455042">
+<att name="weight" type="real" value="0.36666667"/>
+<graphics fill="#d03926" width="1.8333334"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="24" target="17" label="co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#2bc5e3" width="1.6666667"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="12" target="13" label="co-authorship: 18225454">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="eb0213" width="1.6666667"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="41" target="42" label="co-authorship: 19896019">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Preventive Medicine &amp; Health Evidence and Policy;Medicine"/>
+</edge>
+<edge source="60" target="63" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#DDCCFF" width="0.8333334"/>
+<att name="departments" type="string" value="inter-departmental:General Internal Medicine &amp; Medicine"/>
+</edge>
+<edge source="59" target="62" label="co-authorship: 20950406 - co-authorship: 21455042">
+<att name="weight" type="real" value="0.36666667"/>
+<graphics fill="#d03926" width="1.8333334"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="39" target="66" label="co-authorship: 21298472">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Medical Education;Medicine &amp; Preventive Medicine"/>
+</edge>
+<edge source="24" target="25" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#2bc5e3" width="0.71428573"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="16" target="28" label="co-authorship: 19141527 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.4761905"/>
+<graphics fill="#DDCCFF" width="2.3809526"/>
+<att name="departments" type="string" value="inter-departmental:Preventive Medicine &amp; Pulmonary, Critical Care and Sleep Medicine"/>
+</edge>
+<edge source="35" target="20" label="co-authorship: 20660637">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="eb0213" width="1.6666667"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="24" target="5" label="co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#2bc5e3" width="1.6666667"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="25" target="27" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#2bc5e3" width="0.71428573"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="59" target="60" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#d03926" width="0.8333334"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="69" target="70" label="co-authorship: 21572265">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Medicine;Radiology &amp; Gene and Cell Medicine;Pathology"/>
+</edge>
+<edge source="8" target="11" label="co-authorship: 18037890">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#18f997" width="1.25"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="6" target="7" label="co-authorship: 17638855">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Gene and Cell Medicine;Hematology and Medical Oncology &amp; Medicine"/>
+</edge>
+<edge source="16" target="17" label="co-authorship: 18500708 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="#2bc5e3" width="3.3333335"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="25" target="28" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#DDCCFF" width="0.71428573"/>
+<att name="departments" type="string" value="inter-departmental:Preventive Medicine &amp; Pulmonary, Critical Care and Sleep Medicine"/>
+</edge>
+<edge source="9" target="10" label="co-authorship: 18037890">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="18f997" width="1.25"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="73" target="17" label="co-authorship: 21598272">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#DDCCFF" width="1.25"/>
+<att name="departments" type="string" value="inter-departmental:Emergency Medicine &amp; Pediatrics;Preventive Medicine"/>
+</edge>
+<edge source="39" target="14" label="co-authorship: 19642148 - co-authorship: 20168011 - co-authorship: 21298472">
+<att name="weight" type="real" value="1.3333334"/>
+<graphics fill="f33022" width="6.666667"/>
+<att name="departments" type="string" value="Medical Education"/>
+</edge>
+<edge source="61" target="67" label="co-authorship: 21455042">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#d03926" width="1.0"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="34" target="20" label="co-authorship: 20660637">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:General Internal Medicine &amp; Clinical Geriatrics;Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="44" target="16" label="co-authorship: 20042888">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#2bc5e3" width="1.0"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17525257 - co-authorship: 18032526 - co-authorship: 19776174 - co-authorship: 19820033 - co-authorship: 19946325 - co-authorship: 19955485 - co-authorship: 20006785 - co-authorship: 20006791 - co-authorship: 20363923 - co-authorship: 20497781 - co-authorship: 21610689">
+<att name="weight" type="real" value="4.5"/>
+<graphics fill="#DDCCFF" width="22.5"/>
+<att name="departments" type="string" value="inter-departmental:Geriatrics and Palliative Medicine;Nephrology &amp; Experimental Diabetes and Aging;Gene and Cell Medicine;Medicine"/>
+</edge>
+<edge source="16" target="46" label="co-authorship: 20042888">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#2bc5e3" width="1.0"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="40" target="4" label="co-authorship: 19820033">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Preventive Medicine &amp; Experimental Diabetes and Aging;Gene and Cell Medicine;Medicine"/>
+</edge>
+<edge source="31" target="33" label="co-authorship: 19384520">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#8c3951" width="1.25"/>
+<att name="departments" type="string" value="Emergency Medicine"/>
+</edge>
+<edge source="43" target="16" label="co-authorship: 20042888">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#DDCCFF" width="1.0"/>
+<att name="departments" type="string" value="inter-departmental:Pulmonary, Critical Care and Sleep Medicine &amp; Preventive Medicine"/>
+</edge>
+<edge source="3" target="40" label="co-authorship: 19820033">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#DDCCFF" width="1.6666667"/>
+<att name="departments" type="string" value="inter-departmental:Geriatrics and Palliative Medicine;Nephrology &amp; Preventive Medicine"/>
+</edge>
+<edge source="61" target="63" label="co-authorship: 20950406 - co-authorship: 21455042">
+<att name="weight" type="real" value="0.36666667"/>
+<graphics fill="#DDCCFF" width="1.8333334"/>
+<att name="departments" type="string" value="inter-departmental:General Internal Medicine &amp; Medicine"/>
+</edge>
+<edge source="55" target="56" label="co-authorship: 20671464">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Medicine;Obstetrics, Gynecology and Reproductive Science &amp; General Internal Medicine;Medical Education"/>
+</edge>
+<edge source="17" target="18" label="co-authorship: 18500708 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.6666667"/>
+<graphics fill="2bc5e3" width="3.3333335"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="24" target="18" label="co-authorship: 19141527 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.4761905"/>
+<graphics fill="#2bc5e3" width="2.3809526"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="18" target="28" label="co-authorship: 19141527 - co-authorship: 21181996 - co-authorship: 21298693">
+<att name="weight" type="real" value="0.4761905"/>
+<graphics fill="#DDCCFF" width="2.3809526"/>
+<att name="departments" type="string" value="inter-departmental:Medicine;Preventive Medicine &amp; Pulmonary, Critical Care and Sleep Medicine"/>
+</edge>
+<edge source="26" target="18" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#2bc5e3" width="0.71428573"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="48" target="49" label="co-authorship: 20309921">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#DDCCFF" width="2.5"/>
+<att name="departments" type="string" value="inter-departmental:Medical Education;Pediatrics;Preventive Medicine &amp; Genetics and Genomic Sciences;Medicine"/>
+</edge>
+<edge source="16" target="26" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#2bc5e3" width="0.71428573"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="68" target="19" label="co-authorship: 21482839">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="eb0213" width="2.5"/>
+<att name="departments" type="string" value="Geriatrics and Palliative Medicine"/>
+</edge>
+<edge source="65" target="9" label="co-authorship: 21282381 - co-authorship: 21536742">
+<att name="weight" type="real" value="1.0"/>
+<graphics fill="18f997" width="5.0"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="26" target="27" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#2bc5e3" width="0.71428573"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="25" target="26" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#2bc5e3" width="0.71428573"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="71" target="72" label="co-authorship: 21598272">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#DDCCFF" width="1.25"/>
+<att name="departments" type="string" value="inter-departmental:Geriatrics and Palliative Medicine;Medicine &amp; Preventive Medicine"/>
+</edge>
+<edge source="52" target="9" label="co-authorship: 20593373">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="18f997" width="2.5"/>
+<att name="departments" type="string" value="Gene and Cell Medicine"/>
+</edge>
+<edge source="71" target="17" label="co-authorship: 21598272">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#DDCCFF" width="1.25"/>
+<att name="departments" type="string" value="inter-departmental:Geriatrics and Palliative Medicine;Medicine &amp; Pediatrics;Preventive Medicine"/>
+</edge>
+<edge source="43" target="44" label="co-authorship: 20042888">
+<att name="weight" type="real" value="0.2"/>
+<graphics fill="#DDCCFF" width="1.0"/>
+<att name="departments" type="string" value="inter-departmental:Pulmonary, Critical Care and Sleep Medicine &amp; General Internal Medicine;Preventive Medicine"/>
+</edge>
+<edge source="26" target="28" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#DDCCFF" width="0.71428573"/>
+<att name="departments" type="string" value="inter-departmental:Preventive Medicine &amp; Pulmonary, Critical Care and Sleep Medicine"/>
+</edge>
+<edge source="34" target="60" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#d03926" width="0.8333334"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="34" target="63" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#DDCCFF" width="0.8333334"/>
+<att name="departments" type="string" value="inter-departmental:General Internal Medicine &amp; Medicine"/>
+</edge>
+<edge source="24" target="26" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#2bc5e3" width="0.71428573"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="25" target="16" label="co-authorship: 19141527">
+<att name="weight" type="real" value="0.14285715"/>
+<graphics fill="#2bc5e3" width="0.71428573"/>
+<att name="departments" type="string" value="Preventive Medicine"/>
+</edge>
+<edge source="60" target="61" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#d03926" width="0.8333334"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+<edge source="34" target="62" label="co-authorship: 20950406">
+<att name="weight" type="real" value="0.16666667"/>
+<graphics fill="#d03926" width="0.8333334"/>
+<att name="departments" type="string" value="General Internal Medicine"/>
+</edge>
+</graph>

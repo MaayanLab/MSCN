@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE graph PUBLIC "-//John Punin//DTD graph description//EN" "http://www.cs.rpi.edu/~puninj/XGMML/xgmml.dtd">
+<graph id="my_network" directed="0">
+<att type="string" name="backgroundColor" value="#fafafa"/>
+<node id="1" label="FAYAD ZAHI ZA">
+<graphics fill="650d86"/>
+<att name="functions" type="string" value="DIRECTOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Radiology;Translational and Molecular Imaging Institute"/>
+</node>
+<node id="2" label="MANI VENKATESH V">
+<graphics fill="be560d"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR (PENDING)"/>
+<att name="departments" type="string" value="Radiology"/>
+</node>
+<node id="3" label="KRYNYCKYI BORYS BR">
+<graphics fill="be560d"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Radiology"/>
+</node>
+<node id="4" label="MACHAC JOSEF J">
+<graphics fill="9aface"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Radiology"/>
+</node>
+<node id="5" label="FARIES PETER P">
+<graphics fill="400651"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</node>
+<node id="6" label="ELLOZY SHARIF SH">
+<graphics fill="6556ba"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Medical Education;Radiology;Surgery"/>
+</node>
+<node id="7" label="KOSTAKOGLU LALE L">
+<graphics fill="be560d"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Radiology"/>
+</node>
+<node id="8" label="SOM PETER PM">
+<graphics fill="055cd0"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Otolaryngology;Radiation Oncology;Radiology"/>
+</node>
+<node id="9" label="DELMAN BRADLEY BN">
+<graphics fill="be560d"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Radiology"/>
+</node>
+<node id="10" label="NAIDICH THOMAS TP">
+<graphics fill="f666bc"/>
+<att name="functions" type="string" value="PROFESSOR;PROFESSOR;PROFESSOR"/>
+<att name="departments" type="string" value="Anatomy and Functional Morphology;Neurosurgery;Radiology"/>
+</node>
+<node id="11" label="LEEDS NORMAN NE">
+<graphics fill="be560d"/>
+<att name="functions" type="string" value="PROFESSORIAL LECTURER"/>
+<att name="departments" type="string" value="Radiology"/>
+</node>
+<node id="12" label="KNESAUREK KARIN K">
+<graphics fill="be560d"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Radiology"/>
+</node>
+<node id="13" label="HERMANN GEORGE G">
+<graphics fill="be560d"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Radiology"/>
+</node>
+<node id="14" label="RAUSCH DANA DR">
+<graphics fill="be560d"/>
+<att name="functions" type="string" value="LECTURER"/>
+<att name="departments" type="string" value="Radiology"/>
+</node>
+<node id="15" label="ARGIRIADI PAMELA PA">
+<graphics fill="be560d"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Radiology"/>
+</node>
+<node id="16" label="MENDELSON DAVID DS">
+<graphics fill="be560d"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Radiology"/>
+</node>
+<node id="17" label="WEINTRAUB JOSHUA JL">
+<graphics fill="400651"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</node>
+<node id="18" label="NOWAKOWSKI FRANCIS FS">
+<graphics fill="400651"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</node>
+<node id="19" label="HENSCHKE CLAUDIA CI">
+<graphics fill="be560d"/>
+<att name="functions" type="string" value="CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Radiology"/>
+</node>
+<node id="20" label="YANKELEVITZ DAVID DF">
+<graphics fill="be560d"/>
+<att name="functions" type="string" value="PROFESSOR"/>
+<att name="departments" type="string" value="Radiology"/>
+</node>
+<node id="21" label="BRILEY-SAEBO KAREN K">
+<graphics fill="6df6fa"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR (PENDING);INSTRUCTOR"/>
+<att name="departments" type="string" value="Gene and Cell Medicine;Radiology"/>
+</node>
+<node id="22" label="REEVES ANTHONY AP">
+<graphics fill="be560d"/>
+<att name="functions" type="string" value="ADJUNCT PROFESSOR"/>
+<att name="departments" type="string" value="Radiology"/>
+</node>
+<node id="23" label="HEIBA SHERIF SI">
+<graphics fill="be560d"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Radiology"/>
+</node>
+<node id="24" label="SAVITCH INA I">
+<graphics fill="be560d"/>
+<att name="functions" type="string" value="ASSISTANT CLINICAL PROFESSOR"/>
+<att name="departments" type="string" value="Radiology"/>
+</node>
+<node id="25" label="VOUYOUKA AGELIKI AG">
+<graphics fill="400651"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</node>
+<node id="26" label="NIELSEN JAMES JC">
+<graphics fill="9aface"/>
+<att name="functions" type="string" value="ASSOCIATE PROFESSOR;ASSOCIATE PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Radiology"/>
+</node>
+<node id="27" label="WALSH ROWAN R">
+<graphics fill="9aface"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Cardiology;Radiology"/>
+</node>
+<node id="28" label="KIM EDWARD E">
+<graphics fill="400651"/>
+<att name="functions" type="string" value="ASSISTANT PROFESSOR;ASSISTANT PROFESSOR"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</node>
+<edge source="7" target="24" label="co-authorship: 20851003">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#be560d" width="1.25"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="12" target="3" label="co-authorship: 18498030">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#be560d" width="1.6666667"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="12" target="4" label="co-authorship: 18498030 - co-authorship: 20441235">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#be560d" width="4.166667"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="4" target="24" label="co-authorship: 20851003">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#be560d" width="1.25"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="28" target="18" label="co-authorship: 21553162">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#400651" width="1.6666667"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</edge>
+<edge source="7" target="4" label="co-authorship: 18030049 - co-authorship: 20833849 - co-authorship: 20851003 - co-authorship: 20961409 - co-authorship: 21415197">
+<att name="weight" type="real" value="2.25"/>
+<graphics fill="#be560d" width="11.25"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="28" target="17" label="co-authorship: 21553162">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#400651" width="1.6666667"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</edge>
+<edge source="23" target="4" label="co-authorship: 20851003">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#be560d" width="1.25"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="18" target="17" label="co-authorship: 20063098 - co-authorship: 21553162">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#400651" width="4.166667"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</edge>
+<edge source="4" target="2" label="co-authorship: 18467641">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#be560d" width="1.6666667"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="21" target="1" label="co-authorship: 20352038">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="be560d" width="2.5"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="6" target="25" label="co-authorship: 20932714">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#400651" width="2.5"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</edge>
+<edge source="1" target="2" label="co-authorship: 17215360 - co-authorship: 17729343 - co-authorship: 18383304 - co-authorship: 18467641 - co-authorship: 18504763 - co-authorship: 18581415 - co-authorship: 19174763 - co-authorship: 19393089 - co-authorship: 19442953 - co-authorship: 19467659 - co-authorship: 19761992 - co-authorship: 19946750 - co-authorship: 20526859 - co-authorship: 20578026 - co-authorship: 20593373 - co-authorship: 21028895 - co-authorship: 21106318 - co-authorship: 21557611">
+<att name="weight" type="real" value="8.833334"/>
+<graphics fill="#be560d" width="44.16667"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="3" target="4" label="co-authorship: 17242559 - co-authorship: 18157529 - co-authorship: 18498030">
+<att name="weight" type="real" value="1.3333334"/>
+<graphics fill="#be560d" width="6.666667"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="5" target="1" label="co-authorship: 21304473">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="be560d" width="2.5"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="1" target="4" label="co-authorship: 17719477 - co-authorship: 18467641 - co-authorship: 18483100 - co-authorship: 18979182 - co-authorship: 19443582 - co-authorship: 19808576">
+<att name="weight" type="real" value="2.8333335"/>
+<graphics fill="#9aface" width="14.166668"/>
+<att name="departments" type="string" value="Cardiology;Radiology"/>
+</edge>
+<edge source="11" target="10" label="co-authorship: 18494774">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#be560d" width="2.5"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="23" target="24" label="co-authorship: 20851003">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#be560d" width="1.25"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="19" target="22" label="co-authorship: 20656844">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#be560d" width="1.6666667"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="23" target="7" label="co-authorship: 20851003">
+<att name="weight" type="real" value="0.25"/>
+<graphics fill="#be560d" width="1.25"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="10" target="8" label="co-authorship: 18768714">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="be560d" width="2.5"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="6" target="5" label="co-authorship: 17942851">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#400651" width="1.6666667"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</edge>
+<edge source="19" target="20" label="co-authorship: 20160639 - co-authorship: 20656844">
+<att name="weight" type="real" value="0.8333334"/>
+<graphics fill="#be560d" width="4.166667"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="13" target="14" label="co-authorship: 18533395">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#be560d" width="2.5"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="5" target="5" label="co-authorship: 17942851">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#400651" width="1.6666667"/>
+<att name="departments" type="string" value="Radiology;Surgery"/>
+</edge>
+<edge source="7" target="8" label="co-authorship: 18258379 - co-authorship: 19342543 - co-authorship: 19544537 - co-authorship: 20833855">
+<att name="weight" type="real" value="2.0"/>
+<graphics fill="#be560d" width="10.0"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="26" target="27" label="co-authorship: 21437608">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#9aface" width="2.5"/>
+<att name="departments" type="string" value="Cardiology;Radiology"/>
+</edge>
+<edge source="4" target="17" label="co-authorship: 20198431">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="be560d" width="2.5"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="9" target="8" label="co-authorship: 18951498">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#be560d" width="2.5"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="15" target="16" label="co-authorship: 19170217">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#be560d" width="2.5"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="22" target="20" label="co-authorship: 20656844">
+<att name="weight" type="real" value="0.33333334"/>
+<graphics fill="#be560d" width="1.6666667"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+<edge source="9" target="10" label="co-authorship: 18317442">
+<att name="weight" type="real" value="0.5"/>
+<graphics fill="#be560d" width="2.5"/>
+<att name="departments" type="string" value="Radiology"/>
+</edge>
+</graph>

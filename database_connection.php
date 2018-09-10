@@ -1,6 +1,6 @@
 <?php
 
-$db_name = 'maaya0_mountsinai_pub';
+$db_name = 'DB_NAME';
 
 //Connection to the databse
 $link = mysql_connect('localhost', $USER, $PASSWORD);

@@ -1,0 +1,148 @@
+Skip to content
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+
+biochemical ai
+Repositories0
+Code28K
+Commits0
+Issues27
+Marketplace0
+Topics0
+Wikis3
+Users1
+Language
+
+Sort
+
+28,009 code results
+@trainorp
+trainorp/Aim2 – athroExampleV3.R
+Showing the top seven matches
+Last indexed on Aug 15, 2018
+R
+aiBGL1Con<-pIaiBGL1$posteriorMedian
+colnames(aiBGL1Con)<-rownames(aiBGL1Con)<-key$biochemical[match(colnames(m1),key$id)]
+
+# Partial correlation matrix:
+pIaiBGL1<-posteriorInference(aiBGL1)
+aiBGL1Cor<-pIaiBGL1$posteriorMedian
+colnames(aiBGL1Cor)<-rownames(aiBGL1Cor)<-key$biochemical[match(colnames(m1),key$id)]
+@graknlabs
+graknlabs/benchmark – BUILD
+Showing the top three matches
+Last indexed 3 days ago
+Python
+#
+# GRAKN.AI - THE KNOWLEDGE GRAPH
+# Copyright (C) 2018 Grakn Labs Ltd
+#
+# This program is free software: you can redistribute it and/or modify
+        "//profiler:conf/financial_transactions/financial.gql": "conf/financial_transactions/financial.gql",
+
+        "//profiler:conf/biochemical_network/queries.yml": "conf/biochemical_network/queries.yml",
+@abish125
+abish125/test_front_end – biochemistry.txt
+Showing the top two matches
+Last indexed on Jul 1, 2018
+Text
+Annual review of biochemistry
+http://arjournals.annualreviews.org/action/showFeed?ai=se&amp;jc=biochem&amp;type=etoc&amp;feed=rss
+http://arjournals.annualreviews.org/action/showFeed?ai=s7&amp;jc=biophys&amp;type=etoc&amp;feed=rss
+Applied biochemistry and biotechnology
+@mgijax
+mgijax/mgihome – Pathways_Collaborators.shtml
+Showing the top match
+Last indexed on Jul 5, 2018
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    
+    <title>MGI-Mouse Biochemical Pathways: Other Links - Biochemical Pathways: Collaborators</title>
+</head>
+
+<body>
+<table>
+  <tr>
+    <td>
+@kboberg
+kboberg/endless-sky – wanderers.txt
+Showing the top two matches
+Last indexed on Jul 2, 2018
+Text
+			"shield damage" 100
+			"hull damage" 150
+			"hit force" 250
+	outfits
+		"Small Biochemical Cell"
+		
+		"Type 1 Radiant Thruster"
+	outfits
+		"Thunderhead Launcher" 6
+		"Thunderhead Missile" 240
+		
+		"Large Biochemical Cell"
+		"Bright Cloud Shielding"
+@jaypeerachai
+jaypeerachai/BSBI-Indexing – 10.1.1.15.7879.txt
+Showing the top four matches
+Last indexed on Sep 16, 2018
+Text
+crp ai ai fig 
+
+lux region 
+biochemical network reactions cell shown works follows ai binds protein form complex binds lux box 
+growth levels camp crp inhibit transcription respectively 
+ai crp fig 
+
+biochemical network quorum sensing 
+mathematical model quorum sensing proposed alur 
+@tomMcGrath
+tomMcGrath/tommcgrath.github.io – README.md
+Showing the top match
+Last indexed on Jul 11, 2018
+Markdown
+I'm currently studying feeding behaviour as a prototype for more complex motivated behaviours - it's a fundamental behaviour which is shared across species, but is rich enough to include aspects of reward, learning, and planning. With mice we also have good _in vivo_ access to measure and control the neural populations underlying feeding ([review](http://www.cell.com/cell-metabolism/abstract/S1550-4131(15)00617-8)), so we can expect a better back-and-forth between experimental and theoretical studies than is possible with complex human behaviours we might eventually want to understand.
+
+Longer-term I'm interested in AI safety, particularly on how uncertainty can be factored into decision-making. A good example of this is [Bayesian defence against adversarial examples](https://arxiv.org/abs/1703.00410) - uncertainty over classification is a good way to detect adversarial attacks. Uncertainty can be a useful tool for learning as well; Bayesian optimisation can tell us what agents need to know. For these reasons, I'm interested in exploring uses of [distributional approaches to reinforcement learning](https://arxiv.org/abs/1707.06887) in AI safety.
+
+I'm also interested in practical applications of inverse reinforcement learning (see below) - this seems likely to play an important role in value alignment in the long term, but right now we have few case studies to discover practical issues or subtleties that might be of interest.
+@r-cloke
+r-cloke/xml2csv – 1410355.xml
+Showing the top match
+Last indexed on Jun 30, 2018
+XML
+    <AbstractNarration>In this research project, the PI will investigate complex regulatory mechanisms employed by unique biological systems. These investigations will build a foundation for understanding such mechanisms that are only just becoming widely appreciated, and for prediction and manipulation of their behavior for biotechnological applications. The research and associated training activities in this project will benefit both the academic research community and as well as the biotechnology industry. The program will train junior scientists to develop and implement biophysical and biochemical based conceptual approaches to understand complex enzyme regulatory mechanisms, to become leaders in this multidisciplinary field. As a result of this project, new experimental measurements will be made available to be incorporated into the biological physics curriculum to allow direct "hands-on" analyses by junior scientists in training. The PI will continue to expand upon her outreach initiatives in an effort to encourage and train scientists from a diverse range of academic and social backgrounds.&lt;br/&gt;&lt;br/&gt;Phage-host systems are under intense evolutionary pressure, consequently they have developed remarkably ingenious mechanisms of attack and defense. This project investigates one such remarkable system: that found in Streptomyces griseus. Based on its biochemical activities, SgrAI, a nuclease from S. griseus, is postulated to be activated by binding to invading phage DNA, simultaneously expanding its DNA sequence cleavage specificity and forming polymers that may act to protect the host DNA from its resulting off-target cleavage activity. Enzyme mechanisms involving polymer or filament formation are exceedingly rare, although recent screens suggest this may be more common than previously thought. Being a potentially new paradigm for enzyme regulation, several fundamental questions arise that will be investigated in this research project, including the structure, kinetics, and biological role of the polymer. Biochemical data suggests that the polymer formed from activated SgrAI is a run-on oligomer, which has now been confirmed by the 8.6 Å cryo-electron microscopy structure. Although this structure shows how the SgrAI dimers bound to activating DNA associate in a repeating helical arrangement, fundamental questions such as how DNA cleavage is activated, how DNA sequence specificity is altered, and whether or not domain swapping (found in a crystal structure of two DNA bound SgrAI dimers) is present require higher resolution and therefore remain to be answered. Also important to understanding the function of the run-on oligomer is determining how formation of such an assembly, where the bound DNA appears critical for oligomer stability, accelerates rather than impedes multiple DNA cleavages. Finally, the biological role for run-on oligomer formation has been hypothesized to function in protecting the host DNA from dangerous off-target cleavages made possible via activation of SgrAI, by sequestering SgrAI on the invading phage DNA. This project will investigate the structure of the run-on oligomer using biochemical and x-ray crystallographic methods, measure kinetic steps involving polymer formation and dissociation in the reaction pathway using pre-steady state fluorescence methods, and test the postulated biological role of the polymer using in vitro and in vivo assays including phage infection challenges.</AbstractNarration>
+@1tangerine1day
+1tangerine1day/search_engine – 30538012.xml
+Showing the top two matches
+Last indexed 28 days ago
+XML
+            </Journal>
+            <ArticleTitle>Thermal Structure-Induced Biochemical Parameters Stratification in a Subtropical Dam Reservoir.</ArticleTitle>
+                <AbstractText><b> </b> Although stratification in deep lakes is well-discussed, few studies pay attention to thermal structure as well as its influences on stratification of biochemical parameters in subtropical lakes in mountainous cities. Here, we studied the depth profile of temperature and biochemical parameters in Longjing Lake, a subtropical reservoir in a mountainous city. Thermal stratification became strong during summer. Biochemical parameters were strongly associated with thermal structure. Stratification started at 2~6 m depth with a substantial decrease in dissolved oxygen, biochemical oxygen demand (BOD<sub>5</sub>), chlorophyll <i>a</i>, and pH, corresponding to an increase in total nitrogen, ammonium (&lt;inline-graphic xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; xlink:href=&quot;02036-ilm01.gif&quot;/&gt;), nitrite (&lt;inline-graphic xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; xlink:href=&quot;02036-ilm12.gif&quot;/&gt;), total inorganic nitrogen (TIN), total phosphorus, and soluble reactive phosphorus (SRP) with depth; the majority of biochemical parameters showed slight variations from 12 m downward. Our results indicated the stratification of Longjing Lake was stronger and more stable than the stratification of tropical and temperate lakes in lowland cities.</AbstractText>
+@Meen11
+Meen11/BSBI-Indexing – 10.1.1.15.7879.txt
+Showing the top four matches
+Last indexed on Sep 26, 2018
+Text
+crp ai ai fig 
+
+lux region 
+biochemical network reactions cell shown works follows ai binds protein form complex binds lux box 
+growth levels camp crp inhibit transcription respectively 
+ai crp fig 
+
+biochemical network quorum sensing 
+mathematical model quorum sensing proposed alur 
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
